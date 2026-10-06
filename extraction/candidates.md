@@ -42,3 +42,13 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 
 ## p8 · CRITERION · where it hides: skilled writers
 - note: the author targets not untrained writers but the elite (writers, Arabic teachers, even authors of books correcting usage), because readers trust their prose and the foreignness there is subtler. For phase 2: apply the check to polished, otherwise correct prose, not only to sloppy text.
+
+## p16 · ACCEPTED · زوج for a wife (unfeminized)
+- cue: زوجُه / زوجُك referring to a woman
+- ✓ (author) أمسك عليك زوجك: Quranic usage keeps زوج unmarked for a wife, though most Arabs said زوجة
+- note: both forms are sound; don't flag زوج for a wife as an error, and don't flag زوجة either
+- open: does the author later prefer one form in modern writing?
+
+## p16 · CRITERION · what counts as الفصيح
+- note: sound Arabic is what agrees with Arab speech in its rules, styles and usages; where Arab usage differs, the Quran's Arabic settles it
+- note: later writers coined new terms, idioms and proverbs and still wrote sound Arabic, because the new forms came from an Arabic faculty; novelty alone is not the test, foreign provenance is

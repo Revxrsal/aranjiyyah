@@ -13,3 +13,10 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 9 (p 11) · background: ch.1 opens (معنى العربية الفصيحة); history of Arabic before Islam, the Quran and its standing.
 - pdf 10 (p 12) · background: pre-Islamic Arabs shared one Arabic across classes; minor dialect differences (Mecca vs. Medina), Ibn Jinni quote.
 - pdf 11 (p 13) · background: dialect differences end (الكشكشة); start of لحن after the conquests. Extension page to finish the idea.
+- pdf 12 (p 14) · background: early لحن anecdotes (افتحوا سيوفكم, al-Walid's i'rab errors); Bedouin speech better preserved than cities.
+- pdf 13 (p 15) · background: Bedouin vs. city speech (imperative with dropped weak letter); scholars collecting Arabic; Quraysh dialect as reference. Ends mid-point on Quranic زوج.
+- pdf 14 (p 16) · ACCEPTED×1 CRITERION×1 (finished carry on زوج; new section on keeping فصحى across regions)
+- pdf 15 (p 17) · background: Arabic needed to understand the Quran; earlier nations lost their scriptures as word senses drifted; fusha isn't only for religion.
+- pdf 16 (p 18) · background: Ibn Taymiyya on language and religion; section on fusha's stability as a virtue; orientalist quote begins.
+- pdf 17 (p 19) · background: orientalist quote continues (English can't read 400-year-old English; Arabic writers across centuries and regions share one language). Extension page.
+- pdf 18 (p 20) · background: quote ends; new section مغبة التدوين بكلام العامة begins (Maghrebi colloquial poetry hard to read). Extension page; stopped at the new heading.
