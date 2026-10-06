@@ -196,3 +196,7 @@ assets/                     README images and the plugin logo
 All linguistic judgments belong to **أحمد الغامدي** and his book
 **«العرنجية: بلسان عربي هجين»**. This repo is a reading aid that points back to
 it, not a substitute. If the rules are useful to you, read the book.
+
+<p align="center">
+  Made by <b>Ali Al-Kasasbeh</b> · <a href="https://github.com/Revxrsal">@Revxrsal</a>
+</p>

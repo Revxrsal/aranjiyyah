@@ -2,7 +2,7 @@
   "name": "aranjiyyah",
   "description": "The Aranjiyyah skill: find English and French calques in Arabic and rewrite them as natural Arabic.",
   "owner": {
-    "name": "Revxrsal"
+    "name": "Ali Al-Kasasbeh"
   },
   "plugins": [
     {

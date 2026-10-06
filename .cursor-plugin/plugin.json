@@ -2,10 +2,17 @@
   "name": "aranjiyyah",
   "description": "Detect عرنجية in Arabic text (constructions, word senses, collocations and styles calqued from English or French) and rewrite it as natural Arabic. 201 rules distilled from أحمد الغامدي، «العرنجية: بلسان عربي هجين».",
   "author": {
-    "name": "Revxrsal"
+    "name": "Ali Al-Kasasbeh"
   },
   "homepage": "https://github.com/Revxrsal/aranjiyyah",
   "repository": "https://github.com/Revxrsal/aranjiyyah",
   "logo": "assets/logo.png",
-  "keywords": ["arabic", "editing", "translation", "proofreading", "calque", "writing"]
+  "keywords": [
+    "arabic",
+    "editing",
+    "translation",
+    "proofreading",
+    "calque",
+    "writing"
+  ]
 }

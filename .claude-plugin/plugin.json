@@ -3,7 +3,8 @@
   "displayName": "Aranjiyyah · العرنجية",
   "description": "Detect عرنجية in Arabic text (constructions, word senses, collocations and styles calqued from English or French) and rewrite it as natural Arabic. 201 rules distilled from أحمد الغامدي، «العرنجية: بلسان عربي هجين».",
   "author": {
-    "name": "Revxrsal"
+    "name": "Ali Al-Kasasbeh",
+    "url": "https://github.com/Revxrsal"
   },
   "keywords": [
     "arabic",
