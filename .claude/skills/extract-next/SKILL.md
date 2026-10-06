@@ -21,6 +21,14 @@ any point and the next one resumes cleanly.
 Read `extraction/state.json`. Process `$ARGUMENTS` pages if given, otherwise
 `pages_per_run`. Stop at `stop_page`. Read every page; don't skip any.
 
+Don't read `extraction/candidates.md` in full; it grows large. Search it
+instead:
+- `grep -n "<cue word>" extraction/candidates.md` before recording a
+  candidate, to find an earlier block to point an `EXAMPLE` at.
+- `grep -n "^- open:" extraction/candidates.md` to see open questions this
+  page might answer. If it answers one, record the answer in a new block
+  that names the earlier one (`resolves: p7 كمبيوتر`).
+
 ## 2. For each page
 
 1. Run `scripts/page.sh <next_page>` and Read the PNG it prints.
@@ -35,6 +43,12 @@ Read `extraction/state.json`. Process `$ARGUMENTS` pages if given, otherwise
    - ✗ يلعب الإعلام دورًا كبيرًا في … → ✓ للإعلام أثر كبير في …
    - note: one line in your own words on why it's foreign
    ```
+
+   Mark where each rewrite comes from: `✓ (author)` when the book gives the
+   alternative, `✓ (ours)` when you supply it. Phase 2 trusts the author's
+   rewrites more and may revise ours. When the page leaves something
+   unresolved (no verdict, an ambiguous example, an unreadable word), add an
+   `- open:` line saying what later pages should settle.
 
    Kinds:
    - `RULE`: a construction the author treats as foreign, with or without
