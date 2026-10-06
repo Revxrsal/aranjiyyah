@@ -3557,3 +3557,78 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 
 ## p201 · METHOD · back-translate to English to spot the calque
 - note: the author says knowing English was his main tool for seeing Europeanization: a phrase that maps word for word onto an English idiom is suspect (his reprise of p33 أجي من بيت … / التقطت هذه العادة). Mixing classical and modern reading without noticing where they differ blends two ملكات. For phase 2: a core detection step for SKILL.md (render the suspect phrase in English; if it lands on a stock English idiom, look for the Arabic way), already implied by many RULE notes.
+
+## p202 · METHOD · listen to recorded classical books
+- of: p196 acquire the ملكة through native texts
+- note: the author's added remedy: listen often to audio recordings of pre-modern books (كليلة ودمنة، البخلاء, hadith and tafsir collections) as he did with English audiobooks; restricting himself to classical recordings made their phrasing surface in his own speech and writing unforced. For phase 2: at most a clause in the REM pointer on immersion; no construction here.
+
+## p203 · METHOD · imitate and practice actively
+- of: p196 acquire the ملكة through native texts
+- note: pause a recording and imitate the author's sentences, reply to or comment on them; talk to yourself in فصحى about everyday things. Expect it to feel forced at first; the author says the stiffness passes as the language settles in. Section ends here. For phase 2: REM color only; no construction.
+
+## p204 · METHOD · reverse-translate with parallel classical texts
+- note: the translator's drill: take an English translation of a classical Arabic book, treat the English as the source, translate it into Arabic yourself, then compare with the original Arabic and correct your version toward it. You see the English construction and the native Arabic answer to it side by side. The translator's extra burden: a foreign source keeps pulling the Arabic toward its own constructions. For phase 2: a REM entry, and a model for how the skill can work (for a calqued phrase, find how classical Arabic expressed the same meaning rather than mapping the English).
+- open: the drill and its examples continue on p205
+
+## p205 · RULE · كل من يفعل كذا … سوف/سـ (whoever … will)
+- cue: كل من + فعل … سوف/سـ + فعل
+- source: whoever does X will Y
+- ✗ الدين يسير، وكل من يشدد على نفسه في الدين سوف لا يقدر على الاستمرار → ✓ إن الدين يسر، ولن يشادّ الدينَ أحد إلا غلبه (author, hadith in al-Bukhari)
+- ✗ كل من يفهم هذا الأمر سوف ينجح → ✓ ما فهم أحد هذا الأمر إلا نجح (author, citing colloquial ما فهم أحد … إلا)
+- note: English states a general consequence with whoever … will; Arabic's native counterpart is negation + أحد + إلا (لن/ما يفعل أحدٌ كذا إلا كان كذا), a construction English lacks and that still lives in colloquial. The author: this native form is the counterpart of whoever … will, so prefer it. Related: p59 overuse of سـ / سوف.
+
+## p205 · RULE · overuse of يجب / ينبغي (should)
+- cue: يجب أن / ينبغي أن / لا يجب أن / يجب ألا
+- source: should, must
+- ✗ اختيارك لهؤلاء الناس لا ينبغي أن يكون على أساس … → ✓ ? (the classical original follows on p206)
+- ✗ لا يا خالد، لا يجب أن تقول ذلك؛ فالإنسان لا يستطيع الهروب من واقعه → ✓ ? (ours: لا تقل هذا يا خالد، فما يفرّ أحد من قدره)
+- note: English leans on should for advice and prohibition; modern Arabic copies it with يجب/ينبغي where Arabic would use the plain imperative or prohibition (افعل/لا تفعل) or another native form. Correcting لا يجب أن تفعل to يجب ألا تفعل (which purists urge) fixes the logic but keeps the foreign style, so the real fix is to drop the modal. Also seen here: على أساس (on the basis of; cf. p84 block at line 1064 with بما يبدو).
+- open: p206 should give the نهج البلاغة original for the ✓ of the first example
+
+## p205 · CRITERION · a correct-meaning fix can still be foreign style
+- note: the author's aside on يجب ألا vs لا يجب: a correction that repairs a logical or grammatical error may leave the calqued construction in place. For phase 2: when the skill proposes a fix, check that it removes the foreign construction, not just the error in it.
+
+## p206 · EXAMPLE · overuse of يجب / ينبغي (should)
+- of: p205 overuse of يجب / ينبغي
+- resolves: p205 يجب/ينبغي (نهج البلاغة original)
+- ✗ اختيارك لهؤلاء الناس لا ينبغي أن يكون على أساس فهمك وثقتك وحسن ظنك → ✓ لا يكن اختيارك إياهم على فراستك واستنامتك وحسن الظن بهم (author, نهج البلاغة)
+- ✗ ينبغي أن يتحرّى الصواب … / يجب ألا يظلمه → ✓ فليتحرَّ الصواب فليُتمَّ عليه … / لا يظلمه ولا يُسلمه (author, hadith; English versions render these with should)
+- note: English should often just means a command or prohibition, so it needn't become يجب/ينبغي in Arabic. Native forms: imperative, لام الأمر (فليفعل), لا الناهية (لا يكن، لا تفعل), or a declarative that carries the duty (المسلم أخو المسلم لا يظلمه).
+
+## p206 · RULE · يوميًا / أسبوعيًا / شهريًا / سنويًا / ساعيًا (daily, weekly …)
+- cue: يوميًا / يوميًّا / أسبوعيًا / شهريًا / سنويًا / ساعيًا
+- source: daily, hourly, weekly, monthly, yearly
+- ✗ كانوا يواجهون الروم في معارك يومية شديدة … ويتلقى الروم الإمدادات يوميًا → ✓ يقاتلونهم في كل يوم أشدّ القتال … وفي كل يوم يزيد عددهم ومددهم (author, فتوح الشام)
+- ✗ يزورنا أسبوعيًا → ✓ يزورنا كل أسبوع (ours)
+- note: English uses an adverb from the time noun to say something recurs each period; Arabic says كل يوم / في كل يوم / كل ساعة / كل سنة. The nisba-adverb forms are copies of the English adverbs.
+- open: the author's remaining comments on the فتوح الشام passage (were being confronted, did not lose heart, as if) may follow on p207
+
+## p207 · RULE · تعزيزات (reinforcements)
+- cue: تعزيزات / وصلت التعزيزات
+- source: reinforcements
+- ✗ وصلت إلى الروم تعزيزات → ✓ وصلهم المدد / يزيد مددهم (author, فتوح الشام)
+- note: the English-led word تعزيزات has displaced مَدَد, which is classical (Quran 3:124 أن يمدكم ربكم … ; English versions render it as reinforcements) and still common in colloquial. Prefer مدد/أمدّ. Also seen in the p173 sample (تعزيز بعض الوحدات).
+
+## p207 · RULE · شعور (عميق) باحترام الذات (a deep sense of self-respect)
+- cue: شعور باحترام الذات / احترام الذات / شعور عميق بـ
+- source: (a deep) sense of self-respect
+- ✗ كان أبو سعيد، رغم بخله، رجلًا فخورًا عنده شعور عميق باحترام الذات → ✓ وكان أبو سعيد هذا، مع بخله، أشدَّ الناس نفسًا وأحماهم أنفًا (author, al-Jahiz, البخلاء)
+- ✗ لعلنا بحاجة ماسة إلى ما يوقظ فينا شعور احترام الذات → ✓ ? (ours: … ما يوقظ فينا الأنفة وعزة النفس)
+- note: a word-for-word calque common in modern prose; Arabic says أنفة، إباء، عزة نفس، حميّ الأنف، شديد النفس. Also in the example: رغم بخله (despite) where al-Jahiz has مع بخله. Related to p? شعور/مشاعر (line 2318 block).
+
+## p207 · CRITERION · English translations of classical texts can be wrong
+- note: the reverse-translation drill depends on the English rendering, which may itself contain errors or misreadings; use it to see the English construction, not as an authority on meaning.
+
+## p208 · EXAMPLE · تبنّى
+- of: p29 تبنّى
+- ✗ تبنّى عمر الرأي الذي عبّر عنه معاذ → ✓ فصار عمر إلى قول معاذ (author, كتاب الأموال; English: Umar adopted the view expressed by Muadh)
+
+## p208 · METHOD · practice paragraph for the reverse-translation drill (كتاب الأموال)
+- of: p204 reverse-translate with parallel classical texts
+- note: the author gives an English passage (Imran Nyazee's translation of Abu Ubayd's كتاب الأموال) to translate before reading the Arabic original, warning not to peek until the whole paragraph is done. He adds no commentary, but the pairs are usable rewrites (✗ ours, rendering the English literally; ✓ author's original):
+- ✗ والله هذا سيؤدي إلى شيء مستهجن → ✓ والله إذًا ليكوننّ ما تكره
+- ✗ سيحصل الناس على قدر هائل من الثروة → ✓ صار الريع العظيم في أيدي القوم
+- ✗ ثم عند موتهم قد تنتقل إلى رجل واحد أو امرأة → ✓ ثم يبيدون، فيصير ذلك إلى الرجل الواحد أو المرأة
+- ✗ الذين يأتون بعدهم ويحلّون محلهم في الدفاع عن الإسلام لن يجدوا شيئًا → ✓ ثم يأتي من بعدهم قوم يسدّون من الإسلام مسدًّا، وهم لا يجدون شيئًا
+- ✗ فكّر في إجراء يكون مفيدًا بالتساوي للحاضرين ولمن يأتي لاحقًا → ✓ فانظر أمرًا يسع أولهم وآخرهم
+- note: shifts visible: سيؤدي إلى (will lead to) vs قسم + نون التوكيد; قدر هائل من (a tremendous amount of); عند موتهم (upon their death) vs a verb يبيدون; إجراء (measure) vs أمرًا; مفيد بالتساوي لـ (equally beneficial for) vs يسع أولهم وآخرهم. Phase 2: possible EXAMPLE material for يؤدي إلى, قدر من, مصدر-for-verb and adverb-of-manner calques; the author didn't flag them individually.
