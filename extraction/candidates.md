@@ -1193,3 +1193,259 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ أما في الحلقة الواسعة فكان قادرًا على أن يملك الانتباه → ✓ ? (in the sample; not yet commented)
 - note: recorded for recall; compare p62 كان قادرًا → يقدر.
 - open: check on p90+ whether the author comments on these phrases
+
+## p90 · EXAMPLE · الشخصية (closing)
+- of: p89 الشخصية = personality
+- resolves: p89 الشخصية (no accepted use of شخصية is offered; the thread closes on the poem below)
+- note: a 1345 AH poem by قسطاكي الحمصي mocks شخصية along with other new coinages, so the usage was already felt as foreign a century ago.
+
+## p90 · RULE · coinages lampooned in «اللغة العصرية»
+- cue: عقلية، عاطفية، نفسية، تحبيذ، تحليل (of a person), مشعورية، شخصية، تفكير
+- source: mentality, emotionality, psychology (of a person), approval (favour), analysis …
+- ✗ لم ترضَ عن تحبيذي … لا أُدغم في عقليتي … تعرب عن نفسيتي → ✓ ? (satire only, no rewrites)
+- note: the poet strings together the European-shaped abstract nouns of his day (mostly -ية forms of a person's inner traits) to ridicule them; the author quotes it with approval.
+- open: the poem gives no rewrites; check whether later pages treat عقلية / نفسية / تحبيذ on their own; phase 2 may keep this as a cue list only
+
+## p90 · RULE · التعاليم = teachings
+- cue: تعاليم الإسلام، تعاليمه، تعاليم الدين، التعاليم الإسلامية
+- source: teachings (plural of teaching)
+- ✗ الحسن البصري: سيرته وتعاليمه → ✓ … سيرته وهديه / ومذهبه (ours, from the author's word list)
+- ✗ تعاليم الإسلام → ✓ هدي الإسلام / شريعة الإسلام (author)
+- ✗ تعاليم النبي ﷺ → ✓ سنة محمد ﷺ وهديه (author)
+- ✗ تعاليم السلف → ✓ عقيدة السلف الصالح / مذهبهم (author)
+- note: Arabic تعليم is the act of teaching (سبيله في التعليم حسنة); English made the noun mean the doctrines taught and pluralized it, and translators followed. Native words: هدي، سنة، شرع، شريعة، عقيدة، معتقد، مذهب. The author ties its spread to Christian usage and the Van Dyck Bible translation.
+
+## p90 · ACCEPTED · التعليم / التعاليم in their native senses
+- cue: سبيله في التعليم، التعاليم (= mathematical sciences)
+- ✓ سبيله في التعليم حسنة (author: تعليم = the act of teaching)
+- ✓ التعاليم for specific sciences like geometry and astronomy in older writers (author)
+- note: flag تعاليم only when it means the doctrines or precepts of a person or faith.
+
+## p91 · RULE · الحلقة الضيقة / الواسعة، الدائرة الداخلية
+- cue: الحلقة الضيقة، الحلقة الواسعة، الدائرة الضيقة، الدائرة الداخلية، الدائرة المقربة
+- source: narrow / wide circle, inner circle
+- resolves: p89 قادرًا على أن يملك الانتباه (partly: the author comments on الحلقة الضيقة/الواسعة; يملك الانتباه and يحسن اجتذاب get no comment)
+- ✗ كان في الحلقة الضيقة يحسن اجتذاب الإخوان → ✓ كان بين خاصته … (ours, from the author's word list)
+- ✗ من الدائرة الداخلية للرئيس → ✓ من بطانة الرئيس / من خاصته / من المقرّبين إليه (author's words; ours for wording)
+- ✗ الحلقة الواسعة → ✓ عامة الناس / العامة (author: خاصة الرجل وعامته)
+- note: English circle for the people around someone, near or far. Arabic has many native words, several in Qur'an and hadith: خاصة الرجل وعامته، بطانته، دِخلته، وليجته، مقرَّبوه.
+
+## p91 · RULE · متواضع for things (modest, humble)
+- cue: متواضع/متواضعة + noun that is not a person: أصل، أسرة، هدية، أثاث، مدينة، جهد، خلفية، بداية، إمكانيات، زيادة
+- source: humble, modest (of origins, means, size, quality)
+- ✗ شعراء من أصل متواضع → ✓ ? (author's rewrites likely on p92)
+- ✗ كانت بدايته متواضعة؛ هدية متواضعة؛ أثاث متواضع؛ جهد متواضع؛ زيادة متواضعة؛ خلفية متواضعة → ✓ ?
+- ✗ (translating الجاحظ) إلا أنه خفيف الحال قليل ذات اليد → "إمكانياته متواضعة" (author: the Arabic original is the native form)
+- ✗ (translating ابن حزم) وأصل عُظم الأمور أهونها → "تبدأ من الأصول الأكثر تواضعًا" (author)
+- ✗ (translating ابن خلدون) البداوة والغضاضة → "الأحوال المتواضعة" (author)
+- note: متواضع is the opposite of متكبر, a trait of a person. English humble/modest stretched to small, cheap or lowly things, and Arabic copied the stretch. The three back-translations show the native wording: قليل ذات اليد، خفيف الحال، أهون الأمور، البداوة والغضاضة.
+- open: discussion continues on p92; collect the author's native rewrites (وضيع؟ يسير؟ قليل؟ حقير؟)
+
+## p91 · EXAMPLE · خلفية
+- of: p33 يجيء من أسرة / أجي من بيت
+- ✗ أتى من خلفية متواضعة → ✓ ? (listed among the متواضع examples)
+- note: خلفية = background (social origin) is itself a calque; recall for phase 2.
+
+## p92 · EXAMPLE · متواضع for things (native words)
+- of: p91 متواضع for things
+- resolves: p91 متواضع (the author names the native words)
+- ✗ هدية متواضعة / مبلغ متواضع → ✓ هدية يسيرة / مبلغ زهيد (author's words; ours for wording)
+- ✗ جهد متواضع → ✓ جهد قليل / هيّن (author's words; ours for wording)
+- ✗ شاعر من أصل متواضع → ✓ شاعر خامل الأصل / من وسط الناس (author's words; ours for wording)
+- ✗ مدينة متواضعة → ✓ مدينة صغيرة مغمورة (ours)
+- note: the author says Arabic followed English feather for feather and dropped its own words for these meanings: يسير، زهيد، قليل، هيّن، حقير، مغمور، خامل، وسط.
+
+## p92 · RULE · بسيط / بساطة = simple, simplicity
+- cue: بسيط، بسيطة، أبسط، بساطة (of a person: سذاجة؛ of a matter: سهولة)، جانب بسيط من
+- source: simple, simplicity
+- ✗ كانوا على جانب بسيط من الثقافة → ✓ كانوا قليلي الحظ من العلم (ours)
+- ✗ (translating ابن خلكان) يهب الحياة بأيسر الأوصاف → "بكلمات بسيطة" (author: أيسر is native)
+- ✗ (translating ابن حزم) بالأسهل والأهون → "بالأسهل والأبسط" (author)
+- ✗ (translating ابن خلدون) أسهل وأيسر → "أبسط بكثير"؛ السبب بسيط؛ اعتبروها بسيطة (author)
+- note: in Arabic البساطة is expanse (أرض بسيطة = wide; كلام بسيط = expansive). Moderns use it for ease, smallness, weakness, naivety, simple-mindedness and ignorance, the reverse of the old sense. The author (after الهلالي) traces a seed in the physicians' and philosophers' "simple vs compound" (دواء بسيط vs مركب), but says its spread and dominance come from matching English simple: a case of الإماتة والتغليب. Native words: يسير، سهل، هيّن، قليل، ساذج، غِرّ.
+
+## p92 · RULE · ببساطة / بكل بساطة = simply
+- cue: ببساطة، بكل بساطة، -ببساطة-
+- source: simply
+- ✗ والسبب -ببساطة- يكمن في تراثه الصوفي → ✓ ? (author's rewrite may follow on p93)
+- ✗ (translating Qur'an 6:116) إن أنتم إلا تخرصون → "أنتم ببساطة تكذبون" (author)
+- ✗ (translating Qur'an 2:117) فإنما يقول له كن فيكون → "ببساطة يقول له كن" (author)
+- note: a sentence adverb from English simply, usually a filler that adds nothing; Arabic restriction (إنما، ما … إلا) or nothing at all does the job.
+- open: discussion continues on p93; collect the author's rewrite and any comment on يكمن في
+
+## p93 · EXAMPLE · ببساطة = simply (closing)
+- of: p92 ببساطة / بكل بساطة = simply
+- resolves: p92 ببساطة (the footnote's back-translations show ببساطة standing in for إنما and the like)
+- ✗ (translating a hadith) فإنما يستكثر من النار → "فهو ببساطة يسأل قدرًا كبيرًا من النار" (author)
+- ✗ (translating ابن مسعود) وإنما أبكي أنه أصابني على حال فترة → "أبكي ببساطة بسبب أنه …" (author)
+- ✗ والسبب -ببساطة- يكمن في تراثه الصوفي → ✓ وإنما سبب ذلك تراثه الصوفي (ours, following the author's إنما pattern)
+- note: the native counterpart of simply is usually restriction with إنما (or ما … إلا), or nothing.
+- open: بسبب أنه (because of that) appears in the same back-translation; check whether the author treats it under the grammar or style sections
+
+## p93 · CRITERION · بسيط in older texts = expansive, long
+- cue: كلام بسيط، كتاب بسيط، علمه بسيط، عيشه بسيط، بساطة الجسم/الوجه/العطاء، أبسط ما وُضع، التفسير البسيط
+- ✓ صنّف في هذا الأمر كتابًا بسيطًا = a long, full book (author)
+- ✓ أبسط ما وُضع فيها للمتعلمين (ابن خلدون) = the most extensive work (author; Rosenthal misread it as "the simplest")
+- ✓ التفسير البسيط للواحدي = the long commentary, over twenty volumes (author)
+- note: in classical Arabic بسيط is wide, ample and full, the opposite of today's reading. When quoting or translating older texts, don't read it as simple, and don't flag it in a classical quotation.
+
+## p93 · RULE · نشاط = activity (work, pursuits)
+- cue: نشاط/نشاطه/نشاطهم + adjective (الأدبي، العلمي، السياسي، التجاري)، أنشطة، مارس نشاطًا
+- source: activity (= work, occupation, things done)
+- ✗ لا شك أن نشاطهم الأدبي كان ذا قيمة → ✓ اشتغالهم بالأدب (author)
+- note: Arabic نشاط is liveliness, the opposite of كسل. English activity also names the work one does, and Arabic copied that sense; native words are عمل، اشتغال، شغل. The author cites الهلالي's تقويم اللسانين for this one.
+- open: discussion continues on p94; collect further rewrites and any comment on ذا قيمة
+
+## p94 · EXAMPLE · نشاط = activity (closing)
+- of: p93 نشاط = activity
+- resolves: p93 نشاط (the author adds ما دوّنوه من الأدب and notes the word can often just be dropped; no comment on ذا قيمة)
+- ✗ نشاطهم الأدبي → ✓ ما دوّنوه من الأدب (author)
+- ✗ (translating Qur'an 3:120) والله بما يعملون محيط → "يحيط الله بنشاطات الجميع" (author)
+- ✗ (translating Qur'an 10:61) وما تكون في شأن → "لا يوجد نشاط قد تشارك فيه" (author)
+- ✗ (translating ابن حزم) تصرّفه في كل ما يتصرف فيه أصحاب السلطان → "في كل الأنشطة التي يشتغل بها" (author)
+- ✗ (translating ابن خلدون) أهم أمور الدين → "النشاط الديني الأكثر أهمية" (author)
+- ✗ (translating ابن خلدون) النظر في سياسته → "نشاطه السياسي" (author)
+- note: the back-translations show نشاط covering عمل، شأن، تصرّف، أمر، نظر. Native rewrites pick the specific word; sometimes the sentence needs no noun at all.
+
+## p94 · RULE · sample: يوسف اليوسف (الشعر الجاهلي), phrases to watch
+- cue: انطباع (تخلفه … على صفحة الوعي)، جدلية الذات-الصحراء، تؤطر مجمل العلاقات، لا … وحسب بل و… أيضًا، بُعد من أبعاد الحياة، وبالتالي
+- source: impression, dialectic, frame, the whole of, not only … but also, dimension, consequently
+- ✗ لعل أول انطباع تخلفه القصيدة الجاهلية على صفحة الوعي هو أن جدلية الذات-الصحراء هي العلاقة الأولى التي تؤطر مجمل العلاقات … فالصحراء ليست بعدًا من أبعاد الحياة الاجتماعية والنفسية، وبالتالي الفكرية والفنية فحسب → ✓ ? (commentary on p95)
+- note: recorded for recall; the passage is dense with translated philosophical vocabulary.
+- open: the author's commentary follows on p95; split into separate RULE blocks there
+
+## p95 · RULE · انطباع = impression
+- cue: انطباع، انطباعي، انطباعك عن، الانطباع الأول، أول انطباع، تحت انطباع أن، يعطي انطباعًا، ترك انطباعًا
+- source: impression; the first impression it leaves; under the impression; give the impression
+- ✗ أول انطباع تخلفه القصيدة الجاهلية → ✓ أول ما يسبق إلى النفس من القصيدة الجاهلية (ours, from the author's يسبق إلى)
+- ✗ كنت دائمًا تحت انطباع أن قلة الإمكانيات هي التي تقتل الإبداع → ✓ كنت أظن ذلك وأحسبه وأتوهمه (author)
+- ✗ كيف كان انطباعك عن الشيخ؟ → ✓ كيف رأيته؟ (author)
+- ✗ لا تعجل بالرد لأن ذلك يعطي انطباعًا أنك لم تحسن قراءتها → ✓ … لأن ذلك يوهم أنك / يوقع في النفس أنك … (author)
+- ✗ الانطباع الأول → ✓ ما يسبق إلى المرء / ما يسبق إلى الظن / إلى الوهم (author): فسبق إليّ أنه الموت (خالد بن صفوان)
+- ✗ (translating ابن خلكان) فسبق وهمي إلى أنه يريدني لمهم → "فكان انطباعي الأول أنه …" (author)
+- ✗ (translating ابن طفيل) توهم غير الحقيقة → "تعطي انطباعًا خاطئًا" (author)
+- ✗ (translating ابن خلدون) توهم أن الهرم قد ارتفع عنها → "تعطي انطباعًا أن" (author)
+- ✗ (translating ابن خلدون) بادي رأيه → "انطباعه السطحي" (author)
+- note: in English impression first meant a thing pressing its mark on another (a slap on a cheek, an image stamped on the mind), then the opinion that forms in the mind. Arabic took the whole family over. Native words: ظنّ، حسب، توهّم، رأى، أوهم، أوقع في النفس، سبق إلى الظن/الوهم، بادي الرأي.
+- open: the الأزهري quote (الذي يسبق إلى وهمي) continues on p96; collect the rest of the commentary on the sample (جدلية، تؤطر، مجمل، أبعاد، وبالتالي)
+
+## p96 · EXAMPLE · انطباع (native alternatives, closing)
+- of: p95 انطباع = impression
+- ✗ انطباعي الأول عنه أنه … → ✓ أول ما يُلقى في رُوعي منه أنه … / أول ما يجيء في النفس (author)
+- ✗ هذا انطباع سطحي → ✓ هذا بادئ الرأي / سابق الرأي (author; بادئ الرأي is Qur'anic, glossed by السمين الحلبي as a first-glance opinion without reflection)
+- ✓ لكنك أبيت إلا ظنًّا سبق إليك، وإلا باديَ رأيٍ عنَّ لك (author, الجرجاني) 
+- note: the author lists these as fluent, common in classical prose; the عرنجي writer skips them because the English pattern feels closer.
+
+## p96 · RULE · صفحة الوعي
+- cue: صفحة الوعي، على صفحة الوعي، في الوعي
+- source: (surface of) consciousness
+- ✗ أول انطباع تخلفه القصيدة على صفحة الوعي → ✓ ظاهر الرأي / بادئ الرأي (author's guess at the meaning)
+- note: the author says he can't understand the phrase, nor most of what follows in the sample; his best guess is a surface opinion formed without examining the matter. Phase 2: an example of opaque translated imagery more than a fixed calque.
+
+## p96 · RULE · X-Y pairs without و (جدلية الذات-الصحراء) / ثنائية
+- cue: two nouns joined by a hyphen or dash (الذات-الصحراء، الإنسان-الطبيعة، الشرق-الغرب)، ثنائية X و Y، جدلية
+- source: person-situation debate; X-Y compounds; duality / binary; dialectic
+- ✗ جدلية الذات-الصحراء → ✓ هل يُنشئ الصحراءُ خُلقَ المرء أم يُنشئه طبعُه؟ (ours, from the author's gloss)
+- note: English joins two synonyms or opposites with a hyphen (person-situation); Arabic writers copy it and drop the واو, and call the pair ثنائية after the European term. Arabic links pairs with و.
+- open: the author's examples follow on p97 (كما في قول بعض المعاصرين); collect them and any rewrite
+
+## p97 · EXAMPLE · X-Y pairs / ثنائية
+- of: p96 X-Y pairs without و / ثنائية
+- ✗ وهي تنهض على ثنائية ضدية: الإسلام-الكفر، الحق-الباطل، المسلمون-النصارى → ✓ وهي قائمة على التضاد بين الإسلام والكفر، والحق والباطل … (ours)
+- ✗ يتموضع المرء-الجيل بحسب نفاقه-إيمانه؛ وبحسب عماه-بصيرته → ✓ ? (quoted only)
+- note: two quoted modern sentences in which every pair drops its و.
+
+## p97 · RULE · يتموضع
+- cue: يتموضع، تموضع، موضعة
+- source: position oneself (se positionner)
+- ✗ ما بين هذا وذاك يتموضع المرء → ✓ ? (in the quote; not commented)
+- note: recorded for recall: a verb built on موضع to render position/situate; phase 2 decides (يقع، يكون، يقف).
+
+## p97 · RULE · يؤطر / تؤطر / إطار = frame
+- cue: يؤطر، تؤطر، تأطير، مؤطَّر، في إطار، ضمن إطار
+- source: frame (verb and noun)
+- ✗ هي العلاقة الأولى التي تؤطر مجمل العلاقات → ✓ تحيط بـ / تحكم / تُنشئ (ours, from the author's list of the English senses)
+- note: Arabic إطار is the thing that surrounds an object. English frame also means to encompass, a framework (مذهب), and to create or construct a thing; writers take the English verb so loosely the author can't tell which sense is meant. Prefer the specific Arabic verb.
+
+## p97 · RULE · القيم = values
+- cue: القيم، قيم المجتمع، القيم الاجتماعية/الأخلاقية/الإسلامية، تصنع القيم، منظومة القيم
+- source: values
+- ✗ تصنع القيم الاجتماعية → ✓ تصنع أخلاق الناس / فضائلهم ومكارمهم (ours, from the author's word list)
+- note: قيمة in Arabic is price (ثمن); read literally, تصنع القيم الاجتماعية means it sets social prices. English values also covers morals and virtues; Arabic says الأخلاق، الفضائل، المكارم. The author cites الهلالي for this one.
+
+## p97 · RULE · البعد / الأبعاد = dimension (aspect)
+- cue: بُعد من أبعاد، أبعاد القضية، له عدة أبعاد، من بُعدين، البعد الاجتماعي/السياسي
+- source: dimension
+- ✗ هذا الأمر باطل من بعدين → ✓ باطل من وجهين (author)
+- ✗ هذا يدخل في كلامنا من عدة أبعاد → ✓ من عدة أوجه / عدة أحوال (author)
+- ✗ الصحراء ليست بعدًا من أبعاد الحياة الاجتماعية → ✓ ليست وجهًا من وجوه الحياة (ours, from the author)
+- note: Arabic بُعد is extent, distance, and a measuring term (Ibn Khaldun: lines have one بعد, surfaces two, bodies three). English extended dimension to aspect, where Arabic says وجه; some English translators even render وجه as dimension.
+
+## p97 · ACCEPTED · البعد in geometry and measurement
+- cue: ذو بعد واحد، ذو بعدين، ثلاثي الأبعاد
+- ✓ المقادير ثلاثة: ذو بعد واحد وهو الخط، أو ذو بعدين وهو السطح، أو ذو أبعاد ثلاثة وهو الجسم (author, ابن خلدون)
+- note: the spatial and measuring sense is classical; flag بعد only when it means aspect.
+
+## p97 · RULE · وبالتالي = consequently, subsequently
+- cue: وبالتالي، بالتالي
+- source: consequently / subsequently (consequent + -ly)
+- ✗ ليست بعدًا من أبعاد الحياة الاجتماعية والنفسية، وبالتالي الفكرية والفنية → ✓ ? (rewrite likely on p98)
+- note: the author analyzes it as a part-for-part translation: subsequent/consequent = التالي (what follows), -ly = the ب of manner, giving بالتالي.
+- open: discussion continues on p98; collect the author's native alternatives (فـ، ولذلك، ومن ثَمّ؟)
+
+## p98 · EXAMPLE · وبالتالي (native alternatives)
+- of: p97 وبالتالي = consequently
+- resolves: p97 وبالتالي (the author gives الفاء, then لذلك / لهذا)
+- ✗ ليست بعدًا من أبعاد الحياة الاجتماعية والنفسية، وبالتالي الفكرية والفنية → ✓ … فليست كذلك من أبعاد الفكر والفن (ours, using the author's الفاء)
+- ✗ (translating ابن حزم) ولذلك لا يكون إلا عن ثقة → "وبالتالي …" (author)
+- ✗ (translating ابن حزم) حياء مركَّب … فيتطاول الأمر → "وبالتالي يتطاول الأمر" (author)
+- note: English uses these adverbs for sequence and cause; the Arabic counterpart is الفاء, which the author calls more eloquent, shorter and more Arabic. لذلك and لهذا are also fine.
+
+## p98 · EXAMPLE · تبنّى = adopt (an idea, a method)
+- of: p29 تبنّى
+- resolves: p29 تبنّى (the author confirms the native sense: taking someone as a son)
+- ✗ إذا كان قد تبنى هذا الحكم مقدمًا → ✓ إذا كان قد قال بهذا الحكم / اعتقده … (ours, from the author's list)
+- ✗ تبنّى هذا المذهب / هذا الدين → ✓ دان به ودخل فيه (author)
+- ✗ تبنّى طريقة فلان → ✓ أخذ بها واتبعها واقتفاها (author)
+- ✗ تبنّى هذا القول → ✓ قال به واعتقده وتقلّده (author)
+- ✗ تبنّى هذه التجارة → ✓ انتحلها وعمل بها (author)
+- ✗ تبنّى هذه الصفة → ✓ اتصف بها وتخلّق بها (author)
+- note: Arabic التبني is taking someone as a son (from ابن). English adopt spread to taking up a view, a method or a trait, and Arabic copied it. Arabic has a verb for each case. Sample: عبد القادر القط, 1402 AH.
+- open: the footnote (Qur'an back-translations, خذ العفو → "تبنّ سياسة العفو") continues on p99; also check whether the author comments on مقدمًا، ينصب جهده على، تبرير، بأي وسيلة from the same sample
+
+## p99 · EXAMPLE · تبنّى (Qur'an, hadith and Ibn Khaldun back-translations)
+- of: p29 تبنّى
+- ✗ (Qur'an 2:145) ما تبعوا قبلتك → "سوف لن يتبنوا قبلتك" (author)
+- ✗ (Qur'an 7:146) لا يتخذوه سبيلًا → "يتبنونه كطريقهم الخاص" (author)
+- ✗ (hadith) فرأيت غيرها خيرًا منها فأتِ الذي هو خير → "ثم وجدت بديلًا أفضل، فعليك أن تتبنى هذا الأخير" (author)
+- ✗ (ابن خلدون) ينتحل الفلح من الغراسة والزراعة → "يتبنى" (author)
+- ✗ (ابن خلدون) عادوا إلى الثورة والأخذ بدين الخوارج → "تبني" (author)
+- ✗ (ابن خلدون) ذهب إلى مثل مذاهب الخلفاء → "تبنى" (author)
+- note: in the originals تبنّى stands in for تبع، اتخذ، أتى، انتحل، أخذ بـ، ذهب إلى. Also note سوف لن (see p60) and كـ + الخاص in the same back-translations.
+
+## p99 · EXAMPLE · برّر / مبرّر / تبرير = justify
+- of: p29 برّر
+- resolves: p29 برّر (the author treats مبرر as foreign and gives native wording)
+- ✗ فسينصب جهده على تبرير صحته → ✓ فسيجتهد في الاحتجاج لصحته (ours)
+- ✗ مبرره كذا → ✓ عذره كذا / سببه كذا (author's gloss)
+- ✗ (Qur'an 9:66) لا تعتذروا → "لا تبرروا لأنفسكم" (author)
+- ✗ (Qur'an 7:33) والبغي بغير الحق → "الاعتداء الغير مبرر" (author)
+- ✗ (ابن حزم) العجب الذي لا سبب له → "الغير مبرر" (author)
+- ✗ (ابن خلكان) ويصوّب رأي إبليس → "ويبرر لإبليس" (author)
+- ✗ (ابن خلدون) فكانت له في ذلك معذرة → "وكان ذلك تبريرًا كافيًا" (author)
+- ✗ (ابن خلدون) ويتعللون بالتأسي بالقوم → "ويبررون" (author)
+- note: English justification comes from just (عدل، برّ، حق); the Arabic copy builds مبرر on برّ, as though an excuse made a deed righteous and acceptable. Native words: عذر، معذرة، سبب، اعتذر، تعلّل، صوّب، احتجّ لـ. The author cites الهلالي again.
+
+## p99 · RULE · الغير + adjective (الغير مبرر)
+- cue: الغير + adjective/participle (الغير مبرر، الغير شرعي، الغير مسبوق)
+- source: un-/non- (unjustified)
+- ✗ الاعتداء الغير مبرر → ✓ الاعتداء بغير حق / العدوان الذي لا سبب له (ours, from the author's originals)
+- note: appears twice in the author's back-translations without comment; recorded for recall. Phase 2: check whether the author treats غير + ال elsewhere.
+- open: no comment on this page
+
+## p99 · RULE · دراسة حول / حول = about
+- cue: دراسة حول، كتاب حول، بحث حول، حديث حول، الدراسة التي نقدمها حول
+- source: a study about
+- ✗ الدراسة التي نقدمها حول هذا الكتاب → ✓ ? (rewrite on p100)
+- note: the author calls it an English construction (a study about), meaning examining and researching a matter; sample from محمد عمارة, 1410 AH. The same sample also has أقرب ما تكون إلى، التقييم الموضوعي الجاد، إيجابيات (see p69).
+- open: discussion continues on p100; collect the author's rewrite for حول and any comment on التقييم / الموضوعي / أقرب ما تكون

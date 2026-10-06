@@ -89,3 +89,13 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 85 (p 87) · EXAMPLE×1 RULE×1 (تيار closed; تناغم; opens أحمد أمين sample)
 - pdf 86 (p 88) · EXAMPLE×1 RULE×4 ACCEPTED×1 (تفكير; استعداد; المتنور; حركة إصلاح / نقطة تحول). Extra page
 - pdf 87 (p 89) · RULE×2 (closes أحمد أمين sample; opens إحسان عباس sample: الشخصية). Extra page
+- pdf 88 (p 90) · EXAMPLE×1 RULE×2 ACCEPTED×1 (closes الشخصية; poem of coinages; التعاليم)
+- pdf 89 (p 91) · RULE×2 EXAMPLE×1 (الحلقة الضيقة/الدائرة الداخلية; متواضع for things)
+- pdf 90 (p 92) · EXAMPLE×1 RULE×2 (closes متواضع; بسيط/بساطة; ببساطة)
+- pdf 91 (p 93) · EXAMPLE×1 CRITERION×1 RULE×1 (closes ببساطة; classical بسيط = expansive; نشاط = activity)
+- pdf 92 (p 94) · EXAMPLE×1 RULE×1 (closes نشاط; opens يوسف اليوسف sample)
+- pdf 93 (p 95) · RULE×1 (انطباع). Extra page
+- pdf 94 (p 96) · EXAMPLE×1 RULE×2 (closes انطباع; صفحة الوعي; X-Y pairs / ثنائية). Extra page
+- pdf 95 (p 97) · EXAMPLE×1 RULE×5 ACCEPTED×1 (ثنائية examples; يتموضع; يؤطر; القيم; البعد; وبالتالي). Extra page
+- pdf 96 (p 98) · EXAMPLE×2 (closes وبالتالي; opens عبد القادر القط sample: تبنّى). Extra page
+- pdf 97 (p 99) · EXAMPLE×2 RULE×2 (closes تبنّى; مبرر; الغير + adj; opens محمد عمارة sample: دراسة حول). Extra page (cap reached)
