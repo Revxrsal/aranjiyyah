@@ -750,3 +750,76 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 
 ## p67 · CRITERION · morphology English lacks is underused in عرنجية
 - note: the author's closing test for الصرف: any Arabic form with no English counterpart (تصغير، مبالغة، تفاعل، تعدية بالهمزة والتضعيف، أفعل التفضيل، اسم الفاعل خبرًا) tends to be replaced by a periphrasis in modern writing. When a sentence uses a helper word (جعل، أكثر، بعضهم بعضًا، كثيرًا، صغير، كان + صفة) to do what a derived form could do, suggest the derived form.
+
+## p69 · RULE · سلبيات وإيجابيات for good and bad points
+- cue: سلبيات، إيجابيات، سلبي، إيجابي (of a thing's merits/faults)
+- source: negatives and positives / negative, positive
+- ✗ سلبيات الشيء وإيجابياته → ✓ محاسنه ومساويه / محامده ومعايبه / فضائله ورذائله / مناقبه ومثالبه / مزاياه وآفاته (author)
+- note: in Arabic السلب والإيجاب (and النفي والإثبات) mean denial and affirmation, matching the original logical sense of negative/positive; English later stretched the words to mean good and bad, and Arabic copied that extension.
+- open: discussion continues on p70; collect any further rewrites or limits (e.g. سلبي of a person)
+
+## p69 · CRITERION · a native root's sense pulled toward an English word
+- note: the author's general mechanism for meaning calques: an Arabic word chosen once to translate a foreign word ends up carrying all the senses the foreign word later picks up (his example in reverse: عقائد rendered into English as "knots"). When an Arabic word is used in a sense its own derivation doesn't support, check for an English word whose range it is copying.
+
+## p70 · EXAMPLE · سلبيات وإيجابيات
+- of: p69 سلبيات وإيجابيات
+- ✗ آثار سلبية / تداعيات سلبية → ✓ آثار سوء / مفاسد (author)
+- ✗ آثار إيجابية → ✓ ? (ours: آثار حسنة / منافع)
+
+## p70 · RULE · إيجابي/سلبي for optimistic/pessimistic
+- cue: كن إيجابيًا، لا تكن سلبيًا، شخص إيجابي/سلبي، نظرة إيجابية
+- source: be positive, don't be negative
+- ✗ كن إيجابيًا ولا تكن سلبيًا → ✓ تفاءل واستبشر ولا تتشاءم (author)
+- note: English uses positive/negative for optimism and gloom, cheer and sorrow; the Arabic words read literally as "affirmative/negating", which is meaningless of a person.
+
+## p70 · CRITERION · don't accept the "سلبيات = نقص" defence
+- cue: سلبيات justified as "what is negated from a thing is a lack"
+- note: some modern writers defend سلبيات by reasoning that what is negated is a deficiency; the author rejects this as a post-hoc rationale. The word came from English, so treat it as عرنجية even when a derivation can be argued.
+
+## p70 · CRITERION · loanword senses push out native synonyms
+- note: the author's main harm of these words: they don't add to Arabic, they replace a rich set of native words (مساوئ، معايب، رذائل، آفات، مثالب) that writers now rarely use. When rewriting, prefer reviving the specific native word that fits the context over a single generic substitute.
+- open: next page lists Qur'an/hadith passages that English translations render as negatives/positives; record any word pairs as examples
+
+## p71 · EXAMPLE · سلبيات وإيجابيات
+- of: p69 سلبيات وإيجابيات
+- note: pairs from the footnote, where the ✗ side is the Arabic gloss of an English rendering and the ✓ side is the original Arabic text
+- ✗ القول السلبي → ✓ السوء من القول (author, النساء 148)
+- ✗ تكلم بشكل سلبي عن عائشة → ✓ نال من عائشة (author)
+- ✗ تداعيات سلبية → ✓ مفسدة (author)
+- ✗ له دلالة إيجابية ودلالة سلبية → ✓ يقع محمودًا ومذمومًا (author, الجاحظ)
+- ✗ يترك له رأيًا إيجابيًا → ✓ يدع له استحسانًا / يَحسُن عنده (author, الهروي)
+- ✗ بشكل سلبي → ✓ ? (also a manner-phrase calque; compare p66 بشكل معتاد)
+
+## p71 · ACCEPTED · إيجابية/سلبية in the logical sense
+- cue: صفة إيجابية/سلبية، السلب والإيجاب in theology, logic, grammar
+- note: in classical writing (e.g. الرازي on الفاتحة) إيجابية means affirming a quality and سلبية means negating one, with no good/bad judgment. This sense is sound; don't flag it, and don't misread classical texts through the modern sense.
+
+## p71 · CRITERION · calqued senses cut readers off from older texts
+- note: the author's second harm: once the English sense takes over, readers misread older Arabic (they take الرازي's صفة سلبية as "a bad quality"). Supports flagging a meaning calque even when the word itself is native.
+
+## p72 · CRITERION · new terms for new concepts are fine; new words for old meanings are not
+- cue: any modern coinage or loan sense
+- note: the author does not reject every new word or derivation. Coinages for ideas Arabic never named (scholarly terms such as the متكلمون's الجوهر والعرض والماهية, الخليل's meter names) are sound, and mostly belong to specialist use. The fault is a borrowed word or sense for a meaning Arabic already expressed, especially when it displaces several native words. Test: did Arabic have a word for this before the translation era? If yes, prefer that word.
+
+## p72 · CRITERION · a few loan senses are tolerable; the harm is in their number
+- note: the author says the problem would be minor if these words were few or didn't kill native usage; writers born before c. 1300 AH use some of them without losing native vocabulary. Phase 2: weight a text's density of calqued senses, not a single occurrence.
+
+## p73 · RULE · العمل الجنسي
+- cue: العمل الجنسي
+- source: sexual act / sexual intercourse
+- ✗ العمل الجنسي → ✓ ? (author says details follow later)
+- note: cited from الهلالي's تقويم اللسانين as a long, vague foreign phrase that replaces short Qur'anic wording.
+- open: the author promises a detailed treatment later; collect his rewrite
+
+## p73 · CRITERION · long foreign periphrasis vs. concise native wording
+- note: quoting الهلالي with approval: a heavy, vague, multi-word foreign expression where a short Qur'anic or classical one exists marks weak command of Arabic. Prefer the shorter native wording when one exists.
+
+## p73 · CRITERION · hidden calques look Arabic
+- note: opens the section خفاء الألفاظ المتفرنجة: most calqued words are Arabic on the surface and foreign underneath, so even careful writers who aim for pure Arabic use them. Don't rely on whether a word looks native; check whether its sense or boundary copies a foreign word.
+
+## p73 · RULE · مراهق/بالغ as age bands (teenager/adult)
+- cue: مراهق (13-19)، بالغ (over 19)، المراهقون، البالغون
+- source: teenager, adult
+- ✗ المراهق: من بين ١٣ و١٩ سنة / البالغ: من جاوز ذلك → ✓ ? (Arabic مراهق = near puberty, بالغ = reached puberty)
+- note: Arabic المراهقة means approaching puberty and البلوغ means reaching it; mapping them to teenager and adult moves their boundaries to English age bands. Readers then misread fiqh rulings about المراهق والبالغ.
+- open: the next page may give the native age terms (غلام، يافع، حَزَوَّر، فتى…); collect them as rewrites

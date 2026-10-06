@@ -67,3 +67,9 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 63 (p 65) · RULE×2 (صيغة التشارك: بعضهم بعضًا for تفاعل; مع بعضهم البعض after تفاعل)
 - pdf 64 (p 66) · RULE×2 CRITERION×1 ACCEPTED×1 (صيغ المبالغة → adverbs; اسم الفاعل → verb clause; opens التصغير)
 - pdf 65 (p 67) · RULE×1 CRITERION×1 (التصغير → صغير/قليل; closes الصرف). Extra pages 64-65 to finish الصرف forms
+- pdf 66 (p 68) · background: opens متن اللغة (plan of four sections; مداخل التفرنج begins)
+- pdf 67 (p 69) · RULE×1 CRITERION×1 (سلبيات/إيجابيات; meaning-extension mechanism)
+- pdf 68 (p 70) · EXAMPLE×1 RULE×1 CRITERION×2 (آثار سلبية; كن إيجابيًا; loanword senses displace native synonyms)
+- pdf 69 (p 71) · EXAMPLE×1 ACCEPTED×1 CRITERION×1 (footnote pairs for سلبي; logical sense of سلب/إيجاب sound)
+- pdf 70 (p 72) · CRITERION×2 (new terms for new concepts OK; harm is density and displacement)
+- pdf 71 (p 73) · RULE×2 CRITERION×2 (closes مداخل التفرنج; opens خفاء الألفاظ المتفرنجة with مراهق/بالغ). Extra page 71 to finish the idea
