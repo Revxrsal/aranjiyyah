@@ -625,3 +625,128 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - of: p53 أو in a تسوية (جاء أو لم يجئ)
 - ✗ إذا حذّرتهم أو لا → ✓ سواءٌ عليهم أأنذرتهم أم لم تنذرهم (author, البقرة 6)
 - note: English "whether … or not"; Arabic uses سواء + همزة + أم.
+
+## p61 · RULE · فقط for الحصر (only)
+- cue: فقط
+- source: only
+- ✗ يخدعون أنفسهم فقط → ✓ وما يخدعون إلا أنفسهم (author, البقرة 9)
+- ✗ أنت فقط منذر → ✓ إنما أنت منذر (author, الرعد 7)
+- ✗ الحرير يُلبس فقط من قِبل من ليس له خلاق → ✓ إنما يلبس الحرير من لا خلاق له (author, hadith)
+- ✗ أنا فقط أقول الحقيقة → ✓ إني لا أقول إلا حقًّا (author, hadith)
+- note: Arabic restricts with ما/لا … إلا or إنما (or word order); English needs "only". The author says فقط for الحصر is almost absent from classical prose yet now the default.
+
+## p61 · EXAMPLE · إذا كان بإمكانك + مصدر for a plain conditional (back-translation)
+- cue: إذا كان بإمكانك، العثور على
+- source: if you can only find …
+- ✗ إذا كان بإمكانك فقط العثور على جذع … → ✓ إن لم تجد إلا جذعًا فاذبحه (author, hadith)
+- note: the hadith restricts with إن لم … إلا; the English-shaped version adds "can" as بإمكانك + مصدر and "only" as فقط. Phase 2: link with any بإمكان / مصدر-for-verb candidates.
+- open: check whether the author treats بإمكان / بوسع (be able to) separately
+
+## p62 · RULE · كان/أصبح/صار + adjective instead of the verb built from the same root
+- cue: أصبح/صار/كان/يكون + صفة (قاسيًا، فخورين، قادرًا، كبيرًا، جميلًا)
+- source: become hard; be proud of; be able to; grow old (be + adjective)
+- ✗ أصبح قلبه قاسيًا → ✓ قسا قلبه (ours)
+- ✗ يحقّ لنا أن نكون فخورين بهذا الكتاب → ✓ يحقّ لنا أن نفخر بهذا الكتاب (ours)
+- ✗ لن تكون قادرًا على السفر إلا إذا صرت كبيرًا → ✓ لن تقدر على السفر حتى تكبر (ours)
+- note: English has no verb for many qualities (hardness, pride, beauty, age) so it uses be/become + adjective; Arabic derives a verb from the root (قسا، فخر، جمُل، كبُر، قدر). Opens the الصرف section: the author says morphology is the least calqued area, dominated by الإماتة and التغليب.
+- open: the author's own rewrites follow on p63
+
+## p63 · EXAMPLE · كان/أصبح + adjective (author rewrites)
+- of: p62 كان/أصبح/صار + adjective instead of the verb
+- ✗ أصبح قلبه قاسيًا → ✓ قسا قلبه (author)
+- ✗ يحقّ لنا أن نكون فخورين بهذا الكتاب → ✓ نفخر بكتاب كذا (author)
+- ✗ لن تكون قادرًا على السفر إلا إذا صرت كبيرًا → ✓ ما تقدر تسافر إلا إذا كبرت (author, quoting everyday speech)
+- note: the author observes that everyday speech still uses the verb; it is writers "trying to sound eloquent" who copy the English be + adjective and take it for فصيح.
+- resolves: p62 كان/أصبح + adjective (author rewrites)
+
+## p63 · RULE · كن + adjective for an imperative verb (be patient)
+- cue: كن/كوني/كونوا + صفة؛ لا تكن + صفة؛ لا تكونوا + صفة
+- source: be patient; be honest with; be satisfied; don't be late; don't be arrogant
+- ✗ كن صابرًا → ✓ اصبر (author)
+- ✗ كن صادقًا مع صاحبك → ✓ اصدق صاحبك (author)
+- ✗ كن راضيًا → ✓ ارضَ (author)
+- ✗ لا تكن متأخرًا / لا تجئ متأخرًا → ✓ لا تتأخر (author)
+- ✗ لا تكن متكبرًا → ✓ لا تتكبر (author)
+- ✗ لا تكونوا مفتخرين بآبائكم → ✓ لا تفتخروا بآبائكم (author, hadith)
+- note: English lacks imperatives for many qualities and so says "be + adjective"; Arabic issues the command with the verb itself. The intent is the act (be truthful now), not a standing trait.
+
+## p63 · EXAMPLE · أكون/تكونوا + adjective after لن / أحب أن (hadith)
+- of: p62 كان/أصبح/صار + adjective instead of the verb
+- ✗ لن أكون راضية حتى … → ✓ لا أرضى حتى تُشهد رسول الله (author, hadith of النعمان)
+- ✗ أحب أن تكونوا صادقين معي → ✓ إني أحب أن تصدقوني (author, hadith of عثمان)
+
+## p63 · CRITERION · when كن/كان + adjective is fine
+- cue: كن/يكون + صفة
+- note: the author's objection is to be + adjective standing in for an action (a command to do something, or a change of state). Inferred limit, to confirm in phase 2: when the adjective names a lasting trait or the root has no usable verb, كان + صفة is normal Arabic (كان كريمًا).
+- open: inferred from the author's wording ("لا يراد بها … أن تكون صفته"); he gives no explicit acceptable case
+
+## p64 · RULE · أكثر + noun/تمييز where a triliteral أفعل exists
+- cue: أكثر/الأكثر + مصدر أو صفة (أكثر رحمة، الأكثر علمًا، أكثر جمالًا، أكثر لطفًا، أكثر مرارة)
+- source: more + adjective; the most + adjective
+- ✗ الساعة أكثر كارثية ومرارة → ✓ والساعة أدهى وأمرّ (author, القمر 46)
+- ✗ الأكثر رحمة بأمتي … والأكثر شدة … والأكثر علمًا → ✓ أرحم أمتي … وأشدّهم … وأعلمهم (author, hadith)
+- ✗ القارئ الأحسن → ✓ أقرؤهم (author, hadith)
+- ✗ هي أكثر جمالًا مني / أنا أكثر لطفًا → ✓ هي أجمل مني / أنا ألطف (ours, from the author's point about everyday speech)
+- note: English adds "more" to adjectives it cannot inflect; Arabic forms أفعل directly from a triliteral verb and keeps أشدّ/أكثر + تمييز for roots that cannot take أفعل. The author notes no one says أكثر جمالًا in speech; writers adopt it when trying to sound formal.
+
+## p64 · RULE · جعله + مضارع for the causative stem (التعدية)
+- cue: جعله/جعلها/جعلهم + مضارع (يضحك، يبكي، ينام، يموت، يخرج، يدخل، ينسى، يفرح، يستعجل)؛ جعل صبره ينفد
+- source: make someone do (make him laugh / cry / sleep / die …)
+- ✗ جعلت الولد ينام → ✓ نوّمت الولد / أنمت الولد (author)
+- ✗ جعله يضحك وجعله يبكي → ✓ وأنه هو أضحك وأبكى (author, النجم 43)
+- ✗ جعله يخرج / يدخل / يموت / ينسى / يفرح → ✓ أخرجه / أدخله / أماته / أنساه / أفرحه (ours)
+- ✗ جعل صبره ينفد → ✓ أنفد صبره / استنفد صبره (ours)
+- ✗ جعله يستعجل → ✓ استعجله / أعجله (ours)
+- note: Arabic makes a verb transitive by morphology (همزة أفعل or تضعيف فعّل); English uses make + verb. The author says جعل-causatives now crowd out the native forms. Phase 2: merge with p60 causative EXAMPLE (منحه الحياة → أحياه).
+
+## p65 · RULE · بعضهم بعضًا / بتبادل instead of the تفاعل form
+- cue: بعضهم بعضًا، بعضهم مع بعض، أحدهم الآخر، بتبادل، بشكل متبادل
+- source: each other; one another; mutually
+- ✗ ضرب بعضهم بعضًا → ✓ تضاربوا (author)
+- ✗ أحبّ أحدهم الآخر / أحبوا بعضًا بتبادل → ✓ تحابّوا (author)
+- ✗ شاور بعضهم بعضًا في كذا → ✓ تشاوروا في كذا (author)
+- ✗ ساعد بعضنا بعضًا → ✓ تعاونّا / تساعدنا (author, everyday speech)
+- note: English has no reciprocal verb form and spells it out with "each other"; Arabic has تفاعل. The author grants that some spelled-out forms (شاور بعضهم بعضًا) are attested, but تفاعل is the norm (متكئين عليها متقابلين، لا تناصرون، لا تباغضوا ولا تحاسدوا ولا تدابروا). Everyday speech keeps تفاعل; formal modern prose has drifted.
+
+## p65 · RULE · تفاعل + مع بعضهم البعض (with each other added to a reciprocal verb)
+- cue: يتحالفون/يتعاونون/يتشاورون + مع بعضهم البعض؛ مع بعضهم؛ بعضهم البعض
+- source: with each other
+- ✗ لكنهم تحالفوا مع بعضهم البعض ضد الإسلام → ✓ لكنهم تحالفوا على الإسلام (ours)
+- ✗ يتعاونون مع بعضهم البعض ضد الفتّان → ✓ يتعاونان على الفتّان (author, hadith)
+- note: تفاعل already means "with each other", so adding مع بعضهم البعض is redundant; the مع is a calque of "with". Writers who reach for it feel تفاعل is not enough because they are thinking in English. ضدّ for "against" (vs. على) is the p54 ضد pattern; both examples are EXAMPLEs of it too.
+
+## p66 · RULE · adverb paraphrase (باستمرار، بشكل معتاد، بإفراط، كثيرًا) instead of صيغة المبالغة
+- cue: يفعل + باستمرار / كثيرًا / بشكل معتاد / بإفراط؛ الذي يحلف كثيرًا؛ الشخص الشاتم بإفراط
+- source: constantly, habitually, excessively (English has no intensive form)
+- ✗ الذي يحلف كثيرًا / الذي يحلف باستمرار → ✓ حلّاف (author, القلم 10)
+- ✗ الذي يغتاب الناس باستمرار → ✓ همّاز (author, القلم 11)
+- ✗ هو ينقل الأسرار كثيرًا → ✓ هو نقّال للسرّ (author, everyday speech)
+- ✗ يكذب كثيرًا / يلعب كثيرًا → ✓ كذوب / لعّاب (author)
+- note: Arabic forms intensives (فعّال، فعول، فعِل، مِفعال) from the root (أكول، صبور، عجول، نوّام، ضحّاك، بكّاء، بيّاع); English must add an adverb. The author says these forms are now rare in writing though speech still uses them freely.
+
+## p66 · RULE · verb clause instead of اسم الفاعل
+- cue: لن + مضارع / الذي + فعل where Arabic would use a participle (لن تتبع، لن تعجزوا، الذي يحلف)
+- source: English verb phrase where Arabic has an active participle
+- ✗ ما كنت لأتخذ قرارًا حتى … → ✓ ما كنت قاطعةً أمرًا حتى تشهدون (author, النمل 32)
+- ✗ لن تتبع قبلتهم ولن يتبع أحد منهم قبلة الآخر → ✓ وما أنت بتابع قبلتهم وما بعضهم بتابع قبلة بعض (author, البقرة 145)
+- ✗ لن تعجزوا الله … الله سوف يخزي الكافرين → ✓ أنكم غير معجزي الله وأن الله مخزي الكافرين (author, التوبة 2)
+- note: English has no participle that works as a predicate in many cases, so it uses a verb with a tense marker (will, won't). Arabic often states the predicate as اسم فاعل.
+
+## p66 · CRITERION · اسم الفاعل is not stiff
+- cue: اسم الفاعل as predicate (أنا طالبك، أنا سائلك، فلان بكّاء)
+- note: some modern writers think using اسم الفاعل sounds forced; the author says the "forced" feel comes from English habits, since everyday speech still uses participles constantly (ما أنا بمادّ يدي لأحد، ماني بقابل له شيء، أنا طالبك في أمر، أنا سائلك بالله). Do not flag a participle as stilted.
+
+## p66 · ACCEPTED · intensive and participle forms
+- cue: فعّال، فعول، مفعال، اسم الفاعل خبرًا
+- note: نقّال، بيّاع، كذوب، لعّاب، طالبك، سائلك are sound Arabic; prefer them to adverb or verb paraphrases. (Footnote anecdote about the Arabic Bible revision, عابرين vs. بعابرين, is background only.)
+
+## p67 · RULE · صغير/قليل instead of the diminutive (التصغير)
+- cue: صغير/صغيرة/قليل + noun where a فُعَيل form exists (قطة صغيرة، ولد صغير، قليل من الغنم)
+- source: little, small, a bit of
+- ✗ ولد صغير → ✓ وُلَيد (author, everyday speech)
+- ✗ قطة صغيرة → ✓ بُسَيسة (author, colloquial diminutive of بسّ)
+- ✗ قطعة لحم صغيرة / غنم قليلة → ✓ لُحَيمة / غُنَيمات (author)
+- note: English lacks a diminutive and uses small/little; speech still forms تصغير freely, but writing has nearly dropped it. Low-priority: flag only where a diminutive is natural, not every صغير.
+
+## p67 · CRITERION · morphology English lacks is underused in عرنجية
+- note: the author's closing test for الصرف: any Arabic form with no English counterpart (تصغير، مبالغة، تفاعل، تعدية بالهمزة والتضعيف، أفعل التفضيل، اسم الفاعل خبرًا) tends to be replaced by a periphrasis in modern writing. When a sentence uses a helper word (جعل، أكثر، بعضهم بعضًا، كثيرًا، صغير، كان + صفة) to do what a derived form could do, suggest the derived form.

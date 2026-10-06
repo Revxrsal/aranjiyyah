@@ -60,3 +60,10 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 56 (p 58) · RULE×2 (النعت السببي replaced by relative/بـ; بعض for تنكير); resolves p57 open in place
 - pdf 57 (p 59) · EXAMPLE×1 RULE×1 (بعض + mass noun; opens حروف الاستقبال)
 - pdf 58 (p 60) · EXAMPLE×4 RULE×2 (سـ/سوف table from البقرة; سوف لن; بالتأكيد; تمّ; causative; أو لا). Extra page to finish حروف الاستقبال
+- pdf 59 (p 61) · RULE×1 EXAMPLE×1 (الحصر: فقط for إلا/إنما; بإمكانك in back-translation)
+- pdf 60 (p 62) · RULE×1 (opens الصرف; كان/أصبح + adjective for a derived verb)
+- pdf 61 (p 63) · EXAMPLE×2 RULE×1 CRITERION×1 (author rewrites for be+adj; كن صابرًا → اصبر; opens اسم التفضيل)
+- pdf 62 (p 64) · RULE×2 (أكثر + تمييز for أفعل; جعله + مضارع for التعدية)
+- pdf 63 (p 65) · RULE×2 (صيغة التشارك: بعضهم بعضًا for تفاعل; مع بعضهم البعض after تفاعل)
+- pdf 64 (p 66) · RULE×2 CRITERION×1 ACCEPTED×1 (صيغ المبالغة → adverbs; اسم الفاعل → verb clause; opens التصغير)
+- pdf 65 (p 67) · RULE×1 CRITERION×1 (التصغير → صغير/قليل; closes الصرف). Extra pages 64-65 to finish الصرف forms
