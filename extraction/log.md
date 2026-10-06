@@ -42,3 +42,9 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 38 (p 40) · CRITERION×2 METHOD×1 (corrupted taste; read the early Arabs; modern-needs claim, continues)
 - pdf 39 (p 41) · RULE×1 CRITERION×1 (يبدو كما لو كان vs كأنّ; calques displace native forms)
 - pdf 40 (p 42) · background: rebuttal of the claim that calquing is bold renewal; code-switching analogy; end of ch.2
+- pdf 41 (p 43) · CRITERION×2 (ease is familiarity; native ≠ archaic/وحشي)
+- pdf 42 (p 44) · ACCEPTED×1 CRITERION×1 (النعت السببي; colloquial keeps native syntax); end of ch.2
+- pdf 43 (p 45) · RULE×1 CRITERION×1 (ch.3 opens; تمّ + مصدر named; beyond the blacklist)
+- pdf 44 (p 46) · background: plan of ch.3 (grammar & morphology, words, styles)
+- pdf 45 (p 47) · CRITERION×1 (ch.3 النحو opens: grammatical ≠ Arabic)
+- pdf 46 (p 48) · CRITERION×1 RULE×1 (no-grammarian-forbids-it defence; النعت section opens)

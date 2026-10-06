@@ -401,3 +401,39 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 
 ## p41 · CRITERION · calques usually displace a native form, they don't fill a gap
 - note: foreign constructions don't enter because Arabic lacks something; they overwrite an existing Arabic construction (from Qur'an, Sunna, classical speech), leave it dead in formal writing though often alive in colloquial, and put a foreign form in its place. Practical consequence: for each calque, look for the native construction it displaced and offer that; colloquial usage can be a clue to it.
+
+## p43 · CRITERION · "easier" means "more familiar"
+- note: the claim that عرنجية simplifies Arabic is rejected: people find it easy only because school books, self-help and children's media are written in it, just as a child finds any language easy that they grew up hearing. So a rewrite that sounds stiff to a modern reader is not thereby wrong; unfamiliarity is not difficulty.
+
+## p43 · CRITERION · native ≠ archaic
+- note: the author agrees that rare/uncouth vocabulary (الوحشي، الغريب) and grammatical subtleties should be avoided; the early Arabs themselves mocked people who overused them (footnote anecdote of Abu Alqama), and most classical speech is plain. So rewrites should use plain, current native words, not obscure dictionary words; the target is Arabic construction, not rarity.
+- note: continues on p44
+
+## p44 · ACCEPTED · النعت السببي
+- cue: adjective agreeing with the preceding noun but describing a following noun: أكلةً لذيذًا طعمُها / أذكياءُ عيالُه
+- ✓ أكلتُ أكلةً لذيذًا طعمُها؛ خالدٌ أذكياءُ عيالُه
+- note: a native construction still alive in colloquial speech (أكلت أكلة لذيذ طعمها، خالد أذكيا عياله), yet readers trained on عرنجية find it stilted in writing. Never flag it as awkward; it is a candidate rewrite when a sentence piles up relative clauses (أكلة طعمها لذيذ / التي طعمها لذيذ).
+
+## p44 · CRITERION · colloquial as a guide to native syntax
+- note: much of what is mocked as pedantic in formal Arabic is alive in colloquial speech, while عرنجية taste recoils from it. Replacing a native construction with a foreign one is distortion, not simplification. Echoes p41: when a formal construction has a living colloquial counterpart, it is native, and a rewrite toward it is safe.
+
+## p45 · RULE · تمّ + مصدر
+- cue: تمّ/يتمّ/سيتمّ + مصدر (تم إرسال، يتم تنفيذ)
+- source: passive "was sent / is done"
+- ✗ تمّ إرسال الرسالة → ✓ أُرسلت الرسالة (ours)
+- note: named here only as a well-known translators' error; the author's treatment comes later
+- open: collect the author's own rewrite and scope in ch.3 النحو (passive / light verbs)
+
+## p45 · CRITERION · the problem is pervasive, not a short blacklist
+- note: books on common errors keep repeating a handful of famous calques (لعب دورًا، تم إرسال، تغذية راجعة) and readers learn to avoid those few while treating everything else as sound. The author's claim: the damage is in the structure of modern Arabic as a whole, not in a few words. For the skill: a text free of the famous calques is not thereby clean; check constructions and word senses too, not just a list of phrases.
+
+## p47 · CRITERION · grammatical ≠ Arabic
+- note: following Ibn Jinni, grammar (نحو) means following the way Arabs build speech (سمت كلام العرب), not just case endings. A text can be free of إعراب errors and still be far from Arabic construction. So the skill should not clear a sentence because it parses correctly; and it should not spend its attention on case-ending slips at the expense of calqued meanings, usages and styles. Echoes p40.
+
+## p48 · CRITERION · "no grammarian forbids it" is not a defence
+- note: calque users answer objections with "ما أخطأ نحويّ", digging up rare readings and marginal justifications (شذوذات، توجيهات) to license a European pattern, not to follow Arab usage. The author's point: the foreignness of grammar is not about whether something is permitted, but about departing from how Arabic sentences are built. Same lesson as p39: a found justification does not clear a phrase.
+
+## p48 · RULE · over-extended adjectives (النعت)
+- cue: (heading only; examples start p49)
+- note: European languages stretch the adjective (attributive use) further than Arabic does, and عرنجية follows them. Definition reminder: نعت = a follower that denotes a meaning in its head noun or in something related to it (عالم in جاءني رجل عالم).
+- open: the list of examples starts on p49; record each as its own RULE
