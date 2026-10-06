@@ -15,6 +15,13 @@ The rules are distilled, page by page, from أحمد الغامدي، «العر
   page count, and a `carry` note for a pattern cut off at a page break.
 - `extraction/log.md` gets one line per processed page. Append only.
 - `extraction/candidates.md` holds the raw phase 1 output. Append only.
+- `scripts/page.sh N` renders PDF page N to a small grayscale PNG and prints
+  its path.
+- `.claude/skills/extract-next/` is the `/extract-next` command that runs one
+  phase 1 session.
+- `.claude/skills/build-skill/` is the `/build-skill` command that runs phase 2.
+  It regenerates `aranjiyyah/references/` from the candidates, so make fixes
+  in `candidates.md` (or the command), not by hand in the references.
 
 ## Phases
 
@@ -23,9 +30,8 @@ what matters, not the speed or repeatability of the extraction.
 
 1. **Collect** (`/extract-next`, PDF pages 1-215). Read every page and record
    anything that could become a rule in `candidates.md`. Favor recall.
-2. **Edit** (`/build-skill`), once collection is finished. It can also be run
-   early as a preview. With the whole book in view,
-   merge duplicates and repeated examples, generalize related candidates
+2. **Edit** (`/build-skill`), once collection is finished, or earlier as a
+   preview. With the whole book in view, merge duplicates and repeated examples, generalize related candidates
    into broader patterns, drop rhetoric that never became a concrete rule,
    and use the `CRITERION` and `ACCEPTED` candidates to set judgment rules
    and avoid false positives. Write the result to `aranjiyyah/references/`
@@ -33,13 +39,6 @@ what matters, not the speed or repeatability of the extraction.
    `aranjiyyah/SKILL.md`.
 3. **Evaluate.** Test the finished skill against plain Claude on real
    Arabic texts and revise it.
-- `scripts/page.sh N` renders PDF page N to a small grayscale PNG and prints
-  its path.
-- `.claude/skills/extract-next/` is the `/extract-next` command that runs one
-  phase 1 session.
-- `.claude/skills/build-skill/` is the `/build-skill` command that runs phase 2.
-  It regenerates `aranjiyyah/references/` from the candidates, so make fixes
-  in `candidates.md` (or the command), not by hand in the references.
 
 ## Rule entry format
 
