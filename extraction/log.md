@@ -99,3 +99,13 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 95 (p 97) · EXAMPLE×1 RULE×5 ACCEPTED×1 (ثنائية examples; يتموضع; يؤطر; القيم; البعد; وبالتالي). Extra page
 - pdf 96 (p 98) · EXAMPLE×2 (closes وبالتالي; opens عبد القادر القط sample: تبنّى). Extra page
 - pdf 97 (p 99) · EXAMPLE×2 RULE×2 (closes تبنّى; مبرر; الغير + adj; opens محمد عمارة sample: دراسة حول). Extra page (cap reached)
+- pdf 98 (p 100) · EXAMPLE×1 RULE×2 ACCEPTED×1 (closes دراسة حول; noun-for-verb دراسة; موضوعي)
+- pdf 99 (p 101) · RULE×3 EXAMPLE×1 (جاد; إيجابيات; تمتع = enjoy; opens المفضل = favourite)
+- pdf 100 (p 102) · EXAMPLE×1 RULE×3 (closes المفضل; أنا آسف; السيدة = lady; opens متطرف)
+- pdf 101 (p 103) · EXAMPLE×1 RULE×4 (closes متطرف; جهود; معلومات; متاح; opens فقد = lost)
+- pdf 102 (p 104) · EXAMPLE×1 RULE×2 (closes فقد; أمّن = secure; opens محترف = professional)
+- pdf 103 (p 105) · EXAMPLE×1 CRITERION×1 RULE×2 (closes محترف; سطحي; opens يشير إلى / مؤشر). Extra page
+- pdf 104 (p 106) · EXAMPLE×2 RULE×2 (closes يشير/مؤشر; حقل; مدرسة = school; opens الإنسانية/البشرية). Extra page
+- pdf 105 (p 107) · EXAMPLE×1 RULE×3 (closes الإنسانية/البشرية; درس = lesson; تحديات; opens تصفية = liquidate). Extra page
+- pdf 106 (p 108) · EXAMPLE×1 RULE×2 (closes تصفية; يدين لـ = owe; opens يمارس = practice). Extra page
+- pdf 107 (p 109) · EXAMPLE×1 RULE×2 ACCEPTED×1 (closes يمارس; صحي = healthy; opens وفقًا لـ). Extra page (cap reached)

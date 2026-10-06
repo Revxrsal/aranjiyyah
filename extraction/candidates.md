@@ -1449,3 +1449,319 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ الدراسة التي نقدمها حول هذا الكتاب → ✓ ? (rewrite on p100)
 - note: the author calls it an English construction (a study about), meaning examining and researching a matter; sample from محمد عمارة, 1410 AH. The same sample also has أقرب ما تكون إلى، التقييم الموضوعي الجاد، إيجابيات (see p69).
 - open: discussion continues on p100; collect the author's rewrite for حول and any comment on التقييم / الموضوعي / أقرب ما تكون
+
+## p100 · EXAMPLE · دراسة حول / حول = about
+- of: p99 دراسة حول
+- resolves: p99 دراسة حول (the author files it under styles: English nouns copied as nouns)
+- ✗ الدراسة التي نقدمها حول هذا الكتاب → ✓ ما نقدمه من نظر في هذا الكتاب / نظرنا في هذا الكتاب (ours, following the author's advice to use the verb)
+- note: the author places حول under أساليب الكلام; the deeper fault is matching an English noun with an Arabic noun.
+
+## p100 · RULE · noun for verb: دراسة / أجرى دراسة / تحت الدراسة
+- cue: أجرى دراسة، عمل دراسة، دراسة جادة، دراسة شاملة، دراسة حالة، تؤكد الدراسة، تدعم الدراسة، تحت الدراسة، إجراء دراسة
+- source: conduct a study; the study confirms/supports; case study; under study
+- ✗ أمر كذا ما زال تحت الدراسة → ✓ ما زلنا ننظر في أمر كذا / نبحث فيه (author)
+- ✗ (ابن خلدون) لا لتحقيق أحكامها الشرعية → "وليس لإجراء دراسة شاملة لحكمها القانوني" (author)
+- ✗ أجرينا دراسة على … → ✓ بحثنا في … / نظرنا في … (ours)
+- note: when English uses a noun, modern writers use a noun, and when English uses a verb they use the same verb, as if both must balance. Arabic would use the verb directly. The author says the whole دراسة family is taken from European usage.
+
+## p100 · RULE · موضوعي / موضوعية = objective
+- cue: موضوعي، موضوعيًّا، موضوعية، كن موضوعيًّا، رجل موضوعي، التقييم الموضوعي
+- source: objective, objectively, objectivity
+- ✗ هو رجل موضوعي → ✓ هو رجل منصف (author)
+- ✗ كن موضوعيًّا في حكمك → ✓ اعدل وأنصف في حكمك (author)
+- ✗ التقييم الموضوعي الجاد → ✓ النظر المنصف / الحكم العدل (ours)
+- note: a coinage from objective (via the "object" of a discipline, موضوع الطب بدن الإنسان) plus -ive/-ively endings; it has crowded out العدل والإنصاف وقول الحق.
+
+## p100 · ACCEPTED · الموضوعية as the name of the academic method
+- cue: الموضوعية (as a named school or method)
+- note: the author has no objection when الموضوعية names the foreign academic doctrine itself, not the plain meaning of fairness. Flag موضوعي only where منصف/عدل would do.
+
+## p101 · RULE · جادّ = serious (دراسة جادة)
+- cue: دراسة جادة، كتاب جاد، باحث جاد، عمل جاد، الجاد
+- source: a serious study / book / researcher
+- ✗ هذه دراسة جادة → ✓ هذه دراسة محققة / بحث متقن (ours)
+- ✗ باحث جاد → ✓ باحث مدقق / مجتهد في التحقيق (ours)
+- note: English serious describes a book that examines its matter carefully and works hard at it; Arabic جِدّ is the opposite of jest, not of carelessness. The author promises more under الاستعمالات والأساليب.
+- open: the author says it returns under styles; collect his rewrite there
+
+## p101 · EXAMPLE · إيجابيات / سلبيات
+- of: p69 سلبيات وإيجابيات
+- ✗ التقييم الموضوعي الجاد لما في الكتاب من إيجابيات → ✓ النظر المنصف فيما في الكتاب من محاسن (ours)
+- note: the author refers back to p69; the محمد عمارة sample stacks three items (موضوعي، جاد، إيجابيات) in one sentence.
+
+## p101 · RULE · تمتّع بـ = enjoy (have, possess)
+- cue: يتمتع بـ، تمتع بـ، يتمتع بمكانة، يتمتع بالمميزات
+- source: enjoy (a status, a right, privileges)
+- ✗ هذا الشاعر يتمتع بهذه المكانة عند جماهير غفيرة → ✓ لهذا الشاعر هذه المكانة عند جماهير غفيرة (ours, from the author's gloss "له")
+- ✗ اللفظ الفصيح المهمل يتمتع بمكانته عند التراثيين → ✓ للفظ الفصيح المهمل مكانته عند التراثيين (ours)
+- ✗ (Qur'an 38:25) وإن له عندنا لزلفى → "يتمتع بالقرب" (author)
+- ✗ (ابن حزم) ولقد رأيت من اجتمع له هذا كله → "تمتع بهذه المميزات بالكامل" (author)
+- ✗ (ابن خلدون) وكان أرسخهم في هذه العلوم قدمًا وأبعدهم فيه صيتًا وشهرة → "يتمتع بالمكانة الأعظم" (author)
+- note: English enjoy also means simply to have, whether or not there is pleasure in it. Arabic تمتّع is to take pleasure; for possession use له / عنده / اجتمع له. Also note بالكامل in the back-translation.
+
+## p101 · RULE · المفضّل = favourite
+- cue: المفضل، المفضلة، كتابي المفضل، لونه المفضل
+- source: favourite
+- ✗ ? (examples on p102)
+- note: English favourite once meant favour and preference, then came to mean the thing one likes most (أحب أصحابي إليّ محمد). Arabic copied it as المفضل.
+- open: discussion continues on p102; collect the author's examples and rewrite (أحبّ … إليّ)
+
+## p102 · EXAMPLE · المفضّل = favourite
+- of: p101 المفضل
+- resolves: p101 المفضل (the author gives the native form)
+- ✗ صاحبي المفضل محمد → ✓ أحبّ أصحابي إليّ محمد (author)
+- ✗ هذه أكلتي المفضلة → ✓ هذه أحبّ أكلة عندي (author)
+- ✗ شيخي المفضل → ✓ هذا أحب مشايخي إليّ (author)
+- ✗ (hadith) يعجبه أن يدعو الرجل بأحبّ أسمائه إليه وأحبّ كناه → "باسمه المفضل وكنيته المفضلة" (author)
+- note: the native pattern is أحبّ + noun + إليّ / عندي. The author notes colloquial Arabic still uses it, so the calque is a writer's habit.
+
+## p102 · RULE · أنا آسف = I'm sorry (apology)
+- cue: أنا آسف، آسف، نأسف لـ، نأسف للإزعاج، آسفون
+- source: I am sorry
+- ✗ أنا آسف، أرسلت إليك الكلام خطأ → ✓ معذرةً، أرسلت إليك الكلام خطأ (author)
+- ✓ (native) أسفتُ لفقد فلان = حزنت (author: Qur'an 18:6 أسفًا، أبو العتاهية)
+- note: Arabic أسف is grief. English uses sorry first for sharing someone's grief and then for any apology, even by the one at fault; Arabic copied the apology sense until it nearly displaced the original. For an apology use معذرةً / أعتذر / عفوًا.
+
+## p102 · RULE · السيّدة / السيدات = lady, for any woman
+- cue: السيدة، السيدات، سيدة (meaning a woman in general), سيدات الأعمال
+- source: lady, ladies
+- ✗ (Qur'an 12:30) وقال نسوة في المدينة → "بعض السيدات" (author)
+- ✗ (hadith) فضل عائشة على النساء → "على السيدات" (author)
+- ✗ قالت إحدى السيدات → ✓ قالت إحدى النساء / امرأة (ours)
+- note: English avoids "woman" and says lady out of courtesy; Arabic writers copied it and use السيدة (once: the noble, eminent woman) for any woman. Plain المرأة / النساء is the Arabic.
+
+## p102 · RULE · متطرّف = extremist
+- cue: متطرف، متطرفون، التطرف، تطرّف
+- source: extremist, extreme
+- ✗ ? (author's alternative on p103)
+- note: derived from extreme (the edge or end of a thing, طرف); the author says Arabs express this differently.
+- open: discussion continues on p103; collect the author's native term (غالٍ، غلوّ، متشدد؟)
+
+## p103 · EXAMPLE · متطرّف = extremist
+- of: p102 متطرف
+- resolves: p102 متطرف (the author gives the native terms)
+- ✗ (hadith) هلك المتنطعون → "المتطرفون" (author)
+- ✗ (hadith) ينفون عنه تحريف الغالين → "يرفضون التغييرات التي يقوم بها المتطرفون" (author)
+- ✗ (الجاحظ) صاحبة الغالية من الشيعة → "الطائفة الشيعية المتطرفة" (author)
+- ✗ (ابن خلدون) ومن هؤلاء الغلاة → "المتطرفين" (author)
+- ✗ جماعة متطرفة → ✓ جماعة غالية / من الغلاة (ours)
+- note: Arabic names this with الإفراط والتفريط والغلو والجفاء (and المتنطع، الغالي). Also note تغييرات يقوم بها (see p45 تمّ for the light-verb habit).
+
+## p103 · RULE · جهود = efforts (plural)
+- cue: جهود، جهوده، الجهود المبذولة، بذل جهودًا، جهود فلان في
+- source: efforts
+- ✗ (Qur'an 76:22) وكان سعيكم مشكورًا → "سيتم تقدير جهودكم" (author)
+- ✗ (عمر) فالرجل وبلاؤه في الإسلام → "جهود الرجل في سبيل الإسلام" (author)
+- ✗ (ابن طفيل) فكان سعيه على نفسه من حيث لا يشعر → "جهوده ضده" (author)
+- ✗ (ابن خلدون) بأعمالهم ومساعيهم من الكسب … → "الأنشطة والجهود" (author)
+- ✗ نشكر جهودكم → ✓ نشكر سعيكم / عملكم (ours)
+- note: a word-for-word rendering of efforts, plural like the English. Arabic says سعي، عمل، فعال، بلاء (singular جهد is fine in its own sense). Also note سيتم + مصدر (see p45, p59).
+
+## p103 · RULE · معلومات = information
+- cue: معلومات، معلومات حول، معلومات متاحة، أي معلومات، الحصول على معلومات
+- source: information
+- ✗ ليست هناك معلومات متاحة عن طفولته → ✓ ليس عندنا خبر عن طفولته / لم يبلغنا من خبر طفولته شيء (ours, from the author's colloquial ما عندنا خبر عن كذا)
+- ✗ (Qur'an 28:29) لعلي آتيكم منها بخبر → "منها بمعلومات" (author)
+- ✗ (hadith) من يأتيني بخبر القوم → "من سوف يحضر لي معلومات حولهم؟" (author)
+- ✗ (ابن حزم) ليس في شيء من الدنيا خبر عن ملوك … → "معلومات" (author)
+- ✗ (ابن خلكان) فلم يقع له على خبر → "لم يستطع أن يحصل على أي معلومات" (author)
+- ✗ (ابن خلدون) فزدت ما نقص من أخبار ملوك العجم → "فملأت الفجوة في المعلومات التاريخية حول الحكام الغير عرب" (author)
+- note: English information stands where Arabic says الخبر / الأخبار; common speech still says ما عندنا خبر. The back-translations also show حول = about (p99), الغير + noun (p99), ملأ الفجوة (fill the gap) and سوف.
+
+## p103 · RULE · متاح = available
+- cue: متاح، متاحة، المتاح، أتاح (in the sense available)
+- source: available (French disponible)
+- ✗ معلومات متاحة عن … → ✓ ما يُعرف عن … / ما بلغنا من خبر … (ours)
+- ✓ (native) as in المثل: the author doesn't condemn the word itself, only the European habit and excess (الإسراف فيها)
+- note: overused to match available; ordinary Arabic phrasing usually needs no adjective (ليس عندنا / لم يبلغنا).
+
+## p103 · RULE · فقد = lost (lose control, lose power)
+- cue: فقد السيطرة، فقدوا السيطرة على، فقد الأمل، فقد ثقته
+- source: lose (control)
+- ✗ نستنتج أن العثمانيين كانوا فقدوا السيطرة على … → ✓ ? (continues on p104)
+- note: the author calls الفقد a translation of English lost.
+- open: discussion continues on p104; collect the full sample and the author's native wording (خرج من أيديهم، ذهب سلطانهم؟)
+
+## p104 · EXAMPLE · فقد = lost (control, consciousness, interest, hope)
+- of: p103 فقد
+- resolves: p103 فقد (the author gives native wording for each)
+- ✗ كانوا فقدوا السيطرة على الوضع → ✓ خرج الأمر من أيديهم وعن طوعهم / اعتاص عليهم / استعصى / ما ملكوا أمره / غُلبوا عليه (author)
+- ✗ فقد وعيه تحت وطأة هذا الهول → ✓ أُغمي عليه / غُشي عليه (author)
+- ✗ فقد اهتمامه بالجميع / فقد الاهتمام بالناس → ✓ مال عنهم، رغب عنهم، زهد فيهم (author)
+- ✗ فقد الأمل → ✓ يئس، قنط (author)
+- note: lost control / lost consciousness / lost interest / lost hope; English "lose" frames each state as a loss, and Arabic has a verb for each. The author says many more such فقد phrases follow the European way. Also note تحت وطأة (under the weight of).
+- open: check whether تحت وطأة is treated on its own later
+
+## p104 · RULE · أمّن = secure (obtain, get hold of)
+- cue: أمّن، يؤمّن، تأمين (المال، العمل، الدعم، الاحتياجات)، أمّن له
+- source: secure (funds, a job, support)
+- ✗ أمّن المال لأمر كذا → ✓ أصاب / حصّل المال لأمر كذا (ours)
+- ✗ أمّن عملًا في مكان كذا → ✓ أصاب عملًا / ظفر بعمل (ours)
+- ✗ (Qur'an 7:188) لاستكثرت من الخير → "لأمّنت كثيرًا من الخير" (author)
+- ✗ (hadith) ليصيب به عرضًا من الدنيا → "يؤمّن به وسائل الراحة الدنيوية" (author)
+- ✗ (ابن منقذ) كنا نريد لهذا الرهوار سرجًا مليحًا → "نريد أن نؤمّن سرجًا أنيقًا" (author)
+- ✗ (ابن منقذ) أحضر له منها بزاة → "أمّن له" (author)
+- ✗ (ابن خلدون) واستظهروا بملوك النصرانية → "وأمّنوا دعم حكام النصارى" (author)
+- note: English secure moved from safety to obtaining and holding a thing; Arabic أمّن followed. Native verbs: أصاب، نال، استكثر من، أحضر، استظهر بـ. The author rejects the theory that it comes from colloquial تقمّن.
+
+## p104 · RULE · محترف / احترافي = professional
+- cue: محترف، احترافي، احترافية، باحتراف، أديب محترف
+- source: professional
+- ✗ كأنك بين يدي أديب محترف كبير أتقن وأجاد → ✓ ? (continues on p105)
+- note: English uses professional of a skilled practitioner; in Arabic المحترف is one who earns his living by a craft (فلان محترف بالكتابة = writing is his trade), not a mark of skill.
+- open: discussion continues on p105; collect the author's native praise word (حاذق، متقن، بارع؟)
+
+## p105 · EXAMPLE · محترف / احترافي = professional
+- of: p104 محترف
+- resolves: p104 محترف (the author gives the native praise words)
+- ✗ أديب محترف كبير أتقن وأجاد → ✓ أديب حاذق بارع متقن (ours, from the author's gloss الحاذق البارع المتقن المحكم)
+- ✗ عمل احترافي → ✓ عمل متقن محكم (ours)
+- note: English stretched professional to mean expert, as if the person had made the skill a trade until mastering it; the sense has displaced the Arabic one.
+
+## p105 · CRITERION · احترف in older texts means took up as a trade
+- cue: احترف بـ / احترف + craft in classical sources
+- note: in a classical text احترف بالغناء means singing was his livelihood, not that he mastered it. Don't read the modern "skilled" sense back into old sources, and don't flag classical احترف used this way.
+
+## p105 · RULE · سطحي / السطحية = superficial
+- cue: سطحي، سطحيون، السطحيين، معرفة سطحية، السطحية، بسطحية
+- source: superficial
+- ✗ بعض الناس السطحيين يقولون … → ✓ ظنّ بعض المغفلين كذا (author)
+- ✗ لا يعرفونها إلا معرفة سطحية → ✓ لا يعلمون منها إلا ظاهرها (author)
+- ✗ لا يمكن بحال قبول مثل هذه السطحية في التبرير → ✓ لا يُقبل بحال مثل هذا الجفاء في التعليل (author)
+- ✓ (classical) ابن المقفع: الجاهل بالعلم، والجافي بالفقه = the superficial one, and الفقه for depth (author's footnote)
+- note: from superficial; Arabic uses مغفل، ظاهر الشيء، الجفاء، الجافي, and الفقه for its opposite (العمق). Also note مبرر/تبرير (p99) in the same example.
+
+## p105 · RULE · يشير إلى / مؤشّر على = indicate, indicator
+- cue: يشير إلى أن، تشير الدراسات إلى، مؤشر على، مؤشرًا على، مؤشرات
+- source: indicate, indication, indicator
+- ✗ [هذا النص] يشير إلى أن هذا الافتراء بدأ في نهاية القرن الثالث → ✓ في هذا النص دليل على أن … (ours, from the author's فيصلح أن تقول: في ذلك دليل)
+- ✗ المرأة بطبيعتها تنفر من شيب الرجل بوصفه مؤشر الضعف → ✓ … لأنه علامة الضعف / أمارته (ours)
+- note: English indication first meant pointing at a thing to single it out, then widened to any sign or evidence; Arabic copied it as إشارة/مؤشر. Native words: الدليل، القرينة، العلامة، الأمارة، الآية. The example also has بطبيعتها (by nature) and بوصفه (as).
+- open: discussion continues on p106; collect the rest of the author's suggested wording
+
+## p106 · EXAMPLE · يشير إلى / مؤشّر على = indicate
+- of: p105 يشير إلى / مؤشر على
+- resolves: p105 يشير إلى (the author's rewrites)
+- ✗ يشير إلى أن هذا الافتراء قديم → ✓ في ذلك دليل على قِدم هذا الافتراء (author)
+- ✗ بوصفه مؤشر الضعف → ✓ لأنه دليل على الضعف وقرينة عليه (author)
+- ✗ (Qur'an 25:45) ثم جعلنا الشمس عليه دليلًا → "مؤشرًا عليها" (author)
+- ✗ (ابن حزم) دليل على التوجع والأسف → "مؤشر" (author)
+- ✗ (ابن خلدون) علامة على الملك ودليلًا عليه → "علامة ومؤشرًا للسلطة الملكية" (author)
+- note: the same Ibn Khaldun back-translation has من خلال (p54), يتبنون (p29) and المعاكسة (opposite).
+
+## p106 · EXAMPLE · حقل = field (of study)
+- of: p37 حقل
+- ✗ مساهمته الجادة في حقل التفسير → ✓ … في علم التفسير (author)
+- ✗ العاملين في حقل الترجمة والتعريب → ✓ المشتغلين بالترجمة والتعريب (ours)
+- ✗ التصنيف في حقل الفلسفة → ✓ هو كثير التصنيف في الفلسفة (author)
+- ✗ حقل التاريخ → ✓ علم التاريخ / فن التاريخ (author)
+- note: English field (land for sowing) widened to a branch of knowledge. The author says English needs the word for grammar, but Arabic is better dropping it or saying علم / فن. Also note مساهمة جادة (p101 جاد).
+
+## p106 · RULE · مدرسة = school (of thought)
+- cue: المدرسة البصرية، المدرسة الكوفية، مدرسة الحديث، مدرسة الرأي، المدرسة + نسبة
+- source: school (of thought)
+- ✗ وإذا تركنا المدرسة البصرية إلى المدرسة الكوفية → ✓ وإذا تركنا مذهب البصريين إلى مذهب الكوفيين (ours, from the author's gloss المذهب والطريقة)
+- ✗ يُعدّ أميل إلى مدرسة الحديث منه إلى مدرسة الرأي → ✓ هو أميل إلى أهل الحديث منه إلى أهل الرأي (ours)
+- note: English school (the building where one studies) widened to a doctrine or method. Arabic says المذهب / الطريقة / أهل كذا. The author's examples come from leading Arabic scholars, so the calque is widespread.
+
+## p106 · RULE · الإنسانية / البشرية = humanity, mankind
+- cue: الإنسانية جمعاء، البشرية، كانت البشرية محتاجة، خدمة الإنسانية
+- source: humanity
+- ✗ تقوية وشائج التعاون مع الإنسانية جمعاء → ✓ ? (continues on p107)
+- ✗ كانت البشرية محتاجة إلى معرفة صحيحة للرب → ✓ ? (continues on p107)
+- note: the author starts explaining that humanity was originally an abstract noun (مصدر).
+- open: discussion continues on p107; collect the native term (الناس، الخلق، بنو آدم؟); link with p37 ينفع الإنسانية
+
+## p107 · EXAMPLE · الإنسانية / البشرية = humanity
+- of: p106 الإنسانية / البشرية
+- resolves: p106 الإنسانية / البشرية (native: الناس)
+- ✗ تقوية وشائج التعاون مع الإنسانية جمعاء → ✓ … مع الناس جميعًا (ours, from the author's الناس)
+- ✗ كانت البشرية محتاجة إلى … → ✓ كان الناس محتاجين إلى … (ours)
+- ✗ (Qur'an 3:138) هذا بيان للناس → "بيان للبشرية" (author)
+- ✗ (hadith) عليه لعنة الله والملائكة والناس أجمعين → "والإنسانية جمعاء" (author)
+- note: humanity was an abstract noun (being human) that English stretched to mean all people. The author compares it to saying لا بد أن تجتمع الآدمية; it only sounds normal because we are used to it.
+
+## p107 · RULE · درس = lesson (moral); تعلّم من = learn from
+- cue: درس نتعلمه، دروس الأزمة، تعلّم درسًا، استخلص الدروس، تعلّم من أخطاء
+- source: lesson, learn a lesson, learn from
+- ✗ هذا أول درس نتعلمه من تلك السيرة العطرة → ✓ هذه أول عبرة في تلك السيرة (ours, from the author's العظة والعبرة)
+- ✗ العرب لم يتعلموا شيئًا من دروس الأزمة → ✓ لم يعتبر العرب بالأزمة / لم يتعظوا بها (ours)
+- ✗ تعلّم من أخطاء الآخرين → ✓ اتّعظ بهم / اعتبر بأخطائهم (author)
+- ✗ (Qur'an 59:2) فاعتبروا يا أولي الأبصار → "تعلموا درسًا" (author)
+- ✗ (ابن حزم) وكفى بهذا واعظًا لمن عقل → "يجب أن يكون هذا الدرس كافيًا لشخص عاقل" (author)
+- ✗ (الماوردي) إن للباقي بالماضي معتبرًا → "هناك درس يتم تعلمه من الماضي من قبل الجميع" (author)
+- ✓ (native) ألقيت درسًا في الفقه (author: the original sense of a lesson taught)
+- note: English widened lesson to a moral and learn to taking heed. Arabic says عبرة، عظة، اعتبر، اتّعظ. The الماوردي back-translation also has هناك, يتم + مصدر and من قبل (agent of a passive).
+
+## p107 · RULE · تحدٍّ / تحديات = challenge
+- cue: تحدٍّ، تحديات، التحديات التي تواجه، واجه تحديًا، تحدي الاستعمار
+- source: challenge(s)
+- ✗ كثيرة تلك التحديات التي واجهت الإسلام والمسلمين → ✓ كثيرة تلك الخطوب والمحن التي نزلت بالإسلام والمسلمين (ours, from the author's word list)
+- ✗ تطورت فكرة الجامعة الإسلامية كردٍّ على تحدي الاستعمار → ✓ … دفعًا لشدّة الاستعمار وكيده (ours)
+- note: التحدي is a real challenge to a contest; English stretched challenge to any hardship. Native: الخطوب، المحن، البلايا، الشدائد، الأمر الكؤود الجسيم. The example also has كـ + ردّ على (as a response to).
+- open: check whether كـ = as (كردّ على) is treated on its own
+
+## p107 · RULE · صفّى / تصفية = liquidate (kill)
+- cue: تصفية + person، صفّى، تمت تصفيته، تصفية جسدية
+- source: liquidate
+- ✗ جاءت تصفية كعب بن الأشرف بعد معركة بدر الكبرى → ✓ ? (continues on p108)
+- note: in English, liquidate (clear away the dregs, as one clarifies a thing) came to mean killing an opponent.
+- open: discussion continues on p108; collect the author's native verb (قتل، اغتال؟)
+
+## p108 · EXAMPLE · صفّى / تصفية = liquidate (settle, dissolve, kill)
+- of: p107 صفّى / تصفية
+- resolves: p107 صفّى (the author lists the native verbs)
+- ✗ جاءت تصفية كعب بن الأشرف بعد بدر → ✓ جاء قتل كعب بن الأشرف بعد بدر (ours, from the author's قتله)
+- ✗ صفّى دينه وحسابه → ✓ قضى دينه (author)
+- ✗ صفّى الشركة → ✓ حلّ الشركة (author)
+- ✗ صفّى المرء → ✓ قتله (author)
+- note: English liquidate (to clear a liquid of its dregs) spread to settling debts, winding up a company and killing; the author says all three uses in Arabic are European.
+
+## p108 · RULE · يدين لـ بـ = owe (credit someone with)
+- cue: أدين له بـ، يدين بـ … إلى/لـ، يدين بانتشاره إلى
+- source: owe (I owe my love of poetry to him)
+- ✗ الشاعر العظيم والذي أدين له بحبي للشعر → ✓ الشاعر العظيم الذي له الفضل في حبّي الشعر (author)
+- ✗ فهو مفهوم لا يدين بانتشاره إلى أساسه العلمي → ✓ وليست علة انتشاره أساسه العلمي / ولم ينتشر لأساسه العلمي / وما كان انتشاره عن أساسه العلمي (author)
+- note: English owe moved from a money debt to crediting a cause or person. Arabic needs no special word for this: له الفضل في، علة كذا، لكذا، عن كذا. The first example also has و + الذي after an adjective (والذي أدين) and حبي للشعر where Arabic says حبي الشعر.
+- open: check whether و + الذي (العظيم والذي) is treated under the grammar or style sections
+
+## p108 · RULE · يمارس / ممارسة / ممارسات = exercise, practice
+- cue: يمارس، ممارسة + abstract noun (ممارسة العدل، ممارسة الحرية)، ممارسات
+- source: exercise, practice
+- ✗ وقد حثّ القرآن الكريم على ممارسة العدل دنوًّا من التقوى → ✓ ? (continues on p109)
+- ✗ لا فرق بين ممارسات الرسول اليومية وبين ما يدعو إليه القرآن → ✓ ? (continues on p109)
+- ✓ (native) مارس الأمر = عاناه وزاوله على شدة (author: عباس بن مرداس، جعفر بن وهب)
+- note: Arabic ممارسة is struggling with a hard thing until one masters it, close to the English root sense; the modern use for doing any act is the calque.
+- open: discussion continues on p109; collect the author's rewrites (عمل، فعل، سيرة، هدي؟)
+
+## p109 · EXAMPLE · يمارس / ممارسة / ممارسات = exercise, practice
+- of: p108 يمارس / ممارسة
+- resolves: p108 يمارس (the author's test and back-translations)
+- ✗ ممارسة العدل → ✓ العدل / أن يعدل (ours); ✗ ممارسة التأثير → ✓ التأثير (ours); ✗ الممارسات السيئة → ✓ الأعمال السيئة / المعالجات السيئة (ours, from the author's paraphrase)
+- ✗ (Qur'an 33:36) أن يكون لهم الخيرة من أمرهم → "أن يمارسوا أي اختيار" (author)
+- ✗ (Qur'an 42:15) وأمرت لأعدل بينكم → "بممارسة العدل بينكم" (author)
+- ✗ (Qur'an 61:3) أن تقولوا ما لا تفعلون → "تعظوا بشيء لا تمارسونه" (author)
+- ✗ (Qur'an 26:168) إني لعملكم من القالين → "أنا حقًا أحد الذين يزدرون ممارساتكم" (author)
+- ✗ (ابن طفيل) من الأعمال الشرعية → "الممارسات الدينية" (author)
+- ✗ (ابن حزم) استعمال المعاصي والرذائل → "ممارسة المعاصي"؛ يصحبه العمل → "الممارسة" (author)
+- note: English practice covers any doing, and also habit and custom. Test: if you can't say فلان يعاني العدل ويزاوله, then ممارسة is the calque. Use the verb itself, or عمل / فعل / استعمل.
+
+## p109 · RULE · صحّي = healthy (sound, good, beneficial)
+- cue: صحي، غير صحي، أمر صحي، فهم غير صحي، علاقة صحية، بيئة صحية (figurative)
+- source: healthy
+- ✗ وشهدت هذه الحقبة فهمًا غير صحي للدين → ✓ … فهمًا غير سويّ للدين / فهمًا سقيمًا (ours, from the author's السوي السليم)
+- ✗ الانفتاح على روايات الشعوب الأخرى أمر صحي جدًّا بالنسبة إلى الكاتب العربي → ✓ … أمر نافع للكاتب العربي (ours)
+- ✗ (ابن حزم) ولا خلق حميد → "أو خلق صحي" (author)
+- note: English healthy widened to anything good, useful or sound; Arabic says الحسن المحمود، النافع، السويّ السليم. The example also has بالنسبة إلى (for).
+
+## p109 · ACCEPTED · صحي in the literal sense (good for the body)
+- cue: صحية الهواء، مدينة صحية
+- ✓ وهي مدينة حسنة البناء صحية الهواء (ابن العديم, بغية الطلب)
+- note: صحي meaning wholesome for health is old and sound; flag only the figurative English sense.
+
+## p109 · RULE · وفقًا لـ = according to
+- cue: وفقًا لـ، وفقًا للمؤرخين، طبقًا لـ
+- source: according to
+- ✗ ووفقًا للمؤرخين اليهود فإن هذا الصندوق يحتوي أيضًا على عصا → ✓ ? (continues on p110)
+- note: the sample also has يحتوي على (contains) and أيضًا.
+- open: discussion continues on p110; collect the remaining examples and the author's native wording (زعم، ذكر، فيما يقول؟)
