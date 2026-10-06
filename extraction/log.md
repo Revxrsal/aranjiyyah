@@ -171,3 +171,8 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 167 (p 169) · EXAMPLE×2 CRITERION×1 (Khalida Said end; Laroui sample; verdict: both translate to English as is)
 - pdf 168 (p 170) · EXAMPLE×1 RULE×2 (توجد opener; مبكر = early; مدعوم بدليل = supported by)
 - pdf 169 (p 171) · EXAMPLE×2 METHOD×1 (الدعم footnote; samples without comment; Jamal Fawzi Ammar table opens)
+- pdf 170 (p 172) · EXAMPLE×2 RULE×2 (Ammar table ends; deeply rooted; Munif sample opens; بصورة عامة)
+- pdf 171 (p 173) · EXAMPLE×1 RULE×1 (Munif table ends; أضاف/إضافي footnote begins)
+- pdf 172 (p 174) · EXAMPLE×2 RULE×2 (أضاف footnote ends with author rewrites; Abbas sample opens; في آن واحد; المقاربات)
+- pdf 173 (p 175) · EXAMPLE×1 RULE×1 (Abbas table ends; shared object of two verbal nouns)
+- pdf 174 (p 176) · EXAMPLE×1 CRITERION×1 (Abbas verdict, المقاربة = النهج; أفكار magazine sampling begins)

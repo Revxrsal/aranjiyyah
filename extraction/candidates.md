@@ -2940,3 +2940,104 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ البحث في طبيعة المعرفة التاريخية والمؤرخين الذين شكلت كتاباتهم مادة هذه المعرفة، ومحاولة تصور مسيرة الحركة التأريخية للتاريخ الإسلامي → ✓ ? (= Research into the nature of historical knowledge and the historians whose writings have formed the substance of this knowledge, and the attempt to imagine the path of the historiographical movement …)
 - note: the round trip Arabic → English → Arabic gives back the original word for word. Cues: البحث في طبيعة (research into the nature of), شكّلت مادة (formed the substance), محاولة تصور (the attempt to imagine), مسيرة الحركة (path of the movement), nominal chains.
 - open: the Ammar table continues on p172
+
+## p172 · EXAMPLE · Jamal Fawzi Ammar sample, table ends
+- of: p171 EXAMPLE Jamal Fawzi Ammar sample
+- resolves: p171 open (the Ammar table continues)
+- ✗ هو أحد فروع الدراسات التاريخية عميقة الجذور في حقل التراث التاريخي الإسلامي → ✓ ? (= is one of the branches of history studies which is deeply rooted in the field of Islamic historical heritage)
+- note: cues: هو أحد فروع (is one of the branches of), عميقة الجذور (deeply rooted), في حقل (in the field of; see p37 حقل), stacked adjective chain التراث التاريخي الإسلامي.
+
+## p172 · RULE · عميق الجذور / متجذر بعمق / متجذر بشكل عميق (deeply rooted)
+- cue: عميق الجذور، عميقة الجذور، متجذر بعمق، متجذرة بشكل عميق، متجذر في
+- source: deeply rooted
+- ✗ متجذرة فيهم بعمق → ✓ رسوخ الحضارة فيهم (author, Ibn Khaldun: لما قدمناه من رسوخ الحضارة فيهم)
+- ✗ متجذرة بعمق أكثر في العروبية → ✓ أعرق في العروبية (author, Ibn Khaldun)
+- ✓ (ours): راسخ، عريق، أصيل، ضارب بجذوره
+- note: English deeply rooted gets three competing Arabic renderings, all common in modern prose; the old language says رسخ / راسخ and عريق / أعرق.
+
+## p172 · EXAMPLE · Abdulrahman Munif sample (سيرة مدينة), table opens
+- of: p167 CRITERION word-for-word English test
+- ✗ ورغم أن الأردن، رسميًا، كان إلى جانب الحلفاء، وأعلن دخوله الحرب، إلا أن عواطف الناس، بصورة عامة، … → ✓ ? (= Even though Jordan, officially, was on the side of the allies, and announced that it would enter the war, nevertheless people's emotions, generally speaking, …)
+- note: cues: رغم أن … إلا أن (even though … nevertheless; compare p31 بالرغم من), رسميًا set off by commas as an interjected adverb (officially), إلى جانب (on the side of), بصورة عامة between commas (generally speaking). Munif is described as one of the major writers of the age.
+- open: the Munif table continues on p173
+
+## p172 · RULE · بصورة عامة / بشكل عام / بصفة عامة (generally speaking)
+- cue: بصورة عامة، بشكل عام، بصفة عامة، بوجه عام
+- source: generally speaking / in general
+- ✗ إلا أن عواطف الناس، بصورة عامة، … → ✓ ? 
+- ✓ (ours): عامةً، في الجملة، على العموم، في الغالب، أكثر الناس …
+- note: one English phrase, three competing renderings, all current in modern prose; often slotted between commas as an interjected adverb, which is the English pattern. Compare p66 بشكل معتاد, p83 بصورة بارزة.
+
+## p173 · EXAMPLE · Abdulrahman Munif sample, table ends
+- of: p172 EXAMPLE Abdulrahman Munif sample
+- resolves: p172 open (the Munif table continues)
+- ✗ ويمكن تفسير هذه العواطف بسهولة، فالموقف تجاه اليهود أبرزها → ✓ ? (= These emotions can be easily explained, the attitude towards the Jews being the most prominent one)
+- ✗ يضاف إلى ذلك أن النظرة نحو الإنكليز، وإلى الفرنسيين لم تكن ودية، بل معادية → ✓ ? (= and add to this that the view towards the English and French was not friendly, but rather, hostile)
+- ✗ نظرًا لكونهما المستعمرين المباشرين → ✓ ? (= in light of their being the immediate colonizers)
+- ✗ ثم إن مجيء عدد إضافي من الإنجليز في هذه الفترة وتعزيز بعض الوحدات، خاصة قوات البادية، والتي كانت الزرقاء مقرًا لها، جعل الناس يتخوفون → ✓ ? (= the arrival of an additional number … and the reinforcement of some of the units, particularly the Badia Force which was based in Zarqa, made the people apprehensive)
+- note: cues: يمكن تفسير … بسهولة (can be easily explained; p161 added يمكن), الموقف تجاه / النظرة نحو (attitude/view towards; p53 نحو / تجاه), يضاف إلى ذلك أن (add to this that), لم تكن ودية بل معادية (not friendly but rather hostile), نظرًا لكونهما (in light of their being), عدد إضافي (an additional number), خاصة between commas (particularly), والتي كانت (which was, و before relative), مجيء … وتعزيز … جعل الناس (nominal subject + made the people).
+
+## p173 · RULE · إضافي / يضاف إلى ذلك / بالإضافة (additional, add to this)
+- cue: عدد إضافي، إضافي، إضافية، يضاف إلى ذلك أن، بالإضافة إلى، إضافةً إلى
+- source: additional, in addition, add to this
+- ✗ مجيء عدد إضافي من الإنجليز → ✓ مجيء مزيد من الإنجليز / عدد آخر من الإنجليز (ours)
+- ✗ يضاف إلى ذلك أن … → ✓ ثم إن … / وفوق ذلك … / ومع ذلك أن … (ours)
+- note: the author says أضاف and many of its derivatives in modern prose, as in عدد إضافي, follow English usage, and have crowded out the words Arabic used for these senses.
+- open: the footnote continues on p174; collect the words the author says أضاف displaced
+
+## p174 · EXAMPLE · أضاف / إضافي for زاد / زيادة / مزيد
+- of: p173 RULE إضافي / يضاف إلى ذلك / بالإضافة
+- resolves: p173 open (the words أضاف displaced)
+- ✗ يعطيك قوة إضافية → ✓ يزيدك قوة (author)
+- ✗ أضفنا لهم المزيد من العذاب → ✓ زدناهم عذابًا فوق العذاب (author, Quran, via English translation)
+- ✗ وتسعة إضافية → ✓ وازدادوا تسعًا (author, Quran)
+- ✗ أضف الكثير من الماء → ✓ فأكثر ماءها (author, hadith)
+- ✗ شرط إضافي على شروط الصداقة → ✓ شرط زائد على شروط الصداقة (author, Ibn Hazm)
+- ✗ من غير أن يضيف أي شيء → ✓ فإن لم يزدك بيانًا (author, Ibn Hazm)
+- note: English uses add/additional where Arabic says زاد، زيادة، زائد، مزيد، أكثر، ازداد. Moderns copied the English choice and the native زيادة family lost ground.
+
+## p174 · EXAMPLE · Mahmoud Jaber Abbas sample (ظاهرة التعالق النصي في الشعر السعودي الحديث), table opens
+- of: p167 CRITERION word-for-word English test
+- ✗ كوّنت المقاربات النقدية الحديثة التي عرفها النصف الثاني من القرن العشرين حول قضايا الشعر العربي المعاصر أحد الاتجاهات الأساسية → ✓ ? (= The modern critical approaches known to the second half of the 20th century concerning issues of contemporary Arabic poetry have formed one of the primary trends)
+- ✗ التي احتدم النقاش والجدل حولها بين نقادنا منذ مدة ليست بالقصيرة → ✓ ? (= around which discussion and debate have raged amongst our critics for more than a short while)
+- ✗ ولا تزال تثير جدلًا متواصلًا ومتشعبًا ومثيرًا في آن واحد → ✓ ? (= They still arouse constant debate which is both complex and interesting at the same time)
+- note: cues: كوّنت … أحد الاتجاهات (have formed one of the trends; compare p171 شكّلت مادة), المقاربات (approaches), عرفها النصف الثاني من القرن (known to the second half of the century: a period as the subject that knows), حول قضايا (concerning issues; p99 حول = about), أحد الاتجاهات الأساسية (p86 اتجاه), احتدم النقاش والجدل حولها (debate raged around), منذ مدة ليست بالقصيرة (for more than a short while, litotes), تثير جدلًا (arouse debate), في آن واحد (at the same time). The writer is a professor of Arabic.
+- open: the Abbas table continues on p175
+
+## p174 · RULE · في آن واحد / في نفس الوقت (at the same time)
+- cue: في آن واحد، في الوقت نفسه، في نفس الوقت
+- source: at the same time
+- ✗ جدلًا متواصلًا ومتشعبًا ومثيرًا في آن واحد → ✓ ? 
+- ✓ (ours): drop it, or use معًا / جميعًا / مع … (جدلًا متشعبًا مثيرًا معًا)
+- note: the English rendering has at the same time and the back-translation gives في نفس الوقت, showing the phrase is the English adverb; used to join two qualities, not two simultaneous events.
+
+## p174 · RULE · المقاربة / المقاربات (approach)
+- cue: مقاربة، المقاربات النقدية، مقاربة نقدية، مقاربة جديدة
+- source: approach (critical approaches)
+- ✗ المقاربات النقدية الحديثة → ✓ ? (ours: مناهج النقد الحديثة / مذاهب النقد)
+- note: approach (method of treating a subject) rendered by the root قرب; standard in Arabic criticism since the late 20th century. Compare p126, where مقاربة appears in a translated plot-against sentence.
+
+## p175 · EXAMPLE · Mahmoud Jaber Abbas sample, table ends
+- of: p174 EXAMPLE Mahmoud Jaber Abbas sample
+- resolves: p174 open (the Abbas table continues)
+- ✗ محاولين تفحص ودراسة آليات التحديث الشعري الذي يؤلف الأساس الفكري والجمالي في الكشف عن رؤية حديثة لقضايا التعبير الشكلي والبنائي والسوسيولوجي → ✓ ? (= as the critics attempt to examine and study mechanisms for the modernization of poetry, which forms the intellectual and aesthetic basis for uncovering a modern vision concerning issues of formalist, structuralist, and sociological expression)
+- ✗ والبنية اللغوية وقدرتها في انتهاك قانون المعيارية والوصفية → ✓ ? (= linguistic structure and its ability to violate the law of normativity and descriptiveness)
+- ✗ وقد بذل الشعراء والنقاد العرب -من منظري الحداثة العربية- جهودًا واضحة ومتميزة في الجهد التنظيري والإبداعي والتطبيقي → ✓ ? (= Arab poets and critics, from amongst the theorists of Arab modernism, have expended evident and distinguished efforts in this theoretical, creative, and applied endeavor)
+- note: cues: محاولين + مصدر (attempting to; circumstantial participle opening a clause), تفحص ودراسة (two coordinated verbal nouns sharing one object: examine and study X), آليات (mechanisms), يؤلف الأساس (forms the basis; compare p171 شكّلت مادة, p174 كوّنت), الكشف عن رؤية (uncovering a vision), قضايا (issues), stacked nisba adjectives (الشكلي والبنائي والسوسيولوجي، الفكري والجمالي، التنظيري والإبداعي والتطبيقي), loanword السوسيولوجي, قدرتها في انتهاك (ability to violate), بذل جهودًا واضحة ومتميزة (expended evident and distinguished efforts; p103 جهود), parenthetical between dashes (-من منظري الحداثة-, matching English commas).
+- note: the back-translation differs from the original mostly in synonyms (يشكل for يؤلف، بشأن for لـ، وسائل for أساليب), confirming the round-trip test.
+
+## p175 · RULE · coordinated verbal nouns sharing one object (تفحص ودراسة آليات …)
+- cue: مصدر + و + مصدر + مفعول/مضاف إليه مشترك: تفحص ودراسة آليات، فهم وتحليل النص، جمع وتصنيف المواد
+- source: examine and study X (two verbs sharing one object)
+- ✗ محاولين تفحص ودراسة آليات التحديث → ✓ يتفحصون آليات التحديث ويدرسونها (ours)
+- note: English lets two verbs share one object; Arabic grammar disfavors annexing two nouns to one مضاف إليه (the classical preference is to annex the first and repeat with a pronoun: دراسة الآليات وتفحصها). Not stated by the author here; recorded from the sample for phase 2 to check against earlier grammar pages.
+- open: confirm whether the author treats this construction elsewhere (grep the grammar section for shared مضاف إليه)
+
+## p176 · EXAMPLE · verdict on the Abbas sample; المقاربة = النهج والطريق
+- of: p174 RULE المقاربة / المقاربات
+- resolves: p174 open on المقاربة (author's gloss) and confirms the p175 cues
+- ✗ المقاربات النقدية الحديثة → ✓ مناهج النقد الحديثة / طرق النقد الحديثة (author's gloss: they mean النهج والطريق; exact wording ours)
+- note: verdict: the text treats literature, poetry and rhetoric, the field most bound to eloquent Arabic, yet most of it is English in origin, in its usages and its structures. The author names as words that came through European languages: المقاربة، الآليات، الكشف عن رؤية حديثة، التعبير الشكلي والبنائي والسوسيولوجي، انتهاك قانون المعيارية، بذل الجهود المتميزة.
+
+## p176 · CRITERION · the samples are drawn at random, so the pattern is pervasive, not cherry-picked
+- note: to show he is not hunting slips, the author takes four issues of the Jordanian literary magazine أفكار (one per year of the last four years) and copies a paragraph from page 50 of each, unaltered. A general-audience literary magazine should be plain, sound Arabic, so foreign usage found there by blind sampling shows عرنجية is the norm, even among capable writers. Phase 2: the skill should expect calques in careful, edited prose too, not only in hasty or translated text.
