@@ -3041,3 +3041,225 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 
 ## p176 · CRITERION · the samples are drawn at random, so the pattern is pervasive, not cherry-picked
 - note: to show he is not hunting slips, the author takes four issues of the Jordanian literary magazine أفكار (one per year of the last four years) and copies a paragraph from page 50 of each, unaltered. A general-audience literary magazine should be plain, sound Arabic, so foreign usage found there by blind sampling shows عرنجية is the norm, even among capable writers. Phase 2: the skill should expect calques in careful, edited prose too, not only in hasty or translated text.
+
+## p177 · EXAMPLE · Fayez al-Sayegh sample (أفكار, no. 324, 2016)
+- of: p176 CRITERION the samples are drawn at random
+- ✗ علينا أن نتوقف عن ممارسة نوع من النرجسية والتفاخر الأجوف → ✓ ? (= we must stop engaging in a type of narcissism and hollow pride)
+- ✗ فنعتقد أن المثقف العربي تحديدًا قد أدى خلال نصف القرن الماضي دورًا تنويريًّا مؤثرًا في الحياة العامة العربية عمومًا → ✓ ? (= believing that the cultured Arab in particular has played, throughout the last half century, an enlightening and influential role in Arabic public life in general)
+- ✗ ذلك أننا قد شهدنا خلال النصف الأول من القرن الماضي، كوكبة من المثقفين والمفكرين قد أحدثت أفكارهم وممارساتهم تأثيرًا عميق الغور في الحياة الثقافية والسياسية والتعليمية → ✓ ? (= this is because we have witnessed, during the first half of the last century, a constellation of cultured persons and thinkers whose ideas and practices have had a profound impact on cultural, political and educational life)
+- note: cues: نتوقف عن ممارسة (stop engaging in; p108 ممارسة), نوع من (a type of), تحديدًا (in particular), خلال نصف القرن (throughout/during; p54 من خلال), أدى دورًا (played a role; p31), عمومًا (in general), ذلك أننا (this is because), كوكبة من المثقفين (a constellation of), أحدث تأثيرًا عميق الغور (had a profound impact; p172 عميق الجذور), ممارساتهم (their practices), stacked nisba adjectives (الثقافية والسياسية والتعليمية).
+- note: the back-translation stays close to the original, again confirming the round-trip test.
+
+## p177 · RULE · أدّى دورًا (disguised لعب دورًا)
+- of: p31 RULE لعب دورًا
+- cue: أدّى/يؤدي + دورًا (تنويريًا، مهمًا، بارزًا …)
+- source: play a role
+- ✗ أدّى المثقف العربي دورًا تنويريًّا مؤثرًا → ✓ كان للمثقف العربي أثر في تنوير الناس (ours)
+- note: author's footnote: some writers leave an obvious calque for a hidden one. Thinking that only the verb لعب is foreign, they swap in أدّى, but the whole frame (verb + دورًا) is the borrowed image, so the swap is still عرنجية.
+
+## p177 · CRITERION · swapping one word does not cure a calque
+- note: when a calqued frame is "fixed" by replacing its most conspicuous word with a more Arabic-looking synonym (لعب → أدّى in لعب دورًا), the foreign structure survives and is only harder to spot. Phase 2: list synonym-swapped variants under the same entry's cue, and have the skill flag the frame, not one verb.
+
+## p178 · EXAMPLE · Fayez al-Sayegh sample, table ends
+- of: p177 EXAMPLE Fayez al-Sayegh sample
+- ✗ وبرزت تيارات فكرية وثقافية مماثلة في مجتمعات عربية أخرى مثل العراق → ✓ ? (= similar intellectual and cultural currents gained prominence in other Arab societies like Iraq; p86 تيار)
+- ✗ غير أن الأغلبية الغالبة من المثقفين، وحتى المتعلمين العرب، في مرحلة الاستقلال بعد الكولونيالية منذ أواسط القرن العشرين، كانوا وما زالوا، على أكثر من وجه، يدورون في فلك السلطة القائمة، أو ينطقون باسمها، أو ينضمون إلى «الحاشية» → ✓ ? (= however, the vast majority of the cultured and even the educated Arabs, during the post-colonial period of independence since the middle of the 20th century, were and still are, in more than one way, moving in the sphere of the reigning power, or speaking in its name, or belonging to the "entourage")
+- note: cues: تيارات فكرية وثقافية (intellectual and cultural currents), مجتمعات عربية (Arab societies), الأغلبية الغالبة (the vast majority), وحتى + noun inside a list (and even), مرحلة … بعد الكولونيالية (post-colonial period; loan + بعد as prefix), كانوا وما زالوا (were and still are), على أكثر من وجه (in more than one way), يدورون في فلك (moving in the sphere/orbit of), ينطقون باسمها (speaking in its name), stacked nisba adjectives again.
+- open: collect the author's verdict on the Sayegh sample (likely p179)
+
+## p178 · RULE · كان وما زال (were and still are)
+- cue: كان وما زال / كانوا وما زالوا / كان ولا يزال
+- source: was and still is / were and still are
+- ✗ كانوا وما زالوا يدورون في فلك السلطة → ✓ ما زالوا يدورون في فلك السلطة (ours) / ما برحوا … (ours)
+- note: English pairs past and present tense to cover a span; Arabic ما زال already implies continuity from the past. Recorded from the sample, not singled out by the author; phase 2 should check it against his verdict.
+
+## p178 · RULE · على أكثر من وجه / بأكثر من طريقة (in more than one way)
+- cue: على أكثر من وجه، بأكثر من طريقة، في أكثر من مناسبة، أكثر من مرة
+- source: in more than one way / on more than one occasion
+- ✗ كانوا، على أكثر من وجه، يدورون في فلك السلطة → ✓ كانوا من وجوه شتى … / من وجوه كثيرة … (ours)
+- note: English "more than one" as a litotes for "several"; Arabic says وجوه شتى / غير وجه. Recorded from the sample; phase 2 to confirm.
+
+## p178 · RULE · وحتى + noun as an inclusive "and even"
+- cue: وحتى + اسم معطوف في سلسلة (المثقفين، وحتى المتعلمين)
+- source: and even
+- ✗ الأغلبية من المثقفين، وحتى المتعلمين → ✓ أكثر المثقفين بل المتعلمين (ours) / … حتى المتعلمين (without و, ours)
+- note: Arabic حتى العاطفة already means "even"; prefixing و to it mirrors English "and even". Compare p134 وحتى لو (and even if). Recorded from the sample; phase 2 to check against grammar pages.
+
+## p179 · EXAMPLE · Jalal Barjas sample (أفكار, no. 343, 2017, on the absence of Arabic science fiction)
+- of: p176 CRITERION the samples are drawn at random
+- note: the Sayegh sample (p177-178) ends with no separate verdict; the author moves straight to the next sample, so any verdict may come after all four.
+- ✗ رغم أن عددًا من الكتاب الشباب الذي تعرّف بعضهم على هذا الشكل الأدبي عَبر السينما، ومن ثم الكتاب، لهم محاولات، لكنها لم تجد صدى، لا في الأوساط النقدية، ولا بين القراء → ✓ ? (= although a number of young writers, some of whom have become acquainted with this literary form through the cinema, and later books, have made attempts, these have not found resonance, neither amongst critics nor with readers)
+- ✗ ومن الجدير بالذكر أن كثيرًا من الأدباء يعتبرون هذا النمط نمطًا هابطًا، والكتابة فيه محض انحدار نحو شكل أدبي شعبي لا يفضلون الذهاب إليه مغادرين كتاباتهم التي ما تزال ترتهن إلى القضايا السياسية الكبرى، وإلى الخيال الرومنسي → ✓ ? (= it is worth noting that many literary writers consider this style to be a low style, and writing in it to be simply descent into a popular literary form in which direction they don't want to go in a departure from their writings which continue to be dependent on the major political issues and romantic fantasy)
+- note: cues: رغم أن … لكنها (although … however, double concession; p31 بالرغم من), تعرّف على (became acquainted with), عَبر السينما (through; p54), ومن ثم (and then/later), لهم محاولات (have made attempts), لم تجد صدى (found no resonance/echo), لا في … ولا بين (neither … nor), من الجدير بالذكر أن (it is worth noting that), يعتبرون … نمطًا هابطًا (consider … a low style), الشكل الأدبي (literary form), محض انحدار نحو (simply a descent into), لا يفضلون الذهاب إليه (prefer not to go), مغادرين (departing; حال participle), ما تزال ترتهن إلى (continue to be dependent on), القضايا السياسية الكبرى (the major political issues), loan الرومنسي.
+- open: the Barjas table may continue on p180; collect any verdict
+
+## p179 · RULE · الأوساط (الأدبية، النقدية، الثقافية)
+- cue: في الأوساط + نسبة: الأوساط الأدبية، الأوساط النقدية، الأوساط الثقافية، الأوساط السياسية
+- source: dans les milieux (French)
+- ✗ هذا الأمر ذاع في الأوساط الأدبية → ✓ ذاع هذا الأمر في الأدباء / عند الأدباء (author)
+- ✗ لم تجد صدى في الأوساط النقدية → ✓ لم تجد صدى عند النقاد (ours, after the author's pattern)
+- note: author's footnote: the Arab translator rendered this as "amongst critics" because الأوساط is French (dans les milieux), not English. Arabic says عند or في + the people themselves.
+
+## p179 · CRITERION · a phrase that will not back-translate literally into English may be French, not Arabic
+- note: in the round-trip test, some constructions resist a word-for-word English rendering. That does not prove they are Arabic; they may be French in origin (الأوساط = dans les milieux). Phase 2: when the skill applies the back-translation heuristic, it should try French as well as English before clearing a phrase.
+
+## p180 · EXAMPLE · Fathi al-Dhamour sample (أفكار, no. 356, 2018, on the Arab Spring in music)
+- of: p176 CRITERION the samples are drawn at random
+- resolves: p179 open (the Barjas table ends on p179, with no separate verdict)
+- ✗ إن الموسيقى الثورية الهادفة التي كانت، وما تزال، من أجل قضيتنا الأم، فلسطين، لأنها ضدّ المحتل، والمستعمر الصهيوني، هي أحقّ بالدعم والانتشار، من تلك التي نبثها منا، وإلينا، وفينا، وضدّنا → ✓ ? (= the revolutionary, purposeful music which was and still is for the sake of the mother of all our issues, Palestine, since it is opposed to the occupier … is more worthy of support and dispersal than that which we broadcast from us, to us, about us, and against us)
+- ✗ وكم من المال الكثير، الذي أنفق على مشاريع فنية، لا تخدم في النهاية، إلا أصحاب المصالح، الذين استغلوا هذا الربيع، باسم الدين، والذي لا يمت بصلة للدين → ✓ ? (= and what a great amount of money has been spent on artistic projects, which do not serve in the end other than those who have special interests, who have taken advantage of this spring, using the name of the religion, which bears no relation to the religion)
+- note: cues: الموسيقى الهادفة (purposeful), كانت وما تزال (p178 كان وما زال), من أجل قضيتنا (for the sake of), قضيتنا الأم (the mother of all our issues), ضدّ المحتل (p54 ضد), أحق بالدعم والانتشار (more worthy of support and dispersal), chain of prepositions منا وإلينا وفينا وضدنا (from us, to us, about us, against us; echoes "of the people, by the people, for the people"), مشاريع فنية (artistic projects), لا تخدم في النهاية إلا (do not serve in the end), أصحاب المصالح (special interests), باسم الدين (in the name of religion), والذي لا يمت بصلة لـ (و before a relative + bears no relation to), commas after nearly every phrase (English punctuation rhythm).
+- open: the al-Dhamour table may continue on p181; collect any verdict on the four أفكار samples
+
+## p180 · EXAMPLE · كان وما زال
+- of: p178 RULE كان وما زال (were and still are)
+- ✗ الموسيقى التي كانت، وما تزال، من أجل قضيتنا → ✓ الموسيقى التي ما زالت تنتصر لقضيتنا (ours)
+
+## p180 · RULE · و + الذي/التي opening a non-restrictive relative ("which")
+- cue: ، والذي / ، والتي / ، والذين after a comma, with no earlier relative clause to coordinate with
+- source: , which / , who (non-restrictive relative)
+- ✗ استغلوا هذا الربيع باسم الدين، والذي لا يمت بصلة للدين → ✓ … باسم الدين، والدينُ منه براء (ours) / … باسم دينٍ لا يمت إليه بصلة (ours)
+- note: و joins a relative clause to an earlier one; used alone it renders the English comma before "which". Seen also at p173 (والتي كانت الزرقاء مقرًا لها). Recorded from samples, not singled out by the author here; phase 2 should check the grammar section.
+
+## p180 · RULE · لا يمت بصلة لـ (bears no relation to)
+- cue: لا يمت بصلة لـ / لا يمت بصلة إلى / لا يمت بأي صلة
+- source: bears no relation to / has nothing to do with
+- ✗ والذي لا يمت بصلة للدين → ✓ والدين منه براء (ours) / لا علاقة له بالدين (ours)
+- note: Arabic أمتّ إليه بقرابة/بصلة means to be related by kinship, with إلى; the modern fixed negative with لـ for "nothing to do with" looks like a translation. Recorded from the sample, not singled out by the author; phase 2 to judge (soft flag at most).
+
+## p181 · EXAMPLE · al-Dhamour sample, table ends
+- of: p180 EXAMPLE Fathi al-Dhamour sample
+- resolves: p180 open (the table ends on p181 with no separate verdict)
+- ✗ وقد أفرز الربيع العربي كثيرًا من المطربين الذين لم يثروا الساحة الفنية → ✓ ? (= the Arab Spring has spawned many singers who have not enriched the artistic arena)
+- note: cues: أفرز (spawned/produced), لم يثروا (enriched), الساحة الفنية (the artistic arena/scene).
+
+## p181 · RULE · الساحة + نسبة (the arena / scene)
+- cue: الساحة الفنية، الساحة السياسية، الساحة الأدبية، على الساحة الدولية
+- source: the artistic/political arena, on the international scene (scène, arena)
+- ✗ لم يثروا الساحة الفنية → ✓ لم يزيدوا الفن شيئًا (ours) / لم يُغنوا الفن (ours)
+- note: the open square stretched to mean a field of activity, after arena/scène. Recorded from the sample, not singled out by the author; phase 2 to judge.
+
+## p181 · RULE · أفرز (produced, spawned, gave rise to)
+- cue: أفرز / يفرز / أفرزت + نتيجة أو جماعة (أفرز الربيع مطربين، أفرزت الانتخابات)
+- source: spawn / produce / give rise to (sécréter)
+- ✗ أفرز الربيع العربي كثيرًا من المطربين → ✓ ظهر في الربيع العربي مطربون كثيرون (ours) / أخرج الربيع العربي … (ours)
+- note: أفرز is to set apart or to secrete; using it for "give rise to" follows the European metaphor. Recorded from the sample; phase 2 to judge.
+
+## p181 · EXAMPLE · al-Zubair Mahdad sample (أفكار, no. 364, 2019, on modernity, the intellectual and power)
+- of: p176 CRITERION the samples are drawn at random
+- ✗ مطلب الحداثة لم يعد مثالًا خارجيًّا تسعى النخبة العربية لنقله، بل أضحى دينامية داخلية المجتمع برعاية وإشراف الدول الاستعمارية، يزاحم البنيات التقليدية ويفككها → ✓ ? (= the demand for modernity is no longer a foreign ideal that the Arab elite is striving to transmit, rather it has become an internal dynamic within society under the patronage and supervision of the colonizing countries, which crowds out traditional structures and breaks them down)
+- ✗ فأصبح المجتمع العربي مشدودًا بين ديناميتين قويتين: دينامية التحديث بمنشآته التقنية ومؤسساته الاقتصادية والإدارية ونماذجه الثقافية والفكرية الجديدة، … → ✓ ? (= so Arab society has become pulled between two powerful dynamics: the dynamic of modernization, with its technical facilities, its economic and administrative establishments, and its new cultural and intellectual models, …)
+- note: cues: مطلب الحداثة (the demand for modernity), لم يعد … بل أضحى (no longer … rather it has become), مثالًا خارجيًا (a foreign ideal), تسعى النخبة لـ (the elite strives to), دينامية / ديناميتين (loan: dynamic), برعاية وإشراف الدول (two nouns sharing one مضاف إليه; p175), يزاحم البنيات التقليدية ويفككها (crowds out and breaks down structures), مشدودًا بين ديناميتين (pulled between two dynamics), stacked nisba adjectives (الاقتصادية والإدارية، الثقافية والفكرية), colon introducing a list.
+- open: the Mahdad table continues on p182
+
+## p181 · EXAMPLE · coordinated nouns sharing one مضاف إليه
+- of: p175 RULE coordinated verbal nouns sharing one object
+- ✗ برعاية وإشراف الدول الاستعمارية → ✓ برعاية الدول الاستعمارية وإشرافها (ours)
+
+## p182 · EXAMPLE · al-Zubair Mahdad sample, table ends
+- of: p181 EXAMPLE al-Zubair Mahdad sample
+- resolves: p181 open (the Mahdad table ends on p182)
+- ✗ ودينامية التقليد بمؤسساته الاجتماعية وقيمه الثقافية والذهنية الراسخة، وهذه السيرورة تضاعفت بوتيرة أكبر بعد إعلان الاستقلال، وبتغير واضح في طبيعة الفاعلين → ✓ ? (= and the dynamic of tradition with its societal establishments and its solid cultural and mental values. This process has intensified with a greater pace since the announcement of independence, and with a clear change in the nature of the actors)
+- note: cues: السيرورة (process), تضاعفت بوتيرة أكبر (intensified at a greater pace), طبيعة الفاعلين (the nature of the actors; الفاعلون = actors/players), الذهنية (mental), stacked nisba adjectives.
+
+## p182 · RULE · السيرورة / بوتيرة / الفاعلون (sociology jargon from French)
+- cue: السيرورة، سيرورة + مصدر، بوتيرة أسرع/أكبر، الفاعلون/الفاعلين (الاجتماعيون، السياسيون)
+- source: processus / process; rythme / pace; acteurs / actors
+- ✗ وهذه السيرورة تضاعفت بوتيرة أكبر بعد الاستقلال → ✓ واشتد ذلك وأسرع بعد الاستقلال (ours)
+- ✗ تغير واضح في طبيعة الفاعلين → ✓ تغير بيّن في القائمين على الأمر / أصحاب الشأن (ours)
+- note: Maghrebi-French social-science vocabulary: سيرورة for process, وتيرة for pace, الفاعل for an agent in society. Recorded from the sample; the author's p182 verdict names the sample as a whole, not these words. Phase 2 to judge (الفاعلين likely the clearest calque).
+
+## p182 · CRITERION · verdict on the أفكار samples: same order, same parts of speech
+- of: p167 CRITERION word-for-word English test
+- resolves: p177 / p178 open (the author's verdict on the Sayegh sample covers all four أفكار samples at once)
+- note: across the samples, the order of words almost matches the English, with little to change. The parts of speech match too: noun to noun, verb to verb, adjective to adjective, particle to particle, as if the sentence were assembled on an English frame. Classical prose needs heavy reordering and restructuring before it becomes English; these modern texts translate almost unchanged and come out fluent. Phase 2: a text where a word-for-word English gloss already reads as idiomatic English, with each Arabic word mapping to the same part of speech, is a strong signal of عرنجية; suggest rewriting it, not patching it.
+
+## p182 · METHOD · a thoroughly calqued text needs replacing, not patching
+- of: p177 CRITERION swapping one word does not cure a calque
+- note: when most of a passage is foreign in build, fixing it word by word fails; the fix is to rewrite it from the meaning. Swapping أدّى دورًا for لعب دورًا is like laying a mat at the door of a collapsing house and calling it repaired. Phase 2: when the skill finds a dense cluster of calques in one paragraph, it should offer a full rewrite of the paragraph (from its meaning) instead of a list of small substitutions.
+
+## p182 · CRITERION · the match with English is not coincidence (Tuqqush test opens)
+- note: anticipating the objection that such matches are just natural overlap between languages, the author recalls that his earlier tables showed classical prose to be far from English constructions. To settle it, he begins a test on a passage from Muhammad Tuqqush's history book.
+- open: the Tuqqush passage and the author's analysis continue on p183
+
+## p183 · EXAMPLE · Muhammad Tuqqush, التاريخ الإسلامي الوجيز (modern retelling of classical sources)
+- of: p182 CRITERION the match with English is not coincidence
+- note: the setup: Tuqqush took his account of Abd al-Aziz ibn Musa from older chroniclers and rephrased it in modern prose. The author gives Tuqqush's text with its English translation and back-translation, then (from p184) the classical sources it was drawn from, so the reader can see how close the modern version sits to English and how far the old one does.
+- ✗ تسلّم عبد العزيز حكم الأندلس بتكليف من والده موسى بن نصير … كان عبد العزيز حاكمًا ناجحًا، رافق والده في معظم حملاته العسكرية، واكتسب منه خبرة في العمل الإداري → ✓ ? (= Abdel Aziz assumed the rule over Al-Andalus by commission from his father … was a successful ruler. He accompanied his father on most of his military campaigns and gained experience from him in administrative work)
+- ✗ وأبدى حين تسلّم الحكم رغبة صادقة في تنظيم الإدارة الجديدة، فأنشأ ديوانًا لتطبيق الأحكام الشرعية وتنسيقها لاستقطاب المسلمين من مختلف القبائل، وشجّع الزواج بين العرب والإسبان لخلق مجتمع متجانس → ✓ ? (= when he began to govern, he demonstrated a sincere desire to organize the new administration, establishing a divan to apply legal rulings and organize them for the purpose of attracting Muslims of the various tribes. He encouraged marriage between Arabs and Spaniards in order to foster a homogeneous society)
+- note: cues: تسلّم الحكم (assumed rule), بتكليف من (by commission from), كان حاكمًا ناجحًا (was a successful ruler), حملاته العسكرية (military campaigns), اكتسب منه خبرة في العمل الإداري (gained experience in administrative work), أبدى رغبة صادقة في (demonstrated a sincere desire to), تنظيم الإدارة (organize the administration), تطبيق الأحكام (apply rulings), تنسيقها (coordinate them), لاستقطاب (to attract), من مختلف القبائل (of the various tribes), شجّع الزواج (encouraged marriage), لخلق مجتمع متجانس (to create a homogeneous society).
+- open: collect the classical source text (p184) and set it against these phrases as author rewrites
+
+## p183 · RULE · لخلق + noun (create a society / atmosphere / opportunity)
+- cue: خلق/يخلق/لخلق + مجتمع، جو، فرص، وعي، توازن
+- source: create (a society, an atmosphere, opportunities)
+- ✗ شجع الزواج بين العرب والإسبان لخلق مجتمع متجانس → ✓ ? (await the classical source on p184; ours meanwhile: ليأتلف الفريقان ويصيروا أمة واحدة)
+- note: in Arabic خلق is reserved for God's creating, or for invention/fabrication; English create for bringing about any state of affairs is the calque. Recorded from the sample; phase 2 to merge with any earlier treatment.
+
+## p184 · EXAMPLE · Tuqqush text, continued and ended (التاريخ الإسلامي الوجيز ص210-211)
+- of: p183 EXAMPLE Muhammad Tuqqush
+- ✗ وانتعشت في عهده الحياة الزراعية والصناعية والتجارية، بما وفد على الأندلس من المهاجرين → ✓ ? (= during his time agricultural, industrial and commercial life was invigorated by the migrants)
+- ✗ وعلى الرغم من ذلك فإن عبد العزيز [اتُّهم] بأنه وقع تحت تأثير زوجته، بحيث أصبحت عادات القوطيين تنعكس على معتقداته ونمط حياته، ودفعته إلى التفكير بالانفصال → ✓ ? (= in spite of this, Abdel Aziz was accused of falling under the influence of his wife such that Gothic customs and habits began to reflect on his beliefs and his lifestyle, and she pushed him to think about separating)
+- ✗ وعلى الرغم من أنه ليست لدينا أدلة قاطعة لنزعاته الاستقلالية، فإنه يبدو ممكنًا في الظروف التي تعيشها إسبانيا آنذاك → ✓ ? (= even though we don't have definitive evidence of his leanings towards independence, this seems possible under the circumstances then existing in Spain)
+- ✗ واستنكر خصومه تصرفاته هذه ثم تمادوا فقتلوه … ويبدو أنه وقع ضحية اغتيال أعدته الخلافة في دمشق، ويُفترض أن لهذا الحادث علاقة بموقف الخلافة من أبيه، والقضاء على طموح أسرته → ✓ ? (= his adversaries disapproved of his behaviors and then took things to the extreme … It appears that he was the victim of an assassination planned by the Caliphate in Damascus, and presumably this incident was connected with the Caliphate's position towards his father, and putting a halt to his family's ambitions)
+- note: cues: الحياة الزراعية والصناعية والتجارية (agricultural/industrial/commercial life; stacked nisba), انتعشت (was invigorated), وعلى الرغم من ذلك فإن (in spite of this; p31), وقع تحت تأثير (fell under the influence of), تنعكس على (reflect on; p84), نمط حياته (lifestyle; p116), دفعته إلى التفكير بـ (pushed him to think about), على الرغم من أنه ليست لدينا أدلة قاطعة (even though we have no definitive evidence), يبدو ممكنًا (seems possible; p156), في الظروف التي تعيشها (under the circumstances), تصرفاته (his behaviors), وقع ضحية اغتيال (fell victim to an assassination), يُفترض أن (presumably), علاقة بموقف … من (connected with the position towards), القضاء على طموح (put an end to the ambition). Back-translation adds تم الانتعاش، تم اتهام، بواسطة.
+- open: the classical sources (Ibn Idhari, al-Maqqari etc.) should follow on p185; set them against these phrases
+
+## p184 · RULE · وقع تحت تأثير (fell under the influence of)
+- cue: وقع/يقع تحت تأثير، تحت تأثير + اسم
+- source: fall under the influence of / sous l'influence de
+- ✗ اتُّهم بأنه وقع تحت تأثير زوجته → ✓ ? (await the classical source; ours meanwhile: اتُّهم بأن زوجته غلبت عليه / استمالته)
+- note: spatial metaphor "under" for being swayed. Recorded from the sample; phase 2 to judge with the classical wording on p185.
+
+## p184 · RULE · وقع ضحية + noun (fell victim to)
+- cue: وقع/راح ضحية + اغتيال، مؤامرة، خطأ، احتيال
+- source: fall victim to / be the victim of
+- ✗ يبدو أنه وقع ضحية اغتيال أعدته الخلافة → ✓ ? (ours: ويبدو أن الخلافة دبّرت قتله)
+- note: Arabic ضحية is a sacrificial animal; English victim stretched to anyone harmed. Recorded from the sample; phase 2 to merge with any earlier treatment.
+
+## p185 · RULE · phrases the author names in the Tuqqush text as matching European usage
+- of: p183 EXAMPLE Muhammad Tuqqush
+- resolves: p184 RULE وقع تحت تأثير (the author names it explicitly) and partly p183 open
+- cue: الحملة العسكرية، اكتساب الخبرة / اكتسب خبرة، العمل الإداري، إبداء الرغبة / أبدى رغبة / أظهر رغبة، تطبيق الأحكام، تشجيع الزواج / شجّع + مصدر، المجتمع المتجانس، الحياة الاقتصادية / الزراعية / التجارية، الوقوع تحت تأثير فلان
+- source: military campaign, gain experience, administrative work, show/express a desire, apply rulings, encourage marriage, homogeneous society, economic/agricultural life, fall under someone's influence
+- ✗ أبدى رغبة صادقة في تنظيم الإدارة → ✓ ? (await the classical sources; ours meanwhile: عُني بتدبير أمر البلاد)
+- note: the author lists these as all matching the structures and usages of European languages: a short passage, yet most of it agrees with English. Each will get native counterparts from the classical sources on p186+.
+- open: pair each phrase with its classical counterpart from Ibn Abd al-Hakam, Ibn al-Athir and Ibn Idhari (p186+)
+
+## p185 · CRITERION · عرنجية is substitution, not enrichment
+- note: the Arabs expressed most of these meanings already, in other constructions. Modern writing dropped those for the European equivalents, so the borrowings did not add to the language, as their defenders claim; they replaced Arab styles. Taken far enough, a writer can no longer reach classical Arabic except through European languages. Phase 2: answers the "it fills a gap" defence; the skill should look for the native construction that was displaced, not treat the calque as a neutral addition.
+
+## p185 · METHOD · compare a modern retelling with its classical sources
+- note: Tuqqush took the meanings from Ibn Abd al-Hakam (d. 257 AH), Ibn al-Athir (d. 630 AH) and Ibn Idhari (d. 695 AH). The author gives their texts in translation without comment: the meanings agree with the modern paragraph, but the styles and usages differ, as if the modern paragraph had come to Arabic through English, which is why it almost matches its English translation. A usable technique for phase 3: when a modern Arabic text retells a classical source, set the two side by side to find the native phrasing.
+- open: the classical texts follow on p186
+
+## p186 · EXAMPLE · Ibn Abd al-Hakam, فتوح مصر والمغرب ص240 (classical source of the Tuqqush passage)
+- of: p185 METHOD compare a modern retelling with its classical sources
+- ✗ تزوج عبد العزيز امرأة مسيحية بعد أن غادر أبوه الأندلس، ابنة ملك أندلسي، التي قيل إنها تكون ابنة الملك رودريقو … الذي تم قتله من قبل طارق → ✓ وكان عبد العزيز بعد خروج أبيه [من الأندلس] قد تزوج امرأة نصرانية، بنت ملك من أهل الأندلس، يقال إنها ابنة لذريق ملك الأندلس الذي قتله طارق (author, the original)
+- ✗ وعرّفته على حياة ذات وفرة غير قابلة للوصف → ✓ فجاءته من الدنيا بشيء كثير لا يوصف (author, the original)
+- ✗ عندما انتقلت معه بعد الزواج قالت: «لماذا لا أرى الناس في مملكتك يمجدونك أو يسجدون لك كما فعل الناس في مملكة أبي له؟» → ✓ فلما دخلت عليه قالت: ما لي لا أرى أهل مملكتك يعظّمونك ولا يسجدون لك كما كان أهل مملكة أبي يعظّمونه ويسجدون له؟ (author, the original)
+- note: shifts visible in the back-translation: بعد أن غادر (verb clause) for بعد خروج (verbal noun); قيل إنها تكون (is, with a copula) for يقال إنها; تم قتله من قبل طارق (p45 تمّ + مصدر, agentive من قبل) for قتله طارق; عرّفته على حياة ذات وفرة (introduced him to a life of plenty) for جاءته من الدنيا بشيء كثير; غير قابلة للوصف (indescribable) for لا يوصف; عندما انتقلت معه بعد الزواج (when she moved in with him after marriage) for فلما دخلت عليه; لماذا لا أرى (why don't I see) for ما لي لا أرى; يمجدونك for يعظمونك; كما فعل الناس … له (as the people did for him, a pro-verb "did") for repeating the verbs.
+- open: the Ibn al-Athir and Ibn Idhari texts follow (p187+)
+
+## p186 · RULE · غير قابل لـ + مصدر (un-X-able)
+- cue: غير قابل/قابلة + لل + مصدر: غير قابل للوصف، غير قابل للتطبيق، غير قابل للنقاش، قابل للتجديد
+- source: indescribable, inapplicable, non-negotiable (un- + -able)
+- ✗ حياة ذات وفرة غير قابلة للوصف → ✓ بشيء كثير لا يوصف (author)
+- note: Arabic negates the passive verb (لا يوصف، لا يُطبَّق، لا يُناقَش) or uses an adjective; غير قابل لـ + مصدر rebuilds the English suffix -able with its negative prefix.
+
+## p186 · RULE · لماذا لا … ؟ for ما لي/لك لا … ؟ (why don't …?)
+- of: p161 EXAMPLE back-translation of Ibn Khaldun's Muqaddimah (لماذا لا for هلّا)
+- cue: لماذا لا + مضارع في سؤال تعجب أو إنكار
+- source: why don't I/you …?
+- ✗ لماذا لا أرى الناس في مملكتك يمجدونك؟ → ✓ ما لي لا أرى أهل مملكتك يعظّمونك؟ (author, the original)
+- note: Arabic asks a wondering or reproachful why with ما لي/ما لك لا …، هلّا، ألا; لماذا لا follows English "why don't".
+
+## p186 · EXAMPLE · تمّ + مصدر with من قبل
+- of: p45 RULE تمّ + مصدر
+- ✗ الذي تم قتله من قبل طارق → ✓ الذي قتله طارق (author, the original)
+
+## p186 · RULE · فعل as a pro-verb (كما فعل الناس له)
+- cue: كما فعل/يفعل + فاعل standing in for a verb just used (كما فعل الناس في مملكة أبي له)
+- source: as the people did for him (do as a pro-verb)
+- ✗ يمجدونك أو يسجدون لك كما فعل الناس في مملكة أبي له → ✓ يعظّمونك ويسجدون لك كما كان أهل مملكة أبي يعظّمونه ويسجدون له (author, the original)
+- note: English replaces a repeated verb phrase with "did"; Arabic repeats the verbs (or uses كذلك). Shown in the back-translation only; phase 2 to judge (soft flag).
