@@ -276,3 +276,128 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 
 ## p34 · CRITERION · writers born before 1300 AH as a reference
 - note: the author dates the spread of the style to the generation schooled after ~1300 AH (c. 1883) in English mission schools, when translation from English grew and periodicals multiplied. Writers born before that date, even those who read translated books, are in his view largely free of it. Useful when deciding whether a construction is native: attestation in 19th-century writers born before 1300 AH weighs toward native, attestation only after weighs toward calque.
+
+## p36 · CRITERION · Arabic words + valid grammar is not enough
+- note: the author rejects the view (al-Maghribi, Cairo Academy, 1353 AH) that a foreign style is acceptable as long as its words are Arabic and its syntax is grammatical. Most scholars argue over single words and constructions (يلعب دورًا) and miss the borrowed styles (أساليب) behind them. For detection: a sentence can be grammatical and fully Arabic in vocabulary and still be عرنجية; judge the idiom and the image, not only the grammar.
+
+## p37 · CRITERION · grammatical but foreign: the absurd-calque test
+- note: the author shows that grammatical correctness doesn't make a phrase Arabic by inventing calques every reader rejects: حدث الأمر خارجًا من الأزرق (out of the blue) and شعره مستقيم ويلبسه أحيانًا طويلًا (he wears his hair long). Correct case endings and Arabic words, yet plainly foreign. Fluency means matching Arabic words, grammar, meanings, styles and usage together. Useful test: if a familiar phrase is no different in kind from such an obvious calque, familiarity is the only thing defending it.
+
+## p37 · RULE · خارجًا من الأزرق
+- cue: من الأزرق / خارجًا من الأزرق
+- source: out of the blue
+- ✗ حدث الأمر خارجًا من الأزرق → ✓ حدث الأمر فجأة / على غير توقّع (ours)
+- note: the author's invented example of an obvious idiom calque
+
+## p37 · RULE · يلبس شعره طويلًا
+- cue: يلبس/يلبسه + شعره / شعرها
+- source: wears his hair long
+- ✗ يلبس شعره أحيانًا طويلًا → ✓ يُطيل شعره أحيانًا / يرسل شعره (ours)
+- note: English "wear" applied to hair; Arabic doesn't "wear" hair
+
+## p37 · EXAMPLE · لعب دورًا
+- of: p31 لعب دورًا
+- note: the author cites it as the standard case of a calque that early translators used until readers stopped noticing it; acceptance through habit, not through Arabic
+
+## p37 · CRITERION · habituation hides the calque
+- note: readers no longer notice phrases they hear constantly; the soul stops objecting to what it is used to, while still balking at an unfamiliar calque. So "it sounds normal to me" is not evidence that a phrase is native. The author's list of such normalized calques follows.
+
+## p37 · RULE · يصنع فرقًا
+- cue: يصنع/يُحدث + فرقًا
+- source: make a difference
+- ✗ هذا الأمر يصنع فرقًا → ✓ لهذا الأمر أثر / هذا الأمر يغيّر كثيرًا (ours)
+- note: listed by the author among calques people accept without noticing
+
+## p37 · RULE · حقل (مجال علمي)
+- cue: في حقل + الترجمة/الطب/…
+- source: in the field of
+- ✗ فلان يؤلف في حقل الترجمة → ✓ فلان يؤلف في الترجمة / في باب الترجمة (ours)
+- note: "field" as a domain of knowledge rendered with حقل (farm field)
+- open: check whether the author also rejects مجال in this sense
+
+## p37 · EXAMPLE · تبنّى
+- of: p29 تبنّى
+- ✗ أنا لا أتبنّى هذا الكلام → ✓ أنا لا أقول بهذا الكلام / لا أرى هذا الرأي (ours)
+- note: the author lists (تبنّى هذا الرأي) as a normalized calque
+
+## p37 · RULE · حلم تحقق
+- cue: حلم + تحقق / يتحقق / تحقيق حلم
+- source: a dream come true
+- ✗ هذا حلم تحقق → ✓ هذا أمل تحقق / هذه أمنية نِلتُها (ours)
+- note: listed among normalized calques; Arabic uses أمل/أمنية for hopes, حلم for sleep visions
+- open: the author gives no rewrite; check whether he accepts حلم for "aspiration" anywhere
+
+## p37 · RULE · ينفع الإنسانية
+- cue: الإنسانية (meaning mankind)
+- source: humanity / l'humanité
+- ✗ هذا أمر ينفع الإنسانية → ✓ هذا أمر ينفع الناس / البشر (ours)
+- note: الإنسانية is the quality of being human; using it for the human race follows the European word
+
+## p38 · EXAMPLE · يلبس شعره طويلًا
+- of: p37 يلبس شعره طويلًا
+- ✗ يلبسه مضفّرًا → ✓ يضفره / يجعله ضفائر (ours)
+
+## p38 · EXAMPLE · absurd-calque test
+- of: p37 grammatical but foreign: the absurd-calque test
+- ✗ أنا أفعل الجوع اثنين مرات في وقت اليوم → ✓ ? 
+- note: the author's invented sentence that a reader of books written in it would come to accept; shows word-for-word rendering (do + noun, "two times", "in the time of day")
+- open: the English model is unclear (maybe "I fast twice a day"); phase 2 may only keep it as illustration, or split out اثنين مرات (two times) for مرتين
+
+## p38 · EXAMPLE · طلب يد فلانة
+- of: p31 طلب يد فلانة
+- note: from Shakir's book غصن لبنان: once no Arab reader understood it without knowing French; now it is the usual phrase for a marriage proposal in most countries, accepted only through repetition
+
+## p38 · RULE · صنعتَ يومي
+- cue: صنع/جعل + يومي / يومك
+- source: you made my day
+- ✗ صنعتَ يومي → ✓ أسعدتني / أدخلت عليّ السرور (ours)
+- note: cited as a calque people rejected at first, then grew used to
+
+## p38 · RULE · تغذية راجعة
+- cue: تغذية راجعة
+- source: feedback
+- ✗ قدّم المعلم تغذية راجعة للطلاب → ✓ أبدى المعلم ملحوظاته للطلاب / رأيه في عملهم (ours)
+- note: cited with صنعت يومي as a calque that wore down resistance through frequency
+- open: technical term in education; check whether the author offers or accepts an alternative
+
+## p38 · CRITERION · taste (الذوق) as the judge, not resemblance to European speech
+- note: not everything that matches European phrasing is wrong; the Arabs did not speak of everything, so their speech is enough to know what agrees with and what contradicts Arabic. The test is الذوق, meaning the acquired faculty (الملكة) that tells right from wrong in the language, not personal liking. Arabic writing kept producing new proverbs, usages and constructions before the translation era without objection. So new expressions are acceptable when a trained Arabic ear accepts them; parallel to a European phrase alone is not a reason to flag.
+
+## p39 · EXAMPLE · يجيء من أسرة
+- of: p33 يجيء من أسرة / أجي من بيت
+- ✗ هو يجي من غامد → ✓ هو من غامد (ours, from p33)
+- note: the author: hearing this in colloquial speech, you'd take the speaker for a foreigner; some Arabs now say it, and taste rejects it
+
+## p39 · RULE · على صحني
+- cue: على صحني / في صحني + كثير/أشياء
+- source: I have so much on my plate
+- ✗ عندي شيء كثير على صحني → ✓ عندي أشغال كثيرة (author)
+- note: English plate metaphor for workload, rendered word for word; plain wording is in the author's footnote
+
+## p39 · RULE · فوق من انفتاق الفجر
+- cue: أكون فوق / فوق من + الفجر
+- source: be up from the crack of dawn
+- ✗ لا بد أن أكون فوق من انفتاق الفجر → ✓ فلا بد أن أصحو من الفجر (author)
+- note: "up" for awake and "crack of dawn" rendered literally
+
+## p39 · CRITERION · taste first, justification after
+- note: a colloquial speaker rejects these phrases by ear (ما هكذا نتكلم) without citing a rule, and the same ear should judge formal Arabic. The author shows that once taste accepts a calque, a grammarian can always build a justification (التخريج): e.g. defend صحن via صحن الدار "courtyard" and فوق via أفاق "come to". So a lexical or grammatical defence found after the fact does not clear a phrase; ask first whether an Arab would naturally say it.
+
+## p40 · CRITERION · whose taste counts
+- note: calque users appeal to taste when it suits them (صنعتَ يومي sounds fine to me). The author answers that taste can be corrupted by frequent exposure until it no longer knows right from wrong; the taste that counts belongs to someone steeped in classical Arab speech and alert to where foreignness creeps in. So the skill should not defer to "it sounds natural" from a reader raised on translated prose; the benchmark is classical and early usage.
+- note: the author also warns against reducing Arabic to case endings and morphology while letting its meanings, usages and styles die.
+
+## p40 · METHOD · build the faculty from early texts
+- note: the way to a sound ear is to read the speech of the early Arabs and the first generations of the community until a real faculty (ملكة) forms. Phase 2 may fold this into the ch.4 remedies.
+
+## p40 · CRITERION · "modern needs" is not an excuse
+- note: the claim that Arabic had to change because classical Arabic couldn't serve modern purposes is rejected: most of what عرنجية expresses are meanings the Arabs already expressed, many before Islam. So when a calque renders a common meaning (a motive, a workload, surprise, joy), there is almost always a native wording to offer; the "no Arabic equivalent" defence applies at most to genuinely new concepts.
+
+## p41 · RULE · يبدو كما لو كان
+- cue: يبدو كما لو / بدا كما لو / كما لو كان
+- source: seems as if (he was)
+- ✗ كان يبدو كما لو كان يكتشف عالمًا من الخيال لأول مرة → ✓ كأنه يكتشف عالمًا من الخيال لأول مرة (author: Arabic says it with كأنّ)
+- note: the author's lead example of a native construction killed off by a foreign one: Arabic has always said this with كأنّ (Qur'an كأنه هو، hadith كأنما ينحطّ من صبب), and English translators of those texts render كأنّ as "seems as if"; colloquial Arabic still uses كأنّ
+
+## p41 · CRITERION · calques usually displace a native form, they don't fill a gap
+- note: foreign constructions don't enter because Arabic lacks something; they overwrite an existing Arabic construction (from Qur'an, Sunna, classical speech), leave it dead in formal writing though often alive in colloquial, and put a foreign form in its place. Practical consequence: for each calque, look for the native construction it displaced and offer that; colloquial usage can be a clue to it.

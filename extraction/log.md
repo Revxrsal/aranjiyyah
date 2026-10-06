@@ -35,3 +35,10 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 31 (p 33) · CRITERION×1 RULE×2 (bilingual speakers schooled in English; "come from", "pick up a habit")
 - pdf 32 (p 34) · RULE×1 CRITERION×1 ("where you are coming from"; 1300 AH as the dividing generation)
 - pdf 33 (p 35) · background: fluent writers born after 1300 AH; Hafiz Ibrahim's 1321 AH poem on Arabic and its preface to his translation of Les Misérables
+- pdf 34 (p 36) · CRITERION×1 (scholars argue over words and miss styles; al-Maghribi's Arabic-words-plus-grammar test rejected)
+- pdf 35 (p 37) · CRITERION×2 RULE×6 EXAMPLE×2 (absurd invented calques; habituation; list of normalized calques)
+- pdf 36 (p 38) · RULE×2 EXAMPLE×3 CRITERION×1 (طلب يد via Shakir's غصن لبنان; صنعت يومي and تغذية راجعة normalized; taste as the faculty, not preference)
+- pdf 37 (p 39) · RULE×2 EXAMPLE×1 CRITERION×1 (on my plate; up from the crack of dawn; easy post-hoc justification)
+- pdf 38 (p 40) · CRITERION×2 METHOD×1 (corrupted taste; read the early Arabs; modern-needs claim, continues)
+- pdf 39 (p 41) · RULE×1 CRITERION×1 (يبدو كما لو كان vs كأنّ; calques displace native forms)
+- pdf 40 (p 42) · background: rebuttal of the claim that calquing is bold renewal; code-switching analogy; end of ch.2
