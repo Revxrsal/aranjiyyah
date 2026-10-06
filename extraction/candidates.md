@@ -2511,3 +2511,162 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - source: pay dearly, pay the price
 - ✗ سوف أجعله يدفع الثمن غاليًا → ✓ ? (ours: لأُذيقنّه عاقبة فعله / لأجزينّه بما فعل)
 - note: the author footnotes it as a European expression (pay dearly). Arabic speaks of عاقبة، جزاء، وبال (فذاقت وبال أمرها).
+
+## p151 · METHOD · back-translation of classical prose (مصنفات العرب), Tahir ibn al-Husayn's letter
+- of: p140 back-translation method (Quran, hadith); this section moves to early authors before the translation era
+- source: In all these things, have pure intentions. Pay special attention to improving yourself as a person one who realizes that he will be held responsible for his deeds, that he will be rewarded for his good deeds, and punished for his evil deeds. For God made the religion a refuge and a power. (Rosenthal's Muqaddimah)
+- ✗ في كل هذه الأشياء، تحلَّ بالنيات الصافية. أعطِ اهتمامًا خاصًا لتحسين نفسك كشخص يدرك أنه سوف يتم تحميله المسؤولية على أعماله، وأنه سوف يتم مكافأته لأعماله الجيدة ومعاقبته لأفعاله الشريرة. لأن الله جعل الدين ملجأ وقوة. ويرفع أولئك الذين يتبعونه ويكرمونه → ✓ وأخلص نيتك في جميع هذا وتفرّد بتقويم نفسك تفرّدَ من يعلم أنه مسؤول عمّا صنع ومجزيّ بما أحسن ومؤاخذ بما أساء، فإن الله جعل الدين حرزًا وعزًّا ورفع من اتبعه وعزّزه (author, the original)
+- note: shifts visible: أعطِ اهتمامًا خاصًا (pay special attention) for تفرّد بـ; كشخص يدرك (the foreign كاف, p132) for تفرّدَ من يعلم (المفعول المطلق + اسم موصول); سوف يتم تحميله المسؤولية / سوف يتم مكافأته (p45 تمّ + مصدر, p59 سوف) for مسؤول، مجزيّ، مؤاخذ (اسم مفعول); أعماله الجيدة / أفعاله الشريرة for بما أحسن / بما أساء; لأن for فإنّ; أولئك الذين for من. Numbered comments (1)-(3) are marked at في كل هذه الأشياء، كشخص، يرفع.
+- open: collect comments (1)-(3) on p152
+
+## p152 · EXAMPLE · Tahir ibn al-Husayn's letter, continued
+- of: p151 METHOD back-translation of classical prose
+- source: He lifts up those who follow it and honor it. Therefore, lead those whom you govern and rule along the path of religion and the way of right guidance. Apply the punishments that God has ordained for criminals, according to their station and according to what they deserve. Do not disregard it and do not make light of it.
+- ✗ ولذلك، قُد أولئك الذين تنظمهم وتحكمهم على طريق الدين وطريق الإرشاد الصحيح. طبّق العقوبات التي فرضها الله للمجرمين وفقًا لمكانتهم ووفقًا لما يستحقون. لا تتجاهلها ولا تستخف بها → ✓ واسلك بمن تسوسه وترعاه نهج الدين وطريقة الهدى. وأقم حدود الله تعالى في أصحاب الجرائم على قدر منازلهم وما استحقّوه، ولا تعطّل ذلك ولا تتهاون به (author, the original)
+- note: shifts visible: ولذلك opening a sentence for و; أولئك الذين تنظمهم for بمن تسوسه; الإرشاد الصحيح for الهدى; طبّق العقوبات for أقم حدود الله; وفقًا لـ … ووفقًا لـ for على قدر … و; لا تتجاهلها for لا تعطّل ذلك.
+
+## p152 · RULE · fronting an adverbial phrase to open the sentence (في كل هذه الأشياء، في أحد الأيام، …)
+- resolves: p151 open (comment 1)
+- cue: sentence-initial ظرف or جار ومجرور followed by a comma, then the main clause: في أحد الأيام، … / في الوقت الحاضر، … / تحت الدولة …، … / في كل هذا، … / بالنسبة لي، …
+- source: English In all these things, … / One day, … / At present, … / Under the Abbasids, … (adverbial first, then subject + verb)
+- ✗ في كل هذه الأشياء، تحلَّ بالنيات الصافية → ✓ وأخلص نيتك في جميع هذا (author, Tahir's letter)
+- ✗ في أحد الأيام، كنت أتابع سباقات الجري → ✓ ? (ours: وكنت يومًا أتابع سباقات الجري)
+- ✗ في أحد الأيام، خرجنا … → ✓ وقد خرجنا يومًا لقتال أسد ظهر على الجسر (author, Ibn Munqidh)
+- ✗ في المفردات الخاصة بالحب، هذا النوع يُدعى العشق → ✓ وهذا النوع يسمّى في باب الغزل بالعشق (author, Ibn Hazm)
+- ✗ تحت الدولة العباسية، كان هذا الطين يُدعى طين الختم → ✓ وكان هذا الطين في الدولة العباسية يعرف بطين الختم (author, Ibn Khaldun)
+- ✗ في الوقت الحاضر، اختفت هذه الطريقة تمامًا … → ✓ ولقد ذهبت هذه الرسوم لهذا العهد جملةً بالمغرب وأهله (author, Ibn Khaldun)
+- ✗ والله، أنا لا أترك ورائي أي شيء له بالنسبة لي أهمية أكثر من الكلالة → ✓ وإني والله ما أدع بعدي شيئًا هو أهمّ إليّ من أمر الكلالة (author, Umar)
+- note: Arabic places such phrases inside the sentence as an interruption (اعتراض), after the verb or subject; English prefers to open with them. Both orders are grammatical in both languages, but the opening position is the English habit and is now very common in modern Arabic, while the medial position is the Arab one, in classical and colloquial speech alike. Soft flag: offer moving the phrase after the verb, and dropping the comma.
+- note: the Umar example also shows أي شيء (p147), بالنسبة لي (for me), أهمية أكثر من (more important than) for أهمّ إليّ من, and أنا لا أترك for ما أدع.
+- open: the author's comments (2) كشخص and (3) يرفع should follow on p153
+
+## p153 · RULE · الشخص الذي / كشخص for the relative مَن (a person who, the one who)
+- resolves: p152 open (comment 2)
+- cue: الشخص الذي، شخص يـ، كشخص، الأشخاص الذين (where مَن would do)
+- source: the person who, a person who, as a person
+- ✗ تحسين نفسك كشخص يدرك أنه … → ✓ وتفرّد بتقويم نفسك تفرّدَ من يعلم أنه … (author, Tahir's letter)
+- ✗ هو الشخص الذي يتركه الناس اتقاء فحشه → ✓ إنّ من شرّ الناس من تركه الناس اتقاء فحشه (author, hadith)
+- ✗ ومن أحسن قولًا من الشخص الذي يدعو إلى الله → ✓ ومن أحسن قولًا ممن دعا إلى الله (author, فصلت 33)
+- ✗ هل الشخص الذي كان مؤمنًا كالشخص الذي كان فاسقًا → ✓ أفمن كان مؤمنًا كمن كان فاسقًا (author, السجدة 18)
+- note: English needs a head noun (person, one) before who; Arabic uses مَن on its own. The author calls this overuse of شخص very common in modern writing and even the default. Phase 2: flag الشخص الذي / شخص + verb where مَن fits, and merge with p143 (adjective + شخص).
+
+## p153 · EXAMPLE · adjective + شخص where Arabic uses the bare adjective
+- of: p143 RULE adjective + شخص/أحد/شيء; p49 RULE اسم التفضيل نعتًا (الشخص الأحرص)
+- ✗ الشخص الأصغر يجب أن يحيي الشخص الأكبر، والشخص الماشي يحيي الشخص الجالس، والعدد الصغير من الأشخاص يحيي العدد الكبير من الأشخاص → ✓ يسلّم الصغير على الكبير، والمارّ على القاعد، والقليل على الكثير (author, hadith)
+- ✗ الأمور الباقية → ✓ والباقيات الصالحات (author, الكهف 46; already at p143)
+- note: English rarely lets an adjective stand as a noun, so it adds person for people and thing for things; Arabic uses الصغير، الماشي، القليل directly. Also shows يجب أن for the jussive sense of the hadith's يسلّم.
+
+## p153 · RULE · أولئك الذين for الذين / مَن (those who)
+- resolves: p152 open (comment 3)
+- cue: أولئك الذين، أولئك اللواتي، باستثناء أولئك الذين، بين أولئك الذين … وأولئك الذين
+- source: those who
+- ✗ ويرفع أولئك الذين يتبعونه → ✓ ورفع من اتبعه (author, Tahir's letter)
+- ✗ وقاتلوا في سبيل الله أولئك الذين يقاتلونكم → ✓ وقاتلوا في سبيل الله الذين يقاتلونكم (author, البقرة 190)
+- ✗ باستثناء أولئك الذين شهدوا بالحق → ✓ إلا من شهد بالحق (author, الزخرف 86)
+- ✗ كل أمتي يدخلون الجنة باستثناء أولئك الذين يرفضون → ✓ كل أمتي يدخلون الجنة إلا من أبى (author, hadith)
+- ✗ خير أمتي قرني ثم أولئك الذين يتبعونهم → ✓ … ثم الذين يلونهم (author, hadith)
+- ✗ يجب الاختيار بين أولئك الذين يحبون إحصاء نقودهم وأولئك الذين يحبون أن يقصّوا أحلامهم → ✓ ? (the author analyses it on p154)
+- note: when English wants a plural relative (or one with plural sense, like الذي and مَن) it says those who, which becomes أولئك الذين; Arabic uses الذين or مَن alone. The author says the construction is widespread among moderns. The examples also show باستثناء for إلا (p79).
+- open: the analysis of the بين أولئك الذين sentence continues on p154
+
+## p154 · EXAMPLE · أولئك الذين (closing)
+- of: p153 RULE أولئك الذين for الذين / مَن
+- resolves: p153 open (analysis of the بين أولئك الذين sentence)
+- ✗ يجب الاختيار بين أولئك الذين يحبون إحصاء نقودهم وأولئك الذين يحبون أن يقصّوا أحلامهم → ✓ ? (ours: يجب الاختيار بين من يحبون إحصاء نقودهم ومن يحبون أن يقصّوا أحلامهم)
+- note: the author says the writer used أولئك الذين only by imitation of European usage; مَن or الذين is enough.
+
+## p154 · EXAMPLE · back-translation of Ibn Hazm (الأخلاق والسير)
+- of: p151 METHOD back-translation of classical prose
+- source: Anyone who tempts others with his riches has no choice but to share them out - and there would be no end to this - or to refuse them which would make him seem mean and would attract universal hostility. If you wish to give something to somebody, do it of your own initiative and before he asks for it; this is more noble, more disinterested and more worthy of praise.
+- ✗ أي أحد يغري الآخرين بثرواته ليس لديه خيار سوى مشاركتهم بها -ولن يكون هناك حد لذلك- أو يرفضهم، مما يجعله يبدو لئيمًا ويجتذب عداء شاملًا. إذا رغبت أن تعطي شيئًا ما لشخص ما، فافعل ذلك بمبادرة شخصية منك وقبل أن يطلبه؛ هذا أكثر نبلًا، أكثر نزاهة، وأكثر جدارة بالثناء → ✓ من سبّب للناس الطمع فيما عنده لم يحصل إلا على أن يبذله لهم ولا غاية لهذا، أو يمنعهم فيلؤم ويعادونه. فإذا أردت أن تعطي أحدًا شيئًا فليكن ذلك منك قبل أن يسألك، فهو أكرم وأنزه وأوجب للحمد (author, the original)
+- note: shifts visible: أي أحد (anyone who, p147 أيّ) for مَن; الآخرين (p150) for الناس; ليس لديه خيار سوى (has no choice but) for لم يحصل إلا على; ولن يكون هناك حد لذلك (there would be) for ولا غاية لهذا; مما يجعله يبدو لئيمًا (which would make him seem) for فيلؤم; يجتذب عداء شاملًا (attract universal hostility) for ويعادونه; شيئًا ما لشخص ما (something to somebody) for أحدًا شيئًا; بمبادرة شخصية منك for فليكن ذلك منك; أكثر نبلًا، أكثر نزاهة، وأكثر جدارة بالثناء (p64) for أكرم وأنزه وأوجب للحمد. Comment (1) is marked at مما.
+- open: collect comment (1) on مما and any further comments on p155
+
+## p155 · EXAMPLE · Ibn Hazm table continued (the envious man's verdict on new ideas)
+- of: p154 EXAMPLE back-translation of Ibn Hazm
+- source: Something peculiar about envy is when you hear a jealous person say, when someone has done original work in some branch of science, "What a silly person! Nobody has ever put forward that hypothesis before and nobody has ever believed that." But if the same person hears someone expound an idea which is not new, he exclaims. "What a silly person! This is not a new idea"! This sort of person is harmful because he is bent of obstructing the path of knowledge and turning people away from it in order to increase the number of his own sort, the ignorant.
+- ✗ شيء ما غريب حول الحسد هو عندما تسمع شخصًا غيورًا يقول عندما يقوم أحدٌ ما بعمل أصلي في فرعٍ ما من العلم: «يا له من شخص سخيف! لم يقدم أحدٌ تلك الفرضية من قبل ولا أحد آمن بها أبدًا». لكن إذا سمع نفسُ الشخص شخصًا ما يشرح فكرة ليست جديدة، فإنه يصيح: «يا له من شخص سخيف! هذه ليست فكرة جديدة!» هذا النوع من الأشخاص ضار لأنه عازم على عرقلة طريق المعرفة ويحول الناس بعيدًا منه من أجل زيادة عدد نوعه الخاص، الجهال → ✓ من بديع ما يقع في الحسد قول الحاسد إذا سمع إنسانًا يغرب في علم ما: «هذا شيء بارد، لم يتقدم إليه ولا قاله قبله أحد». فإن سمع من يبيّن ما قد قاله غيره قال: «هذا بارد وقد قيل قبله». وهذه طائفة سوء قد نصبت أنفسها للقعود على طريق العلم يصدون الناس عنها ليكثر نظراؤهم من الجهال (author, the original)
+- note: shifts visible: شيء ما غريب حول الحسد هو عندما (something peculiar about … is when) for من بديع ما يقع في; indefinite ما stacked after nouns (شيء ما، أحدٌ ما، فرعٍ ما، شخصًا ما) for bare indefinites or مَن (the original keeps one علم ما); شخصًا غيورًا for الحاسد; يقوم بعمل أصلي (يقوم بـ + noun) for يغرب; يا له من شخص سخيف (what a silly person) for هذا شيء بارد; نفسُ الشخص (the same person, p144) for the bare verb; شخصًا ما يشرح for من يبيّن (p153 شخص for مَن); لكن (p146) for فإن; هذا النوع من الأشخاص (this sort of person) for وهذه طائفة سوء; يحول الناس بعيدًا منه (p141 بعيدًا) for يصدون الناس عنها; من أجل زيادة عدد نوعه الخاص for ليكثر نظراؤهم.
+- open: does the author comment on stacked indefinite ما (شيء ما، أحد ما، شخص ما)? Comments (2) نفس الشخص and (3) هذه ليست are marked; collect them on p156+
+
+## p156 · RULE · يبدو / بدا (seem) to present a quality as perceived
+- resolves: p154 open (comment 1 on مما)
+- cue: يبدو/بدا/تبدو + adjective (يبدو لئيمًا، بدا سهلًا، تبدو غير مهمة)، يبدو لي، بدا لي، يبدو في عقلي/في عيني
+- source: seem, appear, look (it seems to me, it seemed easy)
+- ✗ مما يجعله يبدو لئيمًا → ✓ فيلؤم (author, Ibn Hazm)
+- ✗ بدا لي الأمر صعبًا / سهلًا / حقيرًا / صغيرًا / مليحًا → ✓ استصعبت الأمر / استسهلته / استحقرته / استصغرته / استملحته (author: the استفعل form carries "I found it X")
+- ✗ يبدو لي → ✓ أحسب / أرى / أظن (author)
+- ✗ ذلك يبدو رجوعًا بعيدًا → ✓ ذلك رجع بعيد (author, ق 3)
+- ✗ صار يبدو لهم جذابًا ما كانوا يعملون → ✓ كذلك زُيّن للمسرفين ما كانوا يعملون (author, يونس 12)
+- ✗ فبدا الخلق متشابهًا عليهم → ✓ فتشابه الخلق عليهم (author, الرعد 16)
+- ✗ هل بدا لكم العهد طويلًا جدًا؟ → ✓ أفطال عليكم العهد؟ (author, طه 86)
+- ✗ هل كان يبدو عجيبًا للناس أن … → ✓ أكان للناس عجبًا أن … (author, يونس 2)
+- ✗ تبدو قراءتكم غير مهمة مقارنة بقراءتهم → ✓ ليس قراءتكم إلى قراءتهم بشيء (author, hadith)
+- ✗ لا أترك شيئًا يبدو في عقلي أكثر أهمية من الكلالة → ✓ لا أدع بعدي شيئًا أهمّ عندي من الكلالة (author, Umar)
+- ✗ أعمالًا تبدو في أعينكم أصغر من الشعر → ✓ إنكم لتعملون أعمالًا هي أدقّ في أعينكم من الشعر (author, Anas)
+- note: when English describes something by a quality the observer perceives, it routes it through seem; Arabic states it directly (فيلؤم، تشابه، طال، رجع بعيد), uses استفعل for "I found it X", or a verb of opinion (أحسب، أرى، أظن). The author says moderns follow the European path with يبدو and overuse it. Soft flag: يبدو is sound Arabic; flag it when stacked or when a direct verb or استفعل form fits.
+
+## p156 · EXAMPLE · يبدو for كأنّ
+- of: p41 RULE يبدو كما لو كان
+- ✗ يبدو كما لو كان هو → ✓ قالت كأنّه هو (author, النمل 42)
+- ✗ يبدو أنك كنت ترعى في الغابة → ✓ يا رسول الله، كأنك كنت ترعى بالبادية (author, hadith)
+- ✗ تبدو كما لو كانت موعظة وداعية → ✓ يا رسول الله، كأنّ هذه موعظة مودّع (author, hadith)
+- note: the author adds that French usage also puts يبدو where Arabic has كأنّ.
+
+## p156 · RULE · ولا أحد … أبدًا / لم … أحد من قبل (nobody has ever …)
+- resolves: p155 open (comment 2)
+- cue: لم يقدم أحد … من قبل، ولا أحد + past verb، … أبدًا
+- source: Nobody has ever put forward … before and nobody has ever believed that
+- ✗ لم يقدم أحدٌ تلك الفرضية من قبل ولا أحد آمن بها أبدًا → ✓ هذا شيء لم يتقدم إليه ولا قاله قبله أحد (author, Ibn Hazm)
+- note: Arabic delays the subject أحد and puts the shared negation on both verbs (لم يتقدم إليه ولا قاله … أحد); the English shape repeats nobody with each clause and adds ever / before as أبدًا / من قبل. Also ولا أحد آمن (nobody believed) for a negated verb.
+
+## p156 · CRITERION · colloquial speech is closer to classical style than عرنجي writing
+- of: p44 CRITERION colloquial as a guide to native syntax
+- ✗ لم يقدم أحدٌ تلك الفرضية من قبل ولا أحد آمن بها أبدًا → colloquial: هذا شي ما سبق له ولا قاله قبله أحد (author) → classical: هذا شيء لم يتقدم إليه ولا قاله قبله أحد
+- note: test by ear: ask which version is nearer to how you'd say it in your own dialect. The colloquial almost matches Ibn Hazm's wording, while the عرنجي version matches the English sentence. Writers grew used to the عرنجي form in writing because it felt easier, until they took it for fusha.
+- open: the author's account of academics and a sentence like «هذا شيء ما …» continues on p157
+
+## p157 · CRITERION · عرنجي phrasing now passes for fusha and the native one for colloquial (comment 2, closing)
+- of: p156 CRITERION colloquial speech is closer to classical style
+- resolves: p156 open (academics)
+- ✗ لم يقدّم أحدٌ هذه الفرضية مسبقًا (judged fluent fusha) ↔ ✓ هذا شيء ما قاله قبله أحد (judged colloquial) (author)
+- ✗ فكرة شخص آخر / هذه ليست فكرة جديدة → ✓ ما قد قاله غيره / قد قيل قبله (author, Ibn Hazm)
+- note: the author reports academics who praise the calqued sentence and dismiss the native one as dialect. Phase 2: don't treat closeness to colloquial as a sign of weak style; the native order often survives in dialect. Also مسبقًا (beforehand) for قبله.
+
+## p157 · RULE · فكرة = idea, overused for قول، رأي، ظن، خاطر, or for no word at all
+- resolves: p155 open (comment 3)
+- cue: فكرة، أفكار، ليس عندي/لديّ فكرة، ما فكرتك عن، خطرت له فكرة، يكره الفكرة، فكرة جديدة
+- source: idea (I have no idea, what is your idea of, the idea of, a new idea)
+- ✗ هذه ليست فكرة جديدة → ✓ قد قيل قبله (author, Ibn Hazm)
+- ✗ ليس عندنا فكرة إذا أُريد شرٌّ بمن في الأرض → ✓ وأنّا لا ندري أشرٌّ أُريد بمن في الأرض (author, الجن 10)
+- ✗ لديكم أفكار مختلفة → ✓ إنكم لفي قولٍ مختلف (author, الذاريات 8)
+- ✗ فما هي فكرتكم عن رب العالمين؟ → ✓ فما ظنّكم برب العالمين؟ (author, الصافات 87)
+- ✗ ثم خطرت له فكرة التوبة → ✓ ثم عرضت له التوبة (author, hadith)
+- ✗ أشدّ الناس كراهيةً لهذه الفكرة → ✓ أشدّ الناس كراهيةً لهذا الشأن (author, hadith)
+- ✗ كان عندي فكرة أن يكون المكان لي → ✓ كنت أريده لنفسي (author, Aisha)
+- note: in classical books فكرة means the act of thinking (أطال الفكرة، تقليب الفكرة) and is rare: the author found it twice in a long classical book and about forty times in a modern book of similar length, mostly in the European sense. The native alternatives are verbs or other nouns chosen by sense: درى، قول، ظنّ، عرض له، شأن، أراد. The author treats this as a fine case showing how deep the calque has gone. Soft flag: فكرة in the sense of a concept or proposal is now accepted; flag it in idioms (ليس لدي فكرة، ما فكرتك عن، خطرت له فكرة).
+- open: the فكرة footnote continues on p158 (Aisha, حديث الإفك …)
+
+## p158 · EXAMPLE · فكرة = idea (footnote, continued)
+- of: p157 RULE فكرة = idea
+- resolves: p157 open (footnote continuation)
+- ✗ يستشيرهما في فكرة مفارقة زوجته → ✓ يستأمرهما في فراق أهله (author, Aisha, حديث الإفك)
+- ✗ فلم تعجبني فكرة أني أعطيه الإذن → ✓ فكرهتُ أن آذن له حتى أستأذنك (author, Aisha)
+- ✗ لم أستحسن فكرة أن أحضر بنتًا مثلهن → ✓ وإني كرهتُ أن أجيئهنّ بمثلهن (author, Jabir)
+- ✗ تخبرهم أفكارك بثقة → ✓ فتقول ما قلتَ متمكّنًا (author, Abd al-Rahman ibn Awf)
+- ✗ الأفكار السيئة → ✓ سوء الرأي (author, Salama ibn Sakhr)
+- ✗ مجموعة واسعة من الأفكار → ✓ يفتنّ في الحزم والعزم والحلم والعلم وفي جميع المعاني (author, al-Jahiz)
+- ✗ جمعت في كتابي هذا أفكارًا عديدة → ✓ جمعت في كتابي هذا معاني كثيرة (author, Ibn Hazm)
+- ✗ وفكرته الخاصة كانت ألا يتناول أحد … → ✓ وكان رأيه هو ألا يتناول أحد شيئًا إلا ما يقيم به الرمق (author, Ibn Tufayl)
+- ✗ الفكرة التي خطرت له → ✓ والمعنى الذي لاح له (author, Ibn Tufayl)
+- ✗ جاءت له فكرة البناء → ✓ واهتدى إلى البناء بما رأى من فعل الخطاطيف (author, Ibn Tufayl)
+- ✗ يريدون به فكرة التخلي → ✓ يريدون به البعد منه والأنفة (author, Ibn Khallikan)
+- ✗ سبقته إلى فكرتين → ✓ سبقته إلى معنيين (author, Ahmad al-Nami)
+- note: the native replacements for idea split by sense: رأي (opinion, view), معنى (a thought expressed in words), أراد/كره أن (wanting or disliking to do something: no noun needed), شأن/أمر (the matter). Also: فكرته الخاصة (his own idea, p143 خاص) and جاءت له فكرة (an idea came to him).
+
+## p158 · EXAMPLE · back-translation of Ibn Khaldun's Muqaddimah (on al-Ma'mun)
+- of: p151 METHOD back-translation of classical prose
+- source: How does all this accord with al-Ma'mun's well-known religion and learning, with his imitation of the way of life of his forefathers, the right-guided caliphs, with his adoption of the way of life of those pillars of Islam, the (first) four caliphs, (Rosenthal)
+- ✗ كيف يتفق كل هذا مع دين وتعليم المأمون المعروف جيدًا، أو مع تقليده لطريقة الحياة الخاصة بأسلافه الخلفاء الراشدين، أو مع تبنّيه طريقة حياة أولئك الأركان للإسلام، الخلفاء الأربعة، … → ✓ وأين هذا كله من حال المأمون المعروفة في دينه وعلمه واقتفائه سنن الخلفاء الراشدين من آبائه وأخذه بسير الخلفاء الأربعة … (author, the original)
+- note: shifts visible: كيف يتفق … مع (how does … accord with) for وأين هذا من; دين وتعليم المأمون (two nouns sharing one مضاف إليه; comment 1 likely treats it) for حال المأمون … في دينه وعلمه; المعروف جيدًا (well-known) for المعروفة; طريقة الحياة (way of life) for سنن / سير; تبنّيه (p29 تبنّى) for أخذه بـ; أولئك الأركان للإسلام (those pillars of Islam) for the plain name. Comment (1) is marked at دين وتعليم المأمون.
+- open: the table and comment (1) on دين وتعليم المأمون continue on p159
