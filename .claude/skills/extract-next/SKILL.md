@@ -3,6 +3,8 @@ name: extract-next
 description: Read the next few pages of the العرنجية book and record candidate patterns in extraction/candidates.md, saving progress after every page.
 argument-hint: "[page count]"
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 # Extract the next pages (phase 1: collect)

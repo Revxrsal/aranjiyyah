@@ -6,11 +6,15 @@ styles) and offers natural Arabic rewrites.
 
 The rules are distilled, page by page, from أحمد الغامدي، «العرنجية: بلسان عربي
 هجين». The book is a scanned PDF (no text layer) at `book/aranjiyyah-al-ghamdi.pdf`.
+`book/` is gitignored: the PDF stays on this machine and never goes into the
+repo, which is public.
 
 ## Layout
 
-- `aranjiyyah/` is the skill itself (`SKILL.md` + `references/`). Only this
-  folder gets packaged or symlinked into `~/.claude/skills/`.
+- `skills/aranjiyyah/` is the skill itself (`SKILL.md` + `references/`). It
+  sits under `skills/` so that `npx skills add` and Claude Code plugins find it.
+- `.claude-plugin/` holds `plugin.json` and `marketplace.json`, which make the
+  repo root a Claude Code plugin and a one-plugin marketplace.
 - `extraction/state.json` holds the resume point: `next_page`, the per-run
   page count, and a `carry` note for a pattern cut off at a page break.
 - `extraction/log.md` gets one line per processed page. Append only.
@@ -23,7 +27,7 @@ The rules are distilled, page by page, from أحمد الغامدي، «العر
 - `.claude/skills/extract-next/` is the `/extract-next` command that runs one
   phase 1 session.
 - `.claude/skills/build-skill/` is the `/build-skill` command that runs phase 2.
-  It regenerates `aranjiyyah/references/` from the candidates, so make fixes
+  It regenerates `skills/aranjiyyah/references/` from the candidates, so make fixes
   in `candidates.md` (or the command), not by hand in the references.
 
 ## Phases
@@ -37,9 +41,9 @@ what matters, not the speed or repeatability of the extraction.
    preview. With the whole book in view, merge duplicates and repeated examples, generalize related candidates
    into broader patterns, drop rhetoric that never became a concrete rule,
    and use the `CRITERION` and `ACCEPTED` candidates to set judgment rules
-   and avoid false positives. Write the result to `aranjiyyah/references/`
+   and avoid false positives. Write the result to `skills/aranjiyyah/references/`
    in the entry format below, and move the most important criteria into
-   `aranjiyyah/SKILL.md`.
+   `skills/aranjiyyah/SKILL.md`.
 3. **Evaluate.** Test the finished skill against plain Claude on real
    Arabic texts and revise it.
 

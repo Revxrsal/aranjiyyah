@@ -1,0 +1,14 @@
+{
+  "name": "aranjiyyah",
+  "description": "The Aranjiyyah skill: find English and French calques in Arabic and rewrite them as natural Arabic.",
+  "owner": {
+    "name": "Ali Al-Kasasbeh"
+  },
+  "plugins": [
+    {
+      "name": "aranjiyyah",
+      "source": "./",
+      "description": "Detect عرنجية in Arabic text and rewrite it as natural Arabic."
+    }
+  ]
+}

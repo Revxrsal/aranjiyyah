@@ -2,6 +2,8 @@
 name: build-skill
 description: Phase 2. Turn extraction/candidates.md into the final aranjiyyah skill (SKILL.md and references/), with the whole book's candidates in view.
 disable-model-invocation: true
+metadata:
+  internal: true
 ---
 
 # Build the skill from the candidates (phase 2: edit)
@@ -49,7 +51,7 @@ before.
 
 ## 3. Write the references
 
-Regenerate each file in `aranjiyyah/references/` from scratch, in the
+Regenerate each file in `skills/aranjiyyah/references/` from scratch, in the
 `CLAUDE.md` entry format, numbering IDs from 001 in each file. Order
 entries by how often the pattern shows up in modern writing, most common
 first.

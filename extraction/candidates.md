@@ -1,6 +1,6 @@
 # Candidates
 
-Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns this into aranjiyyah/references/.
+Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns this into skills/aranjiyyah/references/.
 
 ## p7 · CRITERION · two surface kinds of foreign influence
 - note: the preface separates (a) foreign words taken over in Arabic letters and (b) words or phrases translated word for word. It presents both as the obvious, surface layer; the book's thesis is that the influence goes deeper, into structure. Useful for phase 2 framing: loanwords and literal calques are the easy cases.
