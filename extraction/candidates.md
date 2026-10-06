@@ -36,3 +36,9 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ رسالتك صنعت يومي → ✓ أسعدتني رسالتك (ours)
 - note: listed as an idiom translated word for word
 
+
+## p8 · CRITERION · single calques are the small part
+- note: completes the p7 thread. Isolated coinages (صنعت يومي and the like) grate on any native ear, but avoiding them while keeping the rest is like giving up sugar while eating fat: the bulk of the foreignness lies elsewhere, in structure. The author defines العرنجية as text that is Arabic in its surface and foreign in its inner build. For phase 2: a text free of loanwords and obvious idiom calques is not thereby clean; the skill should look past vocabulary.
+
+## p8 · CRITERION · where it hides: skilled writers
+- note: the author targets not untrained writers but the elite (writers, Arabic teachers, even authors of books correcting usage), because readers trust their prose and the foreignness there is subtler. For phase 2: apply the check to polished, otherwise correct prose, not only to sloppy text.
