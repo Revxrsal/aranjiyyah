@@ -31,6 +31,11 @@ Format:
 - decision: keep them, at the bottom of their files.
 - why: the skill searches the references, so rare entries cost almost nothing.
 
+## التفكير النقدي
+- applies to: التفكير النقدي / الناقد، مهارات التفكير النقدي، العقل النقدي، الحسّ النقدي (a usage.md entry, outside the book)
+- decision: add an entry at 🔴 as a literal calque of "critical thinking". Don't clear it as a technical coinage: the meaning is old, and Arabic says it with تمحيص، نظر، موازنة، تمييز، or a verb (لا يُسلّم بقول حتى يمحّصه). Exception: نقدي for criticism as a discipline (النقد الأدبي، نقد الحديث، الدراسات النقدية). Examples are ours, and المصدر names this decision instead of a page.
+- why: the user's ruling (2026-10-07), after a review left it alone as a technical term.
+
 ## Pending
 
 Questions awaiting an answer. `/build-skill` keeps its current handling
