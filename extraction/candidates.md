@@ -437,3 +437,98 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - cue: (heading only; examples start p49)
 - note: European languages stretch the adjective (attributive use) further than Arabic does, and عرنجية follows them. Definition reminder: نعت = a follower that denotes a meaning in its head noun or in something related to it (عالم in جاءني رجل عالم).
 - open: the list of examples starts on p49; record each as its own RULE
+
+## p49 · RULE · اسم التفضيل نعتًا (الشخص الأحرص)
+- resolves: p48 النعت (open: the list of examples starts on p49)
+- cue: ال + noun + ال + أفعل (الشخص الأحرص، الصاحب الأفضل، الأكلة الألذ، الليالي الأطول، الفتيات الأجمل، القادة الأكبر)
+- source: the X-est N (the longest nights, the most beautiful girls)
+- ✗ الشخص الأحرص → ✓ أحرص الناس (author)
+- ✗ الأكلة الألذ → ✓ ألذ الأكل / أطيب الطعام (author: ألذ أكلة المندي)
+- ✗ الصاحب الأفضل → ✓ أفضل الأصحاب (author)
+- ✗ الفتيات الأجمل → ✓ أجمل الفتيات (ours)
+- ✗ يدعى إلى مائدة القادة الأكبر → ✓ … مائدة كبار القادة (ours)
+- note: Arabic compares by adding the superlative to the group (أفعل + مضاف إليه). English adjectives don't inflect, so translators copy "the longest" as an invariant الأطول after a noun.
+
+## p49 · CRITERION · when الأفعل may follow a noun
+- of: p49 اسم التفضيل نعتًا
+- note: (1) Arabic does use الأفعل as an adjective, mostly to signal the utmost degree rather than a comparison among a group (الأسماء الحسنى، العروة الوثقى). (2) When it is used as an adjective, it agrees in gender and number with its noun: الأمهات الكُرْمَيات / الأمهات الكريمات, never الأمهات الأكرم. So flag invariant masculine-singular الأفعل after a plural or feminine noun (الليالي الأطول، البنات الأحسن) as the clearest case.
+- ✗ الأمهات الأكرم جلسن → ✓ أكرمُ الأمهات جلسن / الأمهات الكُرْمَيات جلسن (author)
+
+## p50 · CRITERION · academy permission for invariant الأفعل
+- of: p49 اسم التفضيل نعتًا
+- note: معجم الصواب اللغوي accepts اتفقت الدولتان الأعظم and reports the Cairo academy allowing masculine singular الأفعل with ال after any noun (الشيوخ الأكبر، الكتابان الأقدم، البنات الأحسن). The author rejects this as licensing an imitation of European adjective use. Don't clear these on the strength of an academy ruling.
+
+## p50 · RULE · نسبة instead of إضافة (الرئيس المصري)
+- cue: ال + noun + ال + place/group nisba where possession or headship is meant (الرئيس المصري، الطبقات الحنبلية، شبه الجزيرة العربية)
+- source: the Egyptian president; the Arabian Peninsula
+- ✗ الرئيس المصري → ✓ رئيس مصر (author)
+- ✗ الطبقات المعتزلية / الطبقات الحنبلية → ✓ طبقات المعتزلة / طبقات الحنابلة (author)
+- ✗ شبه الجزيرة العربية → ✓ جزيرة العرب (author)
+- ✗ الملك الأيلي → ✓ ملك أيلة (author)
+- note: Arabic expresses "the head of X" by إضافة. الرئيس المصري says only that some president is Egyptian (a club president who happens to be Egyptian), not that he heads Egypt. Old-style book titles have caught it too. Even where a justification exists, the pattern came in through translation.
+
+## p51 · RULE · material as a nisba adjective (ثوب صوفي)
+- cue: noun + nisba of a material: صوفي، خشبي، حديدي، ذهبي، فضي، حريري
+- source: woolen garment, wooden bowl, gold ring, silk shirt
+- ✗ ثوب صوفي → ✓ ثوب صوف (author)
+- ✗ صحن خشبي / خاتم حديدي → ✓ صحن خشب / خاتم حديد (author)
+- ✗ قميص حريري / خاتم ذهبي → ✓ قميص حرير / خاتم ذهب (author; hadith: بُرد حرير، خواتيم الذهب، آنية الفضة)
+- note: to state what something is made of Arabic uses إضافة (or من). Colloquial speech still says ثوب صوف and صحن خشب; only written عرنجية switches to the adjective, even in textbooks for learners.
+
+## p51 · RULE · لـ / لمدة before a duration
+- cue: لـ / لمدة + time span (لثلاث ليال، لسنوات عديدة، لمدة يومين)
+- source: for three nights, for years
+- ✗ لن تتمكن من التحدث إلى الناس لثلاث ليال → ✓ ألا تكلم الناس ثلاث ليال (author, Quran)
+- ✗ ألم تقم معنا لسنوات عديدة؟ → ✓ ولبثت فينا من عمرك سنين (author, Quran)
+- ✗ أقام عندهم لمدة يومين → ✓ أقام عندهم يومين (author)
+- ✓ بتّ عند أحمد ليلتين؛ قرأت ثلاث ساعات (author)
+- note: Arabic puts the duration in the accusative as a ظرف with no particle; لـ copies English "for". Colloquial keeps the native form (نمت ثلاث ساعات); the لام appears only when a speaker tries to sound formal. معجم الصواب اللغوي accepts لمدة, citing المعجم الأساسي, which the author dismisses as the same compiler citing himself.
+
+## p52 · EXAMPLE · أو بمعنى أي
+- of: p31 أو بمعنى أي
+- ✗ هذا شرح لعلم النحو، أو علم قوانين الكلام → ✓ … أي علم قوانين الكلام (author)
+- ✗ أعظم العبادة التوحيد، أو إفراد الله بالعبادة → ✓ … أي إفراد الله بالعبادة (author)
+- note: from English "or" used to rephrase. In Arabic أو reads as a choice between the two names.
+
+## p52 · RULE · أو in a negated coordination
+- cue: لا/لن/لم + verb + X أو Y
+- source: we will not leave a man or a child
+- ✗ لن نترك رجلًا أو طفلًا → ✓ لن نترك رجلًا ولا طفلًا (author)
+- note: after a negation Arabic repeats لا to deny each item (لا يغادر صغيرة ولا كبيرة؛ لم يكن سبّابًا ولا فحّاشًا ولا لعّانًا). English uses "or" here.
+
+## p53 · RULE · أو in a تسوية (جاء أو لم يجئ)
+- cue: (سواء) + verb + أو + لم + verb; X أو لا
+- source: whether he came or not
+- ✗ سأذهب جاء أو لم يجئ → ✓ سأذهب أجاء أم لم يجئ / سواء أجاء أم لم يجئ (ours; author: Arabs use أم)
+- note: the Arab pattern for equivalence is أ … أم (أقريب أم بعيد ما توعدون). Some old writers slipped, but the أو form spread only with the age of translation.
+
+## p53 · RULE · multi-word connector for a single particle
+- cue: إلى درجة أن، بالرغم من [حقيقة] أن، في حال أن/في حال (+ verb)
+- source: to the extent that; despite the fact that; in case
+- ✗ يخالطنا إلى درجة أنه يسأل … → ✓ يخالطنا حتى يقول … (author)
+- ✗ يغفر للناس بالرغم من [حقيقة] أنهم ظالمون → ✓ يغفر للناس على ظلمهم (author)
+- ✗ في حال أنكم تبتم فهو خير لكم → ✓ فإن تبتم فهو خير لكم (author)
+- note: English spells some relations with a phrase; Arabic has a particle for them (حتى، على، إنْ/إذا). The calqued phrase is longer and foreign. في حال is a time-frame word put in place of the conditional particle.
+- resolves: p31 بالرغم من (partly: author's rewrite here is على + مصدر)
+
+## p53 · RULE · نحو / تجاه with feelings and attitudes
+- cue: نحو/تجاه + object after رحمة، رحيم، شعور، موقف، مسؤولية …
+- source: show mercy towards, be merciful towards
+- ✗ يظهر الرحمة نحو كذا → ✓ يرحم كذا (author)
+- ✗ هو رحيم تجاه كذا → ✓ هو رحيم بكذا (author; hadith: فالله أرحم بك)
+- note: Arabic drops the place word and lets the verb take its object, or uses the particle the verb or adjective governs (رحيم بـ). The calque is longer and less clear. Phase 2: test the same cue with other nouns (المسؤولية تجاه، موقفه تجاه) against later pages.
+
+## p54 · RULE · من خلال / عبر for instrumental بـ
+- cue: من خلال / عبر + means or source
+- source: through, via
+- ✗ يستدل على ذلك من خلال تلاصق الوحدات السكنية → ✓ يستدل على ذلك بتلاصق المساكن (author)
+- ✗ أشكره لما أثاره عبر مقاله من قضايا → ✓ … بمقاله (author)
+- note: both copy "through". Arabic marks the instrument with الباء.
+- open: footnote says وحدة سكنية is itself a word calque, treated in the vocabulary chapter (متن اللغة); link it there
+
+## p54 · RULE · ضد as a preposition
+- cue: ضد + noun after a verb or verbal noun (يطلب المساعدة ضد، التحذير ضد، يحذّر ضد)
+- source: against (help against, warn against)
+- ✗ يطلب المساعدة ضد أخيه من الأمراء → ✓ يستعين بالأمراء على أخيه (author)
+- ✗ التحذير ضد الأخطاء قبل وقوعها → ✓ التحذير من الأخطاء (author)
+- note: ضد is a noun (opposite), not a particle. Arabic uses the particle the verb governs: استعان بـ … على، حذّر من.

@@ -48,3 +48,9 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 44 (p 46) · background: plan of ch.3 (grammar & morphology, words, styles)
 - pdf 45 (p 47) · CRITERION×1 (ch.3 النحو opens: grammatical ≠ Arabic)
 - pdf 46 (p 48) · CRITERION×1 RULE×1 (no-grammarian-forbids-it defence; النعت section opens)
+- pdf 47 (p 49) · RULE×1 CRITERION×1 (superlative as adjective; agreement rule)
+- pdf 48 (p 50) · CRITERION×1 RULE×1 (academy permits invariant الأفعل; الرئيس المصري)
+- pdf 49 (p 51) · RULE×2 (ثوب صوفي; ظرف الزمان section: لـ before duration)
+- pdf 50 (p 52) · EXAMPLE×1 RULE×1 (حروف المعاني opens: أو for أي; أو after negation)
+- pdf 51 (p 53) · RULE×3 (أو in تسوية; phrase for a particle; نحو/تجاه)
+- pdf 52 (p 54) · RULE×2 (من خلال/عبر; ضد); end of حروف المعاني, extra page to finish the section
