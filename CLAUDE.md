@@ -23,7 +23,8 @@ what matters, not the speed or repeatability of the extraction.
 
 1. **Collect** (`/extract-next`, PDF pages 1-215). Read every page and record
    anything that could become a rule in `candidates.md`. Favor recall.
-2. **Edit**, once collection is finished. With the whole book in view,
+2. **Edit** (`/build-skill`), once collection is finished. It can also be run
+   early as a preview. With the whole book in view,
    merge duplicates and repeated examples, generalize related candidates
    into broader patterns, drop rhetoric that never became a concrete rule,
    and use the `CRITERION` and `ACCEPTED` candidates to set judgment rules
@@ -36,6 +37,9 @@ what matters, not the speed or repeatability of the extraction.
   its path.
 - `.claude/skills/extract-next/` is the `/extract-next` command that runs one
   phase 1 session.
+- `.claude/skills/build-skill/` is the `/build-skill` command that runs phase 2.
+  It regenerates `aranjiyyah/references/` from the candidates, so make fixes
+  in `candidates.md` (or the command), not by hand in the references.
 
 ## Rule entry format
 
