@@ -21,10 +21,16 @@ any point and the next one resumes cleanly.
 Read `extraction/state.json`. Process `$ARGUMENTS` pages if given, otherwise
 `pages_per_run`. Stop at `stop_page`. Read every page; don't skip any.
 
-**Overlap:** if `next_page` > 1, first render and Read page `next_page - 1`
-for context only. It was already processed, so don't log it or add new
-blocks for it. Use it to pick up a thought that crosses into this run, and
-fix its blocks only if they were clearly cut short or wrong.
+**Finish the author's idea.** The page count is a target, not a hard stop.
+If the discussion on the last requested page continues onto the next page,
+keep going, processing those pages exactly like the requested ones, until
+the idea ends at a new heading, a new numbered item or a new pattern. Then
+stop. Cap the extension at 5 extra pages. If an idea is still running
+after that, stop and leave it in `carry`.
+
+**Overlap:** only when `carry` is set at the start of a run, first render
+and Read page `next_page - 1` for context only. It was already processed,
+so don't log it or add blocks for it.
 
 Don't read `extraction/candidates.md` in full; it grows large. Search it
 instead:
@@ -83,5 +89,6 @@ book. If a word is unreadable, mark it `[?]` rather than guessing.
 
 Commit the changes to state, log and candidates with a message like
 `extract: pdf pages 41-45 (6 candidates)`. Tell the user in two lines how
-many pages and candidates were added and what the next page is. Suggest
+many pages and candidates were added, how many extra pages it took to
+finish the last idea (if any), and what the next page is. Suggest
 `/clear` before the next `/extract-next`.
