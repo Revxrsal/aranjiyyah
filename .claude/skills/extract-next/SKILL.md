@@ -21,6 +21,11 @@ any point and the next one resumes cleanly.
 Read `extraction/state.json`. Process `$ARGUMENTS` pages if given, otherwise
 `pages_per_run`. Stop at `stop_page`. Read every page; don't skip any.
 
+**Overlap:** if `next_page` > 1, first render and Read page `next_page - 1`
+for context only. It was already processed, so don't log it or add new
+blocks for it. Use it to pick up a thought that crosses into this run, and
+fix its blocks only if they were clearly cut short or wrong.
+
 Don't read `extraction/candidates.md` in full; it grows large. Search it
 instead:
 - `grep -n "<cue word>" extraction/candidates.md` before recording a
