@@ -3528,3 +3528,32 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - source: things they were angry with him about
 - ✗ لأشياء كانوا غاضبين منه لأجلها → ✓ لأشياء نقموها عليه (author, the original)
 - note: English ends the relative clause with a preposition (about); Arabic picks a verb that takes the noun directly (نقمها عليه) or rewrites. Shown in the back-translation only; phase 2 to judge (soft).
+
+## p193 · ACCEPTED · قلّ + نكرة + إلا (قلّ يومٌ إلا وهو …)
+- cue: قلّ يومٌ/قلّ رجلٌ … إلا و…
+- ✓ وكان قلّ يومٌ إلا وهو يطوف علينا جميعًا (Aisha's hadith, cited by the author)
+- note: a native negative-restrictive idiom ("hardly a day passed without …") that readers raised on translated prose find stiff; the author cites it as model Arabic. Don't flag it, and it's a good rewrite for "rarely a day passes without" (بالكاد يمر يوم دون أن …).
+
+## p193 · CRITERION · reading word by word versus reading the composition
+- note: the author's diagnosis of the Europeanized reader: they translate each word in their head and ignore order, construction and نظم, so native constructions (قلّ يومٌ إلا، القسم من مكثه عندنا) feel foreign and calqued ones feel normal. For phase 2: judge a sentence by whether its construction is Arabic, not by whether each word is Arabic.
+
+## p196 · METHOD · acquire the ملكة through native texts, not rules alone
+- note: the author's first remedy for writers: steep yourself in classical Arabic prose and speech (as foreign-language courses do with immersion) rather than studying grammar rules in isolation; rules learned apart from their context don't yield natural sentences. Backs it with Ibn Khaldun on ملكة versus صناعة العربية. For phase 2: a line of advice in REM, and a reason the skill should offer rewrites modeled on attested Arabic phrasing rather than on grammar alone.
+
+## p198 · METHOD · grammar as a tool for reading, plus a classical reading list
+- of: p196 acquire the ملكة through native texts
+- note: study a short grammar (e.g. الآجرومية) only enough to read classical texts with correct i'rab, then read them aloud and often. Quotes Faisal al-Mansour's list of style-building books (Quran, نهج البلاغة, المعلقات, المفضليات, الحماسة, البيان والتبيين, الكامل, أمالي القالي, ابن المقفع, المتنبي …). For phase 2: at most a short REM pointer; the list itself isn't a rule.
+- open: the reading list continues on p199
+
+## p199 · METHOD · start from plain narrative prose, not ornate rhetoric
+- resolves: p198 reading list (list ends here)
+- note: the author ranks books for building the ملكة: first texts where people speak naturally without decoration (hadith, early Muslims' speech, أخبار such as الأغاني، البخلاء، عيون الأخبار، العقد، التنوخي، ابن الجوزي), and only later high rhetoric and poetry. Reread good passages aloud and slowly. For phase 2: the register to aim rewrites at is plain natural narrative Arabic, not ornamented prose.
+
+## p200 · CRITERION · pre-1250 AH prose as the safe benchmark
+- note: the author's cutoff for model texts: books written before about 1250 AH (before the translation era) are free of Europeanization; later books may be eloquent but aren't safe to imitate. Useful in phase 2 as the yardstick for "attested Arabic" when judging whether a phrasing is native, and as a reason to prefer classical attestations over modern dictionary or press usage.
+
+## p200 · CRITERION · ornate style for grand topics, calqued style for ordinary ones
+- note: a writer who learned only from high rhetoric (المعلقات، المقامات) writes rhymed, decorated prose on lofty subjects and slips into Europeanized prose for everyday ones (describing a book, reporting news, giving an instruction). For phase 2: plain everyday prose (news, reports, instructions) is where calques concentrate, and rewrites there should stay plain rather than turning ornate.
+
+## p201 · METHOD · back-translate to English to spot the calque
+- note: the author says knowing English was his main tool for seeing Europeanization: a phrase that maps word for word onto an English idiom is suspect (his reprise of p33 أجي من بيت … / التقطت هذه العادة). Mixing classical and modern reading without noticing where they differ blends two ملكات. For phase 2: a core detection step for SKILL.md (render the suspect phrase in English; if it lands on a stock English idiom, look for the Arabic way), already implied by many RULE notes.
