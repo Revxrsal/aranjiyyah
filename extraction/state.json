@@ -1,14 +1,14 @@
 {
-  "next_page": 1,
+  "next_page": 6,
   "stop_page": 215,
   "printed_page_offset": 2,
   "pages_per_run": 5,
   "carry": "",
   "chapters": {
-    "الباب الأول": null,
-    "الباب الثاني": null,
-    "الباب الثالث": null,
-    "الباب الرابع": null
+    "الباب الأول": 9,
+    "الباب الثاني": 23,
+    "الباب الثالث": 43,
+    "الباب الرابع": 193
   },
-  "notes": "PDF 216-222 are the bibliography. Printed page = PDF page + 2. Chapter 3 (grammar, morphology, words, usages, styles) is the main source of rules; chapter 4 holds remedies."
+  "notes": "PDF 216-222 are the bibliography. Printed page = PDF page + 2. Chapter 3 (grammar, morphology, words, usages, styles) is the main source of rules; chapter 4 holds remedies. Ch.3 sections by pdf page: النحو 45-59 (incl. الإماتة والاستحياء والتغليب 53), الصرف 60-65, متن اللغة 66-129 (أمثلة من كلام العصريين 77), أساليب الكلام 130-192. Ch.4: تعلم اللسان 193, تقويم اللسان للترجمان 202."
 }
