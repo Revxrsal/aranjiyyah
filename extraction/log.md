@@ -126,3 +126,8 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 122 (p 124) · RULE×1 EXAMPLE×1 (توقّف عن = stop; hadith list of lost single words). Extra page
 - pdf 123 (p 125) · EXAMPLE×1 METHOD×1 (hadith list cont.: تيمّم، تلفّع، تحيّن، قافل، أجمع، انتبذ…). Extra page
 - pdf 124 (p 126) · CRITERION×2 RULE×1 (closes lost-words list; new مسألة on proving foreignness; خطة/خطط = plan). Extra page
+- pdf 125 (p 127) · EXAMPLE×1 (خطة evidence: classical تدبير/حيلة/كيد/مكيدة rendered as plan)
+- pdf 126 (p 128) · EXAMPLE×1 CRITERION×1 (تدبير الحروب، إسقاط التدبير; خُطّة with damma ≠ plan)
+- pdf 127 (p 129) · CRITERION×2 (classical خُطّة = need/matter; derivable ≠ native, إماتة of تدبير)
+- pdf 128 (p 130) · CRITERION×2 EXAMPLE×1 (three notes on proving foreignness: modern spread, stray witness; درس)
+- pdf 129 (p 131) · CRITERION×1 (third note: rare precedent + English-driven dominance still عرنجية; closes the مسألة)

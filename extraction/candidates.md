@@ -2070,3 +2070,54 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ خطط للأمر بعناية → ✓ دبّر الأمر / أحكم تدبيره (ours)
 - note: the author is nearly certain this sense came from European languages. In Arabic خِطّة is a plot of land marked out with lines (خطط المقريزي; translators render it plan). English then stretched plan/plot to scheming, and Arabic followed, even copying the collocation خطة + ضد (plot against). Native: دبّر، تدبير، كاد، مكر، عزم، نوى.
 - open: the investigation continues on p127; collect the evidence, any author rewrite for خطة عمل / خطط مستقبلية, and the three notes
+
+## p127 · EXAMPLE · خطّة / خطّط: classical evidence and native equivalents
+- of: p126 RULE خطّة / خطّط for plan, plot
+- resolves: p126 خطة (evidence part; the three notes still to come)
+- ✗ يخطط لـ … / خططه → ✓ يدبّر / تدبيره، مكايده، حِيَله (author: the classical writers use التدبير، الحيلة، الكيد، المكر for this meaning)
+- ✗ خطط الحرب → ✓ الرأي والحرب والمكيدة (author, from the Hubab hadith; English renders المكيدة as plan, tactics or strategy)
+- ✗ ماذا خططت؟ → ✓ ما الذي دبّرت؟ (author, al-Waqidi; English: what did you plan)
+- ✗ عملتُ خططًا → ✓ أعملتُ حِيَلًا (author)
+- ✗ يفكّر في خطته → ✓ يحتال ويتفكّر في أمره (author)
+- ✗ خطة الرجل الذكي → ✓ تدبير العاقل (author, Ibn Hazm)
+- note: the author searched classical corpora and found no خطة in this sense, while English translations of the same classical texts render مكر، كيد، مكيدة، حيلة، تدبير all as plan. So one English word has absorbed many Arabic ones, and عرنجية collapses them all into خطة. Even نهج البلاغة's مكايد (secret plans) is glossed by its commentator as المكايد والحيل والتدبيرات, with no خطة/تخطيط.
+- note: the same collapse covers استراتيجية and تكتيك (strategy, tactics), which English uses for المكيدة. Phase 2: offer تدبير، رأي، مكيدة (in war), حيلة by context.
+
+## p128 · EXAMPLE · خطّة / خطّط: التدبير in classical book titles
+- of: p126 RULE خطّة / خطّط for plan, plot
+- ✗ التخطيط للحروب / خطط الحرب → ✓ تدبير الحروب (author: title تفريج الكروب في تدبير الحروب, which covers army order, ranks, camps, battle timing, all "planning" today, with no خطة)
+- ✗ ترك التخطيط / التخطيط للأمور الدنيوية → ✓ إسقاط التدبير (author: title التنوير في إسقاط التدبير; its English translation renders التدبير as planning)
+- ✗ تخطّط بعناية → ✓ تدبّر (author, from the translated Shadhili saying: فدبّروا ألا تدبّروا → plan not to plan)
+- note: two classical books built around the very meaning of تخطيط never use the word, so the sense is post-translation.
+
+## p128 · CRITERION · vowelling it خُطّة does not make "plan" classical
+- of: p126 RULE خطّة / خطّط for plan, plot
+- note: some language teachers say خِطّة is a common error and the correct form خُطّة means تدبير, citing the hadith لا يسألوني خُطّةً يعظّمون فيها حرمات الله. The author rejects this: in the hadith and its commentaries خُطّة means a matter, situation or difficult case (الحال والخطب؛ الحالة الصعبة؛ معضلة), not a plan. Phase 2: don't accept خُطّة with damma as a fix for the plan sense; the fix is a different word (تدبير، رأي، مكيدة).
+- open: the خُطّة evidence continues on p129 (جمهرة …); collect the rest and the three notes
+
+## p129 · CRITERION · classical خُطّة means a need, matter or aim, not a plan
+- resolves: p128 خُطّة damma claim
+- note: the proverb and lexicon evidence (في رأسه خُطّة = he has a need he is set on; خُطّة نائية = a distant aim; خُطّة = الأمر والقصة) gives need, matter, resolve, aim, hard case. These are near تدبير but are not it. A modern reader who meets خُطّة in a hadith and reads it as plan misreads the text.
+
+## p129 · CRITERION · a sense you can derive by reasoning is not thereby native
+- of: p56 CRITERION الإماتة / الاستحياء / التغليب defined; p118 CRITERION الإماتة والتغليب in vocabulary
+- note: that خطة = plan can be reasoned out from need/aim/resolve does not settle it; nearly any European usage can be justified by such reasoning. Even if some early writer did use خطة for تدبير, the modern usage is still عرنجية in effect: it kills (إماتة) the common words (تدبير، كيد، حيلة، مكيدة، رأي) and crowds them out (تغليب), so that modern dictionaries now explain أمرٌ دُبِّر بليل as أمرٌ خُطِّط بليل. It also kills the classical sense of خُطّة. Phase 2: a word's possible classical warrant does not clear it when the modern frequency and collocations follow English and the native words have vanished.
+- ✗ أمرٌ خُطِّط له بليل → ✓ أمرٌ دُبِّر بليل (author)
+- open: the passage continues on p130; collect the rest and the three notes the author promised (p126)
+
+## p130 · CRITERION · an old witness doesn't clear a usage whose modern spread is foreign (first of three notes)
+- of: p129 CRITERION derivable ≠ native
+- note: even if someone finds تخطيط in a 5th- or 8th-century manuscript, today's usage came from European languages, not from that source. Analogy: some earlier people shaved their beards, but the modern habit follows the West, not them. Phase 2: judge the modern usage by where its spread came from (sense and collocations matching English), not by whether any old instance exists.
+
+## p130 · CRITERION · a stray early witness is weak evidence (second note)
+- note: one attestation in a single old book cannot outweigh the whole of the classical corpus, where every writer expresses the meaning with other words. Analogy: finding the necktie (كرفتة) worn in 8th-century Damascus would not make it Arab dress. Likewise a 7th-century instance of درس = moral lesson would not make it sound, since the classical writers all say العظة، الاعتبار، العبرة. Phase 2: one or two isolated classical hits do not make a calqued sense ACCEPTED.
+
+## p130 · EXAMPLE · درس = lesson (moral)
+- of: p107 RULE درس = lesson (moral)
+- ✗ درسٌ (بمعنى العظة) → ✓ العظة، العبرة، الاتعاظ، الاعتبار (author)
+- open: the second note continues on p131; collect the third note
+
+## p131 · CRITERION · a rare old usage made common by English still crowds out the native word (third note)
+- of: p130 CRITERION a stray early witness is weak evidence; p129 CRITERION derivable ≠ native
+- resolves: p130 three notes; p126 خطة (investigation closed)
+- note: even with a rare old precedent, a word that was obscure and became widespread only because it matches European usage is still عرنجية in effect: its dominance (تغليب) comes from English, and it kills (إماتة) the well-known native word. The cost is a break with the Qur'an, hadith and classical prose: readers come to find the native word strange and the English-matching one familiar, defending it with a single old instance. The aim of guarding Arabic is to keep the dominant usages and senses of classical speech, not to license whatever one old writer once used. Example: درس for lesson spread only through frequent rendering of lesson and nearly displaced العبرة. Phase 2: ask whether the usage became common through translation and whether it has displaced a native word; if both, flag it regardless of a rare precedent.
