@@ -2808,3 +2808,135 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ إحدى نعم الله على سكان الحجاز هي حبوب البن، لأن هؤلاء الناس يكونون غالبًا فقراء وضعفاء، والناس اعتادوا أن يأتوا إليهم من كل مكان. ومن الضروري أن يكون لدى الشخص بعض الطعام ليقدمه للضيوف الذين يستقبلهم في منزله → ✓ مما أنعم الله به على أهل الحجاز هذا البن، لأنهم ضعفاء فقراء في الغالب، والناس يقدمون عليهم من الآفاق، والإنسان لا بد له من طعام يقدمه لمن دخل عليه (author, the original)
 - note: shifts visible: إحدى نعم الله … هي (one of the blessings … was) for مما أنعم الله به; سكان الحجاز (inhabitants) for أهل الحجاز; حبوب البن (coffee beans) for البن; هؤلاء الناس يكونون غالبًا (p24 يكون + habitual) for هم … في الغالب; اعتادوا أن يأتوا (used to come) for يقدمون; من كل مكان for من الآفاق; من الضروري أن يكون لدى الشخص (it is a necessity for a person that he have) for والإنسان لا بد له من; بعض الطعام (some food) for طعام; الضيوف الذين يستقبلهم في منزله (guests whom he receives into his home) for من دخل عليه. Comments (1) and (2) are marked at إحدى نعم الله and والناس اعتادوا. The author notes he merged two English translations (Zaki ibn Khayr and Suhail ibn Lahir) to correct each one's faults.
 - open: the table and comments (1)-(2) continue on p165
+
+## p165 · EXAMPLE · back-translation of al-Qushashi on coffee (table ends)
+- of: p164 EXAMPLE back-translation of al-Qushashi on coffee
+- resolves: p164 open (rest of the table)
+- ✗ لكن هؤلاء الفقراء من الحجاز ليس لديهم القدرة ليقوموا بذلك النوع من الضيافة لكل أحد يستقبلونه. الآن، هذه المادة التي تسمى القهوة غير مكلفة وسهلة التحضير، والناس راضون بها سواء كانوا أغنياء أو فقراء أو رؤساء أو تابعين. ولذلك فإنها تسمح للفقراء بحفظ وجوههم في الأوقات التي يستقبلون فيها ضيفًا. ولذلك ليس بعيدًا أن نستنتج أنه أمر يستحق الثناء دينيًا لأهل الحجاز، لأنه من وجهة نظر دينية، يجب على الرجل الحفاظ على شرفه → ✓ ولا قدرة لهم على تكلف ذلك لكل أحد يدخل عليهم، وهذه القهوة خفيفة المؤنة، والناس راضون بها، غنيهم وفقيرهم، ورئيسهم ومرؤوسهم، فكانت صيانة لوجوه الفقراء عند ورود أحد عليهم، فلا يبعد أن تكون مستحبة عند أهل الحجاز لأن اتخاذ الإنسان ما يصون به عرضه مطلوب شرعًا (author, the original)
+- note: shifts visible: ليس لديهم القدرة ليقوموا بـ (do not have the capability to undertake) for لا قدرة لهم على; ذلك النوع من الضيافة (that sort of hospitality) for ذلك; يستقبلونه for يدخل عليهم; الآن، (Now,) as a discourse marker; هذه المادة التي تسمى القهوة (this substance called coffee) for هذه القهوة; غير مكلفة وسهلة التحضير for خفيفة المؤنة; سواء كانوا أغنياء أو فقراء for غنيهم وفقيرهم (possessive pairs); تسمح للفقراء بحفظ وجوههم (allows the poor to save face) for فكانت صيانة لوجوه الفقراء; في الأوقات التي يستقبلون فيها ضيفًا for عند ورود أحد عليهم; ليس بعيدًا أن نستنتج (it is not far-fetched to conclude) for فلا يبعد أن; أمر يستحق الثناء دينيًا (religiously praiseworthy) for مستحبة; من وجهة نظر دينية (from a religious point of view) for مطلوب شرعًا; يجب على الرجل الحفاظ على شرفه for اتخاذ الإنسان ما يصون به عرضه.
+
+## p165 · RULE · إحدى / أحد + plural for partitive مِن (one of the …)
+- cue: إحدى + plural noun (إحدى نعم الله، أحد أسباب، واحد من أهم، إحدى أكبر) where من التبعيضية would do
+- source: one of the …
+- ✗ إحدى نعم الله على أهل الحجاز هي البن → ✓ مما أنعم الله به على أهل الحجاز البن (author)
+- ✗ أحد الناس يقول … → ✓ ومن الناس من يقول آمنا بالله (ours ✗; the author cites the verse as the native partitive)
+- note: English has no partitive من, so it says "one of"; Arabic expresses "some of a whole" with من التبعيضية, often fronted as the predicate (ومن الناس من …، مما أنعم الله به …).
+- open: comment (1) continues on p166; collect the rest and the author's verdict on أحد/إحدى in general
+
+## p166 · EXAMPLE · إحدى / أحد + plural for partitive مِن (end of comment 1)
+- of: p165 RULE إحدى / أحد + plural for partitive مِن
+- resolves: p165 open (rest of comment 1)
+- ✗ لتكون أحد المنذرين → ✓ لتكون من المنذرين (author, Quran)
+- ✗ ذلك أحد آيات الله → ✓ ذلك من آيات الله (author, Quran)
+- ✗ وإن إلياس أحد الرسل → ✓ وإن إلياس لمن المرسلين (author, Quran)
+- ✗ أحد الأشياء التي أدركها الناس من كلام النبوة الأولى → ✓ إن مما أدرك الناس من كلام النبوة الأولى (author, hadith)
+- ✗ دمشق إحدى أحسن المدن في سورية → ✓ دمشق من خير مدائن الشام (author, hadith)
+- ✗ نفّس عن مؤمن إحدى صعوبات الدنيا → ✓ من نفّس عن مؤمن كربة من كرب الدنيا (author, hadith)
+- ✗ أحد عيوب حب الصيت → ✓ من عيب حب الذكر (author, Ibn Hazm)
+- ✗ هو أحد فروع المعرفة الأقل أهمية → ✓ من العلوم المتأخرة فيه (author, Ibn Hazm)
+- ✗ أحد السادة والنبلاء في ثقيف → ✓ من سادات ثقيف وأشرافهم (author, Ibn Khaldun)
+- ✗ إحدى الجزر الأعظم هي جزيرة سرنديب → ✓ من أعظمها جزيرة سرنديب (author, Ibn Khaldun)
+- note: verdict: the أحد/إحدى كذا usage only spread and won out because it matches European speech. The native form is من + plural (من المنذرين، من خير مدائن الشام), or an indefinite singular followed by من + plural (كربة من كرب الدنيا). Note the extra calques riding along: أحسن المدن for خير مدائن, الأقل أهمية, الأعظم + هي.
+
+## p166 · RULE · اعتاد أن (used to / accustomed to) for a past habit
+- cue: اعتاد/اعتادوا/اعتدنا أن + verb, (الذي/التي) اعتادوا أن، كما اعتاد
+- source: used to, was accustomed to
+- ✗ والناس اعتادوا أن يأتوا إليهم → ✓ والناس يقدمون عليهم (author, al-Qushashi)
+- ✗ الآلهة التي اعتادوا أن يدعوها → ✓ وضل عنهم ما كانوا يدعون من قبل (author, Quran)
+- ✗ الذي اعتادوا أن يستهزئوا به → ✓ ما كانوا به يستهزئون (author, Quran)
+- ✗ اعتدنا أن نقعد منها مقاعد للسمع → ✓ وأنا كنا نقعد منها مقاعد للسمع (author, Quran)
+- ✗ لأنكم اعتدتم أن تفرحوا → ✓ بما كنتم تفرحون في الأرض بغير الحق (author, Quran)
+- ✗ من اعتدتم أن تعبدوا؟ قالوا: اعتدنا أن نعبد المسيح → ✓ ما كنتم تعبدون؟ قالوا كنا نعبد المسيح (author, hadith)
+- ✗ اعتاد النبي أن يحيي ليله → ✓ كان النبي إذا دخل العشر شد مئزره وأحيا ليله (author, Aisha)
+- ✗ لم يعتد النبي أن يرفع يديه → ✓ كان لا يرفع يديه في شيء من دعائه إلا في الاستسقاء (author, Anas)
+- ✗ اعتاد النبي أن يسكت بين التكبير والقراءة → ✓ كان رسول الله يسكت بين التكبير وبين القراءة (author, Abu Hurayra)
+- note: English marks a repeated past action with used to / accustomed to; Arabic gets that from كان + present verb (كانوا يدعون)، or a plain present for an ongoing custom (يقدمون), with no اعتاد. The author calls its spread a European style.
+- criterion: اعتاد is sound when the point is the habit itself or getting used to something (اعتاد السهر، اعتاد على البرد); the calque is using it as a mere past-habitual marker before another verb.
+
+## p167 · CRITERION · word-for-word English test (section «القرب بين العرنجية وكلام الإفرنج في الأساليب» opens)
+- of: p151 METHOD back-translation of classical prose
+- note: the converse of the p151 table: take a modern Arabic sentence and render it into English word for word. If the result is already fluent, idiomatic English with no reordering or rewording, the Arabic was built on an English frame (word order, word choice, derivations, construction). Classical sentences fail this test: a translator must restructure them. The author shows this with short modern sentences side by side with plain English renderings.
+- note: the author cites Ali al-Jarim (1938) on these foreign styles as proof that فرنجة is old, rooted in the age of translation, not a recent arrival. Al-Jarim's text follows on p168.
+
+## p168 · CRITERION · al-Jarim's word-swap test
+- of: p167 CRITERION word-for-word English test
+- note: Ali al-Jarim (جارميات ص245) describes such writing as Arabic words in foreign dress, neither Arab nor foreign. His test: replace every Arabic word in a passage with its foreign equivalent. If that mechanical swap yields correct, well-formed French or English with sound meaning, the passage is a foreign text in Arabic words.
+- note: the author says this holds most for books of philosophy, thought and media, whose prose reads as a literal translation from European languages. His targets are not journalists but writers whose craft should hold them to classical eloquence: literary scholars, historians and the like.
+
+## p168 · EXAMPLE · modern academic sample (Khalida Said, أفق المعنى), underlined phrases
+- ✗ إن هذين البيتين يعيدان إنتاج قيم مغايرة بل مخالفة للمعنى المقصود → ✓ ? (reproduce values)
+- ✗ وذلك يتولد من العلاقات البلاغية التي تقدمها الصياغة → ✓ ? (is generated by the rhetorical relations that the formulation presents)
+- ✗ ثم إن التحول من الخمول إلى ما يشبه الكعبة بواسطة العلم → ✓ ? (the transformation from … to … by means of)
+- ✗ يعطي العلم هنا دورًا سحريًا أو عجائبيًا ويجعله بديلًا للنسب → ✓ ? (gives … a role; a substitute for)
+- ✗ كما يجعل القداسة الدينية مثلًا أعلى له → ✓ ? (makes … an ideal)
+- note: cues to watch: يعيد إنتاج (reproduce), قيم (p97 values), يتولد من (is generated by), العلاقات (relations), التحول من … إلى (transformation from … to), بواسطة (by means of), يعطي … دورًا (p31 دور), بديلًا لـ (substitute for), مثلًا أعلى (ideal).
+- open: the passage continues on p169; collect the author's English rendering and comments on these phrases
+
+## p169 · EXAMPLE · modern academic sample (Khalida Said), end
+- of: p168 EXAMPLE modern academic sample (Khalida Said)
+- resolves: p168 open (rest of the passage and verdict)
+- ✗ وهذا ينتج عن استقاء التعبير من حقل الرموز الدينية من جهة، ومن حقل القيم البدوية ومجتمع الأنساب من جهة أخرى → ✓ ? (results from drawing the expression from the field of … on the one hand … on the other)
+- note: cues: ينتج عن (results from), استقاء التعبير من (drawing on), حقل (p37 field), من جهة … ومن جهة أخرى (on the one hand … on the other).
+- note: verdict: every underlined phrase goes into English as is; يعيدان إنتاج قيم مغايرة، يعطي العلم دورًا سحريًا أو عجائبيًا، ينتج عن استقاء التعبير من حقل الرموز الدينية are wholly English.
+
+## p169 · EXAMPLE · modern history sample (Abdallah Laroui, مجمل تاريخ المغرب)
+- ✗ طلبت الكنيسة بإلحاح من إمبراطور الشرق أن يبعث بحملة عسكرية → ✓ ? (urgently requested … to send a military campaign)
+- ✗ وانتصر انتصارًا لم يكن يتوقعه حتى قائده → ✓ ? (a victory not even its commander expected)
+- ✗ في الحقيقة كان زعماء الوندال قد تأثروا شيئًا فشيئًا بالحضارة الرومية → ✓ ? (in fact … gradually influenced by)
+- ✗ وهذا يعني أن بيزنطة كانت قد شرعت في استرداد المغرب حضاريًا ودبلوماسيًا قبل أن تسترجعه عسكريًا → ✓ ? (this means that … culturally and diplomatically … militarily)
+- ✗ إن محاولة آخر الأمراء الوندال إيقاف حركة التأثير الثقافي وإثبات استقلاله عن بيزنطة هو ما دفع هذه الأخيرة إلى استعمال القوة العسكرية → ✓ ? (the attempt … to stop the movement of cultural influence … is what drove the latter to use military force)
+- ✗ كان الغزو البيزنطي في ظاهره استرداد الأرض والسلطة، وفي حقيقته إحياء نظام اجتماعي بائد → ✓ ? (outwardly … in reality the revival of a defunct social order)
+- note: cues: بإلحاح (urgently), في الحقيقة (in fact), شيئًا فشيئًا (gradually), هذا يعني أن (this means that), nisba adverbs in -يًّا stacked (حضاريًا ودبلوماسيًا … عسكريًا, from -ally), إن محاولة X … هو ما دفع (cleft: X is what drove), هذه الأخيرة (the latter), إيقاف حركة التأثير الثقافي (nominal chain), استعمال القوة العسكرية (use of force).
+- note: verdict: the author says the passage reads as if written in English and then translated literally; his examples are استرداد المغرب حضاريًا ودبلوماسيًا قبل أن تسترجعه عسكريًا and the whole إن محاولة … هو ما دفع … إلى استعمال القوة العسكرية sentence.
+
+## p169 · CRITERION · most of these phrases came with translation; a few have an obscure old root
+- note: the author says most of the underlined usages entered through translation; a few may have an obscure old precedent, but translation made them dominant and displaced more eloquent native forms. So finding a rare classical attestation does not clear a usage whose current frequency comes from English.
+
+## p170 · EXAMPLE · توجد / يوجد (there is/are) as a sentence opener
+- of: p162 RULE overused هناك (there is/are)
+- ✗ توجد قصص عديدة تربط الشطرنج بأسماء الخلفاء المبكرين والأدباء → ✓ ? (a professor of Arabic; = There are numerous stories linking chess to …)
+- ✗ وتوجد في هذا الصدد آراء علماء مبكرين، منهم الأصمعي وأبو عبيدة → ✓ ? (quoted)
+- ✓ (ours): ويُروى في ربط الشطرنج بأسماء الخلفاء الأوائل والأدباء قصص كثيرة، ولا يصح من ذلك شيء
+- note: the author shows the whole sentence goes into English word for word, inflection for inflection; the only change is that يوجد became هناك. Same frame as هناك: existential "there is" fronting the sentence. Written by a professor who authored a dictionary of modern errors, so this reaches the most careful writers.
+
+## p170 · RULE · مبكر / المبكرون = early (first, earliest generation)
+- cue: الخلفاء المبكرون، الشعراء المبكرون، اليونانيون المبكرون، التاريخ المبكر للإسلام، علماء مبكرون، المسلمين المبكرين، العلماء المبكرون، السنين المبكرة
+- source: early (caliphs, poets, Muslims, history)
+- ✗ الخلفاء المبكرين → ✓ الخلفاء الأوائل / المتقدمون (ours)
+- ✗ التاريخ المبكر للإسلام → ✓ صدر الإسلام / أول الإسلام (ours)
+- ✗ اعتقاد المسلمين المبكرين → ✓ مذهب السلف من الأمة (author, Ibn Khaldun)
+- ✗ العلماء المبكرون → ✓ المتقدمون (author, Ibn Khaldun)
+- ✗ السنين المبكرة → ✓ صدر الملة (author, Ibn Khaldun)
+- note: early used of people and periods; Arabic says الأوائل، المتقدمون، القدماء، السلف، صدر الإسلام. The footnote shows English translators of Ibn Khaldun rendering السلف، المتقدمون، صدر الملة all as early.
+- criterion: مبكر is sound for time of day or something before its expected time (الصباح الباكر، وصل مبكرًا، زواج مبكر); the calque is the generation/period sense.
+
+## p170 · RULE · مدعوم بدليل / غير مدعوم / الدعم (supported by evidence)
+- cue: مدعوم بدليل، غير مدعوم بدليل موثق، دليل يدعم، يدعم كلامك، الدعم
+- source: supported by (documented) evidence, support
+- ✗ لكن كل ذلك غير مدعوم بدليل موثق → ✓ ولا يصح من ذلك شيء / ولا دليل على شيء منه (ours)
+- ✗ أحضروا دليلًا يدعم كلامكم → ✓ قل هاتوا برهانكم إن كنتم صادقين (author, Quran)
+- ✗ هل لديك دليل يدعم كلامك؟ → ✓ ألك بيّنة؟ (author, hadith)
+- ✗ دليل يدعم الذي قلته → ✓ ما يدل على ما وصفت (author, al-Shafi'i's Risala)
+- note: the author says the English use support this way; the usage is reasonable but Arabic has its own close expressions: دليل على، بيّنة، برهان، يدل على، يشهد له.
+- open: the footnote list continues on p171
+
+## p171 · EXAMPLE · الدعم / يدعم = support (help, back, corroborate)
+- of: p170 RULE مدعوم بدليل / غير مدعوم / الدعم
+- resolves: p170 open (rest of the footnote)
+- ✗ الحديث الأول له دليل يدعمه في حديث ابن عمر → ✓ فإن للأول شاهدًا من حديث ابن عمر (author, Ibn Hajar)
+- ✗ لا يستطيعون أن يقدموا لهم الدعم → ✓ ولا يستطيعون لهم نصرًا (author, Quran)
+- ✗ لن أدعم المجرمين أبدًا → ✓ فلن أكون ظهيرًا للمجرمين (author, Quran)
+- ✗ أو آوي إلى دعم قوي → ✓ أو آوي إلى ركن شديد (author, Quran)
+- ✗ من أعان على خصومة بدعم الظلم → ✓ من أعان على خصومة بظلم (author, hadith)
+- ✗ فأنا داعمه → ✓ فأنا وليّه (author, hadith; reading of the bracketed rendering uncertain [?])
+- ✗ أدعمك بقوة → ✓ لأنصرك نصرًا مؤزرًا (author, Waraqa ibn Nawfal)
+- note: moderns put الدعم/دعم where English has support and let it crowd out the Arabic words for each shade: نصر، ظهير، ركن، أعان، ولي، شاهد. The author treats دعم in the support-of-evidence sense as tolerable but its spread into every kind of backing as foreign.
+
+## p171 · METHOD · read the remaining samples without comment as practice
+- note: the author stops commenting and lays out modern passages next to an English rendering and a re-translation into Arabic, so the reader learns to spot the mismatch unaided. Use the earlier comments as a model. The point: a modern Arabic text that matches its English rendering in order, structures and usages, differing only slightly, is عرنجية.
+
+## p171 · EXAMPLE · Jamal Fawzi Ammar sample (التاريخ والمؤرخون في بلاد الشام), table opens
+- of: p167 CRITERION word-for-word English test
+- ✗ البحث في طبيعة المعرفة التاريخية والمؤرخين الذين شكلت كتاباتهم مادة هذه المعرفة، ومحاولة تصور مسيرة الحركة التأريخية للتاريخ الإسلامي → ✓ ? (= Research into the nature of historical knowledge and the historians whose writings have formed the substance of this knowledge, and the attempt to imagine the path of the historiographical movement …)
+- note: the round trip Arabic → English → Arabic gives back the original word for word. Cues: البحث في طبيعة (research into the nature of), شكّلت مادة (formed the substance), محاولة تصور (the attempt to imagine), مسيرة الحركة (path of the movement), nominal chains.
+- open: the Ammar table continues on p172
