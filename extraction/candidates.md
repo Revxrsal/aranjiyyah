@@ -2238,3 +2238,130 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ همّنا الرئيسي → ✓ أكبر همّنا (author, from the hadith ولا تجعل الدنيا أكبر همّنا)
 - ✗ البول هو السبب الرئيسي (لعذاب القبر) → ✓ أكثرُ عذابِ القبر من البول (author, from the hadith)
 - note: scholars argued over رئيسي vs رئيس as a question of morphology, but the real fault is the style: English uses an adjective (principal, main, meaning the head and foremost of a thing), and Arabic took the adjective-noun pattern with it. Arabs normally use إضافة: رأس الشيء، أعظمه، أكبره، عامّته، غالبه، أمّ كذا. The footnote shows English translations of Qur'an and hadith rendering these إضافات as main/principal. Phase 2: offer a superlative or رأس/أمّ/عامّة/غالب + إضافة.
+
+## p137 · RULE · الحديث الداخلي = inner monologue / self-talk
+- cue: الحديث الداخلي، حوار داخلي
+- source: inner speech / internal dialogue
+- ✗ الحديث الداخلي → ✓ حديث النفس (author) / حدّث نفسه، حدّثته نفسه (ours)
+- note: a native expression (حديث النفس) gets replaced by a word-for-word rendering of the English one. The author lists it as an example of leaving the Arabic expression for a foreign one.
+
+## p137 · RULE · عمل بحثًا حول الأمر (verb + verbal noun instead of the verb)
+- of: p99 دراسة حول / حول = about
+- cue: عمل/أجرى/قام بـ + بحثًا/دراسة + حول
+- source: do research on / make a study of
+- ✗ عمل بحثًا حول الأمر → ✓ بحث الأمر (author)
+- note: English "do a study on" becomes a dummy verb plus a noun plus حول, where Arabic uses the verb directly with its object.
+
+## p137 · EXAMPLE · وفقًا لفلان instead of naming the speaker as subject
+- of: p109 وفقًا لـ = according to
+- ✗ وفقًا لفلان … → ✓ ذكر فلان أنّ … (author)
+- note: the author files this under avoiding the plain attribution of a statement to its speaker; Arabic names the speaker as the subject of a verb of saying.
+
+## p137 · RULE · وأضاف: … / وأكمل قائلًا: … (reporting frames)
+- cue: وأضاف:، وأضاف قائلًا، وأكمل قائلًا، وتابع قائلًا، واستطرد قائلًا
+- source: he added, he went on to say, he continued
+- ✗ وأكمل قائلًا: … → ✓ ? (ours: ثم قال: … / وقال أيضًا: …)
+- note: the author lists these "ways of presenting speech" among the styles taken from European languages (journalistic "he added"). No rewrite given here.
+- open: check later style pages for the author's treatment of وأضاف / قائلًا and a native alternative
+
+## p137 · METHOD · catalogue of the kinds of style calque (overview of the styles section)
+- note: the author groups تفرنج الأساليب as: words put out of their place; foreign inflection of words; keeping only those Arabic usages that match European ones; overusing some words to follow English (يمكن، هناك, treated later); following English verb tenses (cf. p59 سـ/سوف); abandoning a native expression for a translated one (حديث النفس → الحديث الداخلي); foreign word combinations (وجّه انتقادًا); avoiding naming the speaker (وفقًا لفلان); and European framing of reported speech (وأضاف، أكمل قائلًا). Phase 2 can use this list as the outline of the STY file.
+- open: collect the author's later treatment of يمكن and هناك as overused words
+
+## p137 · METHOD · test a style by translating classical Arabic into English
+- note: the author's method for this section is to render pre-translation Arabic into English: genuine classical prose comes out far from English idiom, while عرنجي prose maps onto English almost word for word, as if it were being returned to its source. Phase 2: a useful self-check is "would this sentence back-translate into English word for word?" If yes, look for a native construction.
+
+## p140 · METHOD · what to compare between an Arabic original and its English-shaped version
+- note: the author's checklist for the coming tables (Arabic original → English translation → literal Arabic back-translation): where a verb turns into a noun or a noun into a verb; where word order changes; where a word is added to make the sense explicit or dropped because English has no use for it; where a word is used in a sense Arabs never gave it; where the whole sentence is reshaped to fit English style. Phase 2 can use these five shifts as the review checklist in SKILL.md.
+
+## p140 · EXAMPLE · Quran table opens: يوسف 84 (وتولّى عنهم وقال يا أسفى على يوسف وابيضّت عيناه من الحزن فهو كظيم)
+- of: p140 METHOD what to compare between an Arabic original and its English-shaped version
+- source: He turned away from them and said, "Alas! Poor Yusuf!" He tried to hide his feelings, but his eyes turned white with grief!
+- note: the literal back-translation and the author's comments are on p141.
+- open: collect the back-translation and the marked differences on p141
+
+## p141 · EXAMPLE · يوسف 84 literal back-translation
+- of: p140 EXAMPLE Quran table opens: يوسف 84
+- resolves: p140 open (back-translation)
+- ✗ استدار بعيدًا عنهم، وقال: «يا للأسف، يوسف المسكين!» وحاول أن يخفي مشاعره لكن عينيه تحولت بيضاء مع الحزن! → ✓ وتولّى عنهم وقال يا أسفى على يوسف وابيضّت عيناه من الحزن فهو كظيم (author, the original)
+- note: the marked shifts are below (استدار بعيدًا، يخفي مشاعره); the rest of the comments continue on p142.
+
+## p141 · RULE · استدار بعيدًا / أدار وجهه بعيدًا / التفت بعيدًا
+- cue: بعيدًا after استدار، أدار وجهه/عينيه/رأسه، التفت، ابتعد
+- source: turn away, look away
+- ✗ استدار بعيدًا عن المكان → ✓ تولّى عنه / انصرف عنه / أعرض عنه (ours, from the verse and the hadiths cited)
+- ✗ أدار عينيه بعيدًا عنها → ✓ صرف بصره عنها / أعرض عنها (ours)
+- ✗ يدير وجهه بعيدًا من الاشمئزاز → ✓ يُعرض عنه تقزّزًا / يصدّ عنه (ours)
+- ✗ التفتَ بعيدًا → ✓ التفتَ عنه (author)
+- note: «away» rendered as بعيدًا, an adverb Arabic doesn't need: the verbs تولّى، أعرض، صدّ، انصرف، التفت عن already carry the sense. Writers who sense the oddity of استدار بعيدًا swap in التفت بعيدًا, which softens the foreignness without removing it. The footnote shows English hadith translations rendering يُعرض، يصدّ، انصرف عنه as turn away, the channel by which this entered.
+
+## p141 · RULE · يخفي مشاعره (hide one's feelings)
+- cue: يخفي/أخفى/إخفاء + مشاعره، أخفي مشاعر الـ…
+- source: hide one's feelings
+- ✗ حاول أن يخفي مشاعره → ✓ كظم غيظه / كتم حزنه / فهو كظيم (author, from the verse and the hadith فليكظم ما استطاع)
+- ✗ لم أستطع أن أخفي مشاعر اعتزازي → ✓ لم أملك نفسي من الاعتزاز / لم أكتم اعتزازي (ours)
+- note: a common modern phrase; its meaning is what Arabic expresses with كظم (holding in anger or grief and bearing it) or كتم. Naming the specific feeling (غيظ، حزن) instead of the vague مشاعر is also more Arabic.
+- open: the comments continue on p142 (ومنه …); collect the rest
+
+## p142 · EXAMPLE · يخفي مشاعره + أدار عينيه بعيدًا in one modern sentence
+- of: p141 RULE يخفي مشاعره; p141 RULE استدار بعيدًا
+- resolves: p141 open (يخفي مشاعره comments)
+- ✗ ضيق وغيظ حاول أن يخفيهما بإدارة عينيه بعيدًا عنها، لكنه فشل … فشل الطفل الذي بداخله في أن يخفي مشاعره → ✓ ? (ours: فكظم ما به من ضيق وغيظ وصرف بصره عنها، فلم يملك نفسه)
+- note: كظم also covers simply not showing something (حديث عبد المطلب: له فخرٌ يكظم عليه، i.e. doesn't display it). The author calls the modern use of مشاعر (feelings) a European style in most of its occurrences; footnote: English renders ذهب عنه ما يجد as «feelings of anger» and يحزنه as «hurt his feelings».
+
+## p142 · RULE · مشاعر = feelings (generic)
+- cue: مشاعر، مشاعره، جرح مشاعره، يحترم مشاعر، مشاعر الغضب/الحزن
+- source: feelings, hurt someone's feelings
+- ✗ يجرح مشاعره → ✓ يُحزنه / يسوؤه / يؤذيه (author's hadith: فإن ذلك يحزنه)
+- ✗ ذهبت عنه مشاعر الغضب → ✓ ذهب عنه ما يجد (author, hadith)
+- ✗ يخفي مشاعره → ✓ يكظم غيظه / يكتم حزنه (see p141)
+- note: Arabic tends to name the specific state (حزن، غيظ، غضب، ما يجد) or use a verb, where English uses the umbrella noun feelings. The author judges مشاعر in this sense foreign "in most of its uses", so phase 2 should flag it softly, offering the specific feeling, not ban it.
+
+## p142 · RULE · فشل = fail (could not, did not succeed)
+- cue: فشل، فشلَ في، لكنه فشل، الفشل (as the opposite of النجاح)
+- source: fail, failure
+- ✗ حاول حمله بعيدًا لكنه فشل → ✓ فلم يستطع (author, hadith of Anas: ذهب يُقلّه فلم يستطع)
+- ✗ الفشل (ضدّ النجاح) → ✓ الإكداء / الخيبة / الإخفاق (author)
+- ✗ فشل في الامتحان → ✓ أخفق في الامتحان / لم يُفلح (ours)
+- note: in classical Arabic فشل means losing nerve, cowardice and loss of strength (حتى إذا فشلتم وتنازعتم؛ ولا تنازعوا فتفشلوا وتذهب ريحكم); it is not the opposite of ظفر. Using it for "could not" or "did not succeed" follows English fail. The author credits this observation to الشيخ فيصل المنصور.
+
+## p142 · EXAMPLE · Quran table: الكهف 46 (المال والبنون زينة الحياة الدنيا …)
+- of: p140 METHOD what to compare between an Arabic original and its English-shaped version
+- source: Wealth and children are the adornment of the life of this world: but the things that endure, good deeds, are of far greater merit in your Lord's sight, and a far better source of hope.
+- ✗ الثروة والأولاد هم زينة الحياة في هذا العالم: لكن الأشياء التي تدوم، الأعمال الصالحة، لها ثواب أعظم بكثير في نظر ربك، وهي مصدر أمل أفضل بكثير → ✓ المال والبنون زينة الحياة الدنيا والباقيات الصالحات خير عند ربك ثوابًا وخير أملًا (author, the original)
+- note: shifts visible in the back-translation: الثروة for المال; هم as a copula; الحياة في هذا العالم for الحياة الدنيا; الأشياء التي تدوم for الباقيات; أعظم بكثير / أفضل بكثير; في نظر ربك for عند ربك; مصدر أمل for أملًا (تمييز). Author comments numbered (1)-(3) continue on p143.
+- open: collect comments (2) and (3) on p143
+
+## p142 · RULE · ثروة = wealth, crowding out مال
+- cue: ثروة، الثروة، ثروات
+- source: wealth
+- ✗ الثروة والأولاد → ✓ المال والبنون (author)
+- note: the author files this under التغليب والإماتة (p53): Arabs use المال for everything a person owns, and English wealth has pushed ثروة into that slot. The argument continues on p143.
+- open: collect the rest of the ثروة note on p143
+
+## p143 · EXAMPLE · ثروة = wealth (rest of the note)
+- of: p142 RULE ثروة = wealth, crowding out مال
+- resolves: p142 open (ثروة note)
+- ✗ عنده ثروة! / ضيّع ثروته كلها → ✓ عنده مال / ضيّع ماله كله (ours; author notes colloquial still says فلان عنده فلوس، ضيّعت فلوسي كلها)
+- ✗ أعطاه الله ثروة / زِد ثروته → ✓ آتاه الله مالًا / أكثِر ماله (author, hadiths)
+- note: English hadith translations render مال as wealth (وزّعوا الثروة for اقسموا المال، زِد ثروته for أكثر ماله، أعطاه الله ثروة for آتاه الله مالًا), and modern Arabic follows. Everyday speech kept the native habit (مال، فلوس).
+
+## p143 · RULE · adjective + شخص/أحد/شيء where Arabic uses the adjective alone as a noun
+- cue: شخص/شخصًا + adjective (شخص غني، شخص فقير)، أحد + adjective، الأشياء + relative clause or adjective (الأشياء التي تدوم، الأشياء المرغوب بها)
+- source: a rich person, the things that endure, the undesirable things
+- ✗ ما رأيت شخصًا غنيًا يلبس كذا → ✓ ما رأيت غنيًا يلبس كذا (author)
+- ✗ الأشياء التي تدوم → ✓ الباقيات (author, الكهف 46)
+- ✗ يسّر على شخص فقير → ✓ يسّر على معسر (author, hadith)
+- ✗ حُجبت الجنة بالأشياء غير المرغوب بها → ✓ حُجبت الجنة بالمكاره (author, hadith)
+- ✗ أُعطيت خمسة أشياء → ✓ أُعطيت خمسًا (author, hadith)
+- note: Arabic lets an adjective stand as a noun (غنيّ، معسر، الباقيات، المكاره، خمسًا); English needs a head noun (person, one, thing), so translators add شخص/أحد/شيء. The author says this English habit now dominates modern prose. Links to p49 (الشخص الأحرص).
+
+## p143 · RULE · مصدر = source (مصدر أمل، مصدر راحة، مصدر إزعاج)
+- cue: مصدر + noun (مصدر أمل، مصدر للضوء، مصدر راحة، مصدر إزعاج، مصدر الصوت)
+- source: source of hope / light / comfort / annoyance
+- ✗ هي مصدر أمل أفضل بكثير → ✓ خيرٌ أملًا (author, الكهف 46)
+- ✗ جعل الشمس مصدرًا للضوء → ✓ جعل الشمس ضياءً (author, يونس 5)
+- ✗ صلاتك مصدر راحة لهم → ✓ صلاتك سكنٌ لهم (author, التوبة 103)
+- ✗ كانت مصدر إزعاج للناس → ✓ كانت تؤذي الناس (author, hadith)
+- ✗ نحو مصدر الصوت → ✓ إلى الصوت (author, hadith)
+- note: English needs "source of" to turn a noun into a predicate; Arabic predicates the noun directly, uses an تمييز, or uses a verb. Modern writers overuse مصدر, and it also crowds out the older words for a thing's origin (أصل الشيء، منشؤه، مورده، عينه، ينبوعه) under التغليب.
