@@ -1915,3 +1915,158 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - of: p116 CRITERION habituation
 - note: many writers guard their إعراب carefully but let word senses and constructions drift. The author counts misused word senses and calqued styles as لحن too, and weightier than case errors, since endings follow the meaning. Phase 2: in SKILL.md, state that the skill flags sense and style calques in fully grammatical text; grammatical correctness is not a defence.
 - note: the author says word-sense errors belong with styles and will be treated at length in the styles section (pdf 130+).
+
+## p118 · CRITERION · الإماتة والتغليب in vocabulary
+- of: p56 CRITERION الإماتة / الاستحياء / التغليب defined
+- note: opens a new subsection of متن اللغة. Many words die or get outranked because another usage matches European speech, whether that usage is right or wrong. The author says every word covered so far belongs here (إيجابيات/سلبيات killed محاسن/مساوئ; فقد الاهتمام killed الزهد). His glosses of English renderings of classical texts show people dropped the Arabic usages and kept only the words English used.
+- note: a subtler case: a sound but rare word becomes dominant over a common, eloquent one because it matches English. Phase 2: soft flag (style); the dominant word is not wrong, but the rewrite should offer the neglected native one.
+
+## p118 · RULE · يُدعى (is called) for a name
+- cue: يُدعى، تُدعى، المدعو (introducing a person's name)
+- source: called, is called
+- ✗ زارنا رجل يُدعى أبا محمد → ✓ زارنا رجل يقال له أبو محمد (author)
+- ✗ فتى يُدعى إبراهيم → ✓ فتى يقال له إبراهيم (author, Q 21:60)
+- note: classical and colloquial Arabic both say يقال له فلان; moderns use يُدعى because it matches English called. The author checked about fifty English Qur'an translations and all render يقال له as called. A case of التغليب: يدعى is not wrong but has crowded out the common native form, which now feels stilted in writing. Soft flag.
+
+## p119 · RULE · جاء متأخرًا / تأخّر for "was late"; أبطأ neglected
+- cue: جاء متأخرًا، جئت متأخرًا، وصل متأخرًا، تأخّر عن/علينا
+- source: came late, was late
+- ✗ جئتَ متأخرًا / تأخرتَ علينا → ✓ أبطأتَ علينا (author, hadith of أوس بن حذيفة)
+- note: أبطأ (to be slow in coming) is eloquent and still alive in colloquial (أبطأ علينا فلان) but almost absent from عرنجية since English has no single word for it; even تأخّر has thinned out in favor of جاء متأخرًا, which mirrors came late. See p63 كن + adjective (لا تكن متأخرًا). Soft flag for تأخر; stronger for جاء متأخرًا.
+
+## p119 · RULE · استغرق وقتًا طويلًا / أخذ وقتًا طويلًا
+- cue: استغرق وقتًا، أخذ وقتًا، استغرق مني وقتًا طويلًا
+- source: took a long time
+- ✗ دخل عليّ النبي وأنا أصلّي … فاستغرقتُ وقتًا طويلًا → ✓ فأبطأتُ عليه (author, hadith of عائشة)
+- ✗ أخذ الأمر وقتًا طويلًا → ✓ أبطأ الأمر / طال (ours)
+- note: some English translators render أبطأ as took a long time, and the phrase is common in عرنجية.
+
+## p119 · RULE · تجاهل for ignore (disregard deliberately)
+- cue: تجاهل، يتجاهل، تجاهلَه، تجاهُل التحذير
+- source: ignore
+- ✗ هذه الاعتبارات لا تعني تجاهل التحذير → ✓ … لا تعني ترك التحذير / الإعراض عنه (ours, from the author's الترك والإعراض)
+- ✗ (Q 33:48) "وتجاهل أذاهم" → ✓ ودع أذاهم (author)
+- ✗ (Q 46:3) "يتجاهلون التحذير" → ✓ عمّا أُنذروا معرضون (author)
+- ✗ (hadith) "وأتجاهل الآخر" → ✓ وأدع الرجل (author)
+- ✗ (hadith of عائشة) "لكني تجاهلتها" → ✓ فأعرضتُ عنها (author)
+- note: in Arabic تجاهل is to feign ignorance, rare in classical use; it now dominates because it matches ignore, displacing the common ترك، أعرض عن، ودع، أغضى عن، صدّ عن. A case of the rare word being raised over the common one.
+
+## p119 · CRITERION · sound word made dominant over its synonyms (القائد)
+- of: p118 CRITERION الإماتة والتغليب in vocabulary
+- note: a sound, eloquent word can still be a symptom when it crowds out all its synonyms because it matches the English. The author's example is القائد (leader); his four Qur'anic verses follow on p120.
+- open: the القائد discussion continues on p120; collect the verses and the native words (إمام، رئيس، زعيم، سيد؟)
+
+## p120 · RULE · قائد / قادة for any leader or head
+- cue: قائد، قادة، قائدهم، قادتنا، قائد الحزب/الفكر
+- source: leader, leaders
+- resolves: p119 القائد
+- ✗ سأجعلك قائدًا للناس → ✓ إني جاعلك للناس إمامًا (author, Q 2:124)
+- ✗ (Moses) هو قائدكم الذي علمكم السحر → ✓ إنه لكبيركم الذي علمكم السحر (author, Q 20:71)
+- ✗ ذهب قادتهم قائلين … → ✓ وانطلق الملأ منهم (author, Q 38:6)
+- ✗ أطعنا قادتنا ونخبتنا → ✓ أطعنا سادتنا وكبراءنا (author, Q 33:67)
+- ✗ اتخذ الناس الجهلاء كقادة لهم → ✓ اتخذ الناس رؤوسًا جهالًا (author, hadith)
+- note: Arabic spreads leader across إمام، كبير، ملأ، سيد، كبراء، رأس، رئيس، زعيم by context; the English back-translations collapse them all to leader, and عرنجية follows by using قائد for all. Soft flag: قائد is sound for a military commander or one who leads in front; offer the context-fitting word elsewhere.
+- note: the back-translations also show كـ = as (اتخذوا … كقادة لهم); see p107 open on كـ = as.
+- open: the table may continue on p121 with more hadiths; collect them
+
+## p121 · EXAMPLE · قائد / قادة
+- of: p120 قائد / قادة for any leader or head
+- ✗ وقائد المفترين كان عبد الله بن أبي → ✓ والذي تولّى الإفك عبد الله بن أبي (author, hadith)
+- ✗ وعيّن عبد الله بن عتيك كقائد لهم → ✓ فأمّر عليهم عبد الله بن عتيك (author, hadith)
+- ✗ عبد الرحمن بن خالد كان قائد الجماعة → ✓ وعلى الجماعة عبد الرحمن بن خالد (author, hadith)
+- note: Arabic often expresses leadership with a verb or preposition (تولّى، أمّر على، على الجماعة فلان) where English needs the noun leader. Rewrites can drop the noun altogether.
+- note: the author adds that قائد was rare before the translation era and now overshadows its synonyms only because it matches European speech, though those synonyms may survive in colloquial. The footnote (an old Kuwaiti bedouin saying وهو كبيرنا) runs onto p122.
+
+## p121 · RULE · كـ = as for a role (عيّنه كقائد)
+- cue: كـ + noun of role after عيّن/اتخذ/اختار/عمل (كقائد، كمدير، كممثل، كرد على)
+- source: as (appointed X as leader; worked as)
+- ✗ عيّن فلانًا كقائد لهم → ✓ أمّره عليهم / جعله أميرًا عليهم (ours, from the author's فأمّر عليهم)
+- ✗ اتخذ الناس الجهلاء كقادة → ✓ اتخذ الناس رؤوسًا جهالًا (author, hadith)
+- note: the comparison كاف is not a role marker; English as is. Arabic uses the second object or حال directly.
+- resolves: p107 كـ = as (partly; the back-translations show it, but the author has not discussed it on its own yet)
+- open: check the styles section (pdf 130+) for an explicit treatment of كـ = as
+
+## p121 · RULE · خرج في حملة بنيّة … (went on an expedition with the intention of)
+- cue: بنيّة + مصدر، في حملة، بهدف + مصدر
+- source: with the intention of (attacking); went out on an expedition
+- ✗ خرجنا في حملة من المدينة بنية مهاجمة القسطنطينية → ✓ غزونا من المدينة نريد القسطنطينية (author, hadith)
+- note: Arabic states the purpose with a حال verb (نريد، يريد) and the act with a single verb (غزا); the back-translation needs a noun (حملة) and a prepositional phrase of intention. Only shown in the table, not discussed; phase 2 may fold into a broader "noun phrase of purpose instead of verb" pattern.
+
+## p122 · CRITERION · accepting as فصيح only what European usage endorses
+- of: p118 CRITERION الإماتة والتغليب in vocabulary
+- note: closes the قائد discussion: moderns seem to admit into فصحى only the words European languages sanction; the author calls this a hidden but severe عجمة, also visible in the samples of the styles section. The footnote notes a Kuwaiti bedouin elder (1383 AH) saying وهو كبيرنا of a leader: كبير and شيخ were the native words for what moderns call قائد. Add كبير، شيخ to the p120 native list.
+
+## p122 · CRITERION · meanings with no European word die out
+- note: the author opens a further case: some meanings have no word at all in European languages, so they drop out of عرنجية entirely. He illustrates with an old essay of his (الذكر الوجيز لأكل الإنجليز), a digression on English food; the vocabulary point follows on p123.
+- open: collect the words the author says he could not render for English speakers (p123)
+
+## p123 · CRITERION · meanings with no English word: التعرّق، التمشّش، العرمشة
+- resolves: p122 meanings with no European word
+- note: English has no single word for التعرّق (gnawing the meat left on a bone) or التمشّش (chewing the soft ends of bones to suck them); العرمشة (colloquial) covers both. English needs a descriptive phrase ("eat the rest of the meat with one's teeth"). Phase 2: when an Arabic text uses a long descriptive phrase where Arabic has a single verb, offer the verb (illustrative; these food words are unlikely in user texts).
+
+## p123 · RULE · near-synonym in place of the exact Arabic word (تُطفئ غضب الرب)
+- cue: (pattern) a generic verb such as يمنع، يتجنب، يحمي من where Arabic has an exact word
+- source: English back-translation of إن الصدقة لتطفئ غضب الرب وتدفع ميتة السوء: protect against, avoid
+- ✗ "الصدقة تحمي من ميتة السوء / تجنّب ميتة السوء" → ✓ تدفع ميتة السوء (author, hadith)
+- note: where English lacks the exact word it takes a near synonym, and عرنجية follows, so precise Arabic verbs (دفع، أطفأ) give way to generic ones.
+
+## p123 · CRITERION · post-translation writers lose words absent from European books
+- note: since modern writers form their ear from translated books, which only use words with a European counterpart, words and constructions with no European match nearly vanish. The author stresses this is not deliberate; writers reproduce what they read. He limits his list to words in common unaffected use up to just before the translation era (not rare or archaic words), and lists hadiths with their English renderings from p124.
+- open: collect the hadith list (p124+): each lost word with the English rendering and a likely عرنجي equivalent
+
+## p124 · RULE · توقّف عن for stop (doing); كفّ / أمسك / حسبك neglected
+- cue: توقّف عن الكلام/الحديث، توقّفْ!، توقف عن + مصدر
+- source: stop talking, stop!
+- ✗ (to someone reciting) توقّف! → ✓ حسبك / أمسِك (author, hadith of ابن مسعود)
+- ✗ توقّف عن الكلام → ✓ كُفّ عن الحديث (author)
+- note: the author recalls a translation teacher who called كُفّ عن الحديث affected (تنطّع) and توقّف عن الكلام the natural rendering of stop talking: the Arabic word that matches the Prophet's Arabic is now felt as stilted and the one that matches English as the norm. Soft-to-medium flag.
+
+## p124 · EXAMPLE · words with no English counterpart (hadith list)
+- of: p123 CRITERION post-translation writers lose words absent from European books
+- ✗ "يتم أخذ الأمانة" → ✓ فتُقبَض الأمانة (author); also an instance of p45 تمّ + مصدر
+- ✗ "لا أفيدكم بشيء أمام الله" → ✓ لا أُغني عنكم من الله شيئًا (author)
+- ✗ "رجل يمتلك ماءً زائدًا أكثر مما يحتاج" → ✓ رجل كان له فضلُ ماء (author)
+- ✗ "أعلموني عندما تكونون منتهين" → ✓ فإذا فرغتنّ فآذنّني (author); also an instance of p62 كان + adjective
+- ✗ "نظر إليه بينما كان ذاهبًا بعيدًا" → ✓ نظر إليه وهو مُقَفٍّ (author)
+- ✗ "يخرجون من الدين" → ✓ يمرقون من الدين (author)
+- ✗ "يأخذ الطعام (معه)" → ✓ يتزوّد (author)
+- note: native single words lost or rare in عرنجية: قُبض، أغنى عن، فضل (surplus), آذن (inform), فرغ (finish), قفّى (turn away), مرق، تزوّد. Phase 2: build a lookup of these as rewrite suggestions for the long English-shaped paraphrases (ماء زائد عن الحاجة → فضل ماء; أعلمني عندما تنتهي → إذا فرغت فآذنّي).
+- note: the same back-translations show بينما كان + اسم فاعل for a حال clause (وهو مقفٍّ); see the حال/واو الحال patterns if recorded.
+- open: the list continues on p125 (حديث عائشة: فتيمّم … وهو مسجّى); collect the remaining pairs
+
+## p125 · EXAMPLE · words with no English counterpart (hadith list, cont.)
+- of: p123 CRITERION post-translation writers lose words absent from European books
+- ✗ "ذهب إليه مباشرة … انحنى عليه" → ✓ فتيمّم النبيَّ … ثم أكبّ عليه (author)
+- ✗ "متغطيات بملاءاتهن … بسبب الظلام" → ✓ متلفّعات بمروطهن … من الغَلَس (author)
+- ✗ "لم يتم جعله إلزاميًا" → ✓ ولم يُعزَم علينا (author); also p45 تمّ + مصدر
+- ✗ "يخمّنون وقتها" → ✓ فيتحيّنون الصلاة (author)
+- ✗ "مكان مرتفع" → ✓ شَرَف (author)
+- ✗ "لا أنقص منها شيئًا" → ✓ ما أخرِمُ عنها (author)
+- ✗ "في طريق عودته" → ✓ قافلًا (author)
+- ✗ "انغمستُ في قلقي" → ✓ حضرني همّي (author)
+- ✗ "بدأتُ أفكر في أعذار كاذبة" → ✓ طفقتُ أتذكّر الكذب (author)
+- ✗ "كيف يمكن أن أتجنب غضبه" → ✓ بماذا أخرج من سخطه (author)
+- ✗ "قررتُ بشكل قاطع أن أقول الحقيقة" → ✓ فأجمعتُ صدقه (author); also a بشكل + adjective manner phrase (see p66, p69)
+- ✗ "ذهبتُ بعيدًا منه" → ✓ فانتبذتُ منه (author)
+- note: native words lost or rare: تيمّم (headed for), أكبّ على، تلفّع، غَلَس، عُزم على، تحيّن، شَرَف، خرم، قافل، طفق، أجمع (resolved firmly), انتبذ. English renders each with a phrase; عرنجية inherits the phrase. Phase 2 lookup: ذهب مباشرة إلى → تيمّم/قصد; في طريق عودته → قافلًا/راجعًا; قرر بشكل قاطع → أجمع/عزم; ذهب بعيدًا عن → انتبذ/تنحّى.
+- note: the author points to the styles-section samples (pdf 130+) for more such words.
+
+## p125 · METHOD · a long phrase where Arabic has one word is a calque signal
+- of: p123 CRITERION meanings with no English word
+- note: English translators route around words they lack with a phrase or near synonym. Phase 2: when an Arabic sentence spells out a meaning in several words (ذهب بعيدًا عنه، في طريق عودته، لا أنقص منها شيئًا، مكان مرتفع), check whether a single native word exists and offer it.
+
+## p126 · CRITERION · closes the list of words with no English counterpart
+- of: p123 CRITERION post-translation writers lose words absent from European books
+- note: the native single words in the list are rare or absent in modern writing because English has no word for them. Ends the vocabulary section before the styles chapter.
+
+## p126 · CRITERION · don't judge a word foreign by guesswork (opens a مسألة)
+- note: before moving to styles, the author warns that many scholars nearly declare a word or construction non-Arabic but hedge (لعلها من لغات الإفرنج) because nobody has read all of Arabic, and later someone finds a classical witness. He will show with one word how doubt arises and how to investigate it, then add three notes. Phase 2: verdicts about a word's foreign origin need evidence (matching European senses and collocations, absence before the translation era), not a hunch.
+
+## p126 · RULE · خطّة / خطّط for plan, plot
+- cue: خطة، خطط، يخطط لـ، مخطط، خطة عمل، خطة دراسية، خطط مستقبلية، تطوير الخطة، يقدم خطة، يدرس الخطة، وضع خطة، كما هو مخطط
+- source: plan, plot (to plan against someone; a plan)
+- ✗ مقاربة ما يخططون له ضد المسلمين → ✓ ما يدبّرون للمسلمين / ما يكيدون (ours, from the author's gloss يدبرون)
+- ✗ سارت الأمور كما هو مخطط → ✓ ? 
+- ✗ خطط للأمر بعناية → ✓ دبّر الأمر / أحكم تدبيره (ours)
+- note: the author is nearly certain this sense came from European languages. In Arabic خِطّة is a plot of land marked out with lines (خطط المقريزي; translators render it plan). English then stretched plan/plot to scheming, and Arabic followed, even copying the collocation خطة + ضد (plot against). Native: دبّر، تدبير، كاد، مكر، عزم، نوى.
+- open: the investigation continues on p127; collect the evidence, any author rewrite for خطة عمل / خطط مستقبلية, and the three notes

@@ -117,3 +117,12 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 113 (p 115) · EXAMPLE×1 CRITERION×1 (mock sentence justified; taste decides; فقدت الاهتمام → زهدت). Extra page
 - pdf 114 (p 116) · RULE×1 CRITERION×1 (نمط/أسلوب حياة = lifestyle; habituation dulls the ear). Extra page
 - pdf 115 (p 117) · CRITERION×1 (closes the vocabulary section: grammar alone is no defence). Extra page
+- pdf 116 (p 118) · CRITERION×1 RULE×1 (opens الإماتة والتغليب in vocabulary; يُدعى vs يقال له)
+- pdf 117 (p 119) · RULE×3 CRITERION×1 (أبطأ vs جاء متأخرًا; استغرق وقتًا; تجاهل = ignore; القائد opens)
+- pdf 118 (p 120) · RULE×1 (قائد/leader: Qur'an and hadith back-translations table)
+- pdf 119 (p 121) · EXAMPLE×1 RULE×2 (قائد hadiths; كـ = as; بنية + مصدر)
+- pdf 120 (p 122) · CRITERION×2 (قائد conclusion; meanings without a European word; food-essay digression begins)
+- pdf 121 (p 123) · CRITERION×2 RULE×1 (no English word: تعرّق/تمشّش; near-synonym for exact verb; list of lost words opens). Extra page
+- pdf 122 (p 124) · RULE×1 EXAMPLE×1 (توقّف عن = stop; hadith list of lost single words). Extra page
+- pdf 123 (p 125) · EXAMPLE×1 METHOD×1 (hadith list cont.: تيمّم، تلفّع، تحيّن، قافل، أجمع، انتبذ…). Extra page
+- pdf 124 (p 126) · CRITERION×2 RULE×1 (closes lost-words list; new مسألة on proving foreignness; خطة/خطط = plan). Extra page
