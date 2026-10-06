@@ -3263,3 +3263,268 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - source: as the people did for him (do as a pro-verb)
 - ✗ يمجدونك أو يسجدون لك كما فعل الناس في مملكة أبي له → ✓ يعظّمونك ويسجدون لك كما كان أهل مملكة أبي يعظّمونه ويسجدون له (author, the original)
 - note: English replaces a repeated verb phrase with "did"; Arabic repeats the verbs (or uses كذلك). Shown in the back-translation only; phase 2 to judge (soft flag).
+
+## p187 · EXAMPLE · Ibn Abd al-Hakam, فتوح مصر والمغرب (continued; the door story)
+- of: p185 METHOD compare a modern retelling with its classical sources
+- ✗ لم يعرف ماذا يقول، لذلك أمر بقطع باب في جزء من قلعته وجعله منخفضًا → ✓ فلم يدر ما يقول لها، فأمر بباب فنُقب له في ناحية قصره، وجعله قصيرًا (author, the original)
+- ✗ كان يدعو الناس للدخول وعندما يدخلون من خلال الباب تميل رؤوسهم بسبب انخفاض الباب، وهي تكون في موقع حيث يمكنها مشاهدة الناس → ✓ وكان يأذن للناس فيدخل الداخل إليه من الباب حين يدخل منكّسًا رأسه لقصر الباب، وهي في موضع تنظر إلى الناس منه (author, the original)
+- ✗ وعندما رأت ذلك، أخبرت عبد العزيز: «الآن جُعل حكمك أقوى» → ✓ فلما رأت ذلك قالت لعبد العزيز: الآن قوي ملكك (author, the original)
+- ✗ وخرج [للناس] أنه فعليًا صنع الباب لهذا الغرض، وزعم البعض أنها حوّلته إلى المسيحية، فتمرد ضده … واتحدوا مع بعضهم لقتل عبد العزيز بسبب ما سمعوا عنه → ✓ وبلغ الناس أنه إنما نقب الباب لهذا، وزعم بعض الناس أنها نصّرته، فثار به … واجتمعوا على قتل عبد العزيز للذي بلغهم من أمره (author, the original)
+- note: shifts visible in the back-translation: لم يعرف ماذا يقول for لم يدر ما يقول; لذلك for الفاء (p97); في جزء من for في ناحية; يدعو الناس للدخول (invite to enter) for يأذن للناس; من خلال الباب (through the door, p54) for من الباب; بسبب انخفاض for لقصر (لام التعليل); تكون as a copula (p146); في موقع حيث يمكنها مشاهدة (in a location where she could watch, p161 يمكن) for في موضع تنظر … منه; عندما for فلما; أخبرت عبد العزيز: «…» (told) for قالت لعبد العزيز; جُعل حكمك أقوى (has been made stronger: passive + comparative) for قوي ملكك; خرج للناس أن (it got out) for بلغ الناس أن; فعليًا (actually, p134) for إنما; البعض for بعض الناس; حوّلته إلى المسيحية (converted him) for نصّرته; تمرد ضده (p54 ضد) for ثار به; اتحدوا مع بعضهم (united together, p65) for اجتمعوا على; بسبب ما سمعوا عنه for للذي بلغهم من أمره.
+
+## p187 · RULE · في مكان/موقع حيث … (in a place where)
+- cue: في مكان/موقع/موضع + حيث + جملة
+- source: in a location where she could …
+- ✗ وهي تكون في موقع حيث يمكنها مشاهدة الناس → ✓ وهي في موضع تنظر إلى الناس منه (author, the original)
+- note: English links a place noun to its clause with where; Arabic makes the clause a صفة of the indefinite noun with a returning pronoun (موضع تنظر منه) or uses حيث without the noun (حيث تنظر). Shown in the back-translation only; phase 2 to judge.
+
+## p187 · RULE · بسبب for لام التعليل / من
+- resolves: p96 بسبب أنه (open: whether the author treats بسبب elsewhere; this is another back-translation instance, still no direct comment)
+- cue: بسبب + مصدر/اسم where a short causal preposition fits (بسبب انخفاض الباب، بسبب ما سمعوا، بسبب الظلام)
+- source: due to / because of
+- ✗ تميل رؤوسهم بسبب انخفاض الباب → ✓ منكّسًا رأسه لقصر الباب (author, the original)
+- ✗ واتحدوا … لقتل عبد العزيز بسبب ما سمعوا عنه → ✓ واجتمعوا على قتل عبد العزيز للذي بلغهم من أمره (author, the original)
+- note: classical Arabic gives the cause with لـ or من (لقصر الباب، من الغلس); the back-translations reach for بسبب every time "due to / because of" appears. بسبب is sound Arabic, so this is a frequency/soft flag, not an error.
+
+## p187 · RULE · ماذا in an indirect question (لم يعرف ماذا يقول)
+- cue: لا يعرف/لم يعرف/لا يدري + ماذا + فعل
+- source: didn't know what to say
+- ✗ لم يعرف ماذا يقول → ✓ فلم يدر ما يقول لها (author, the original)
+- note: classical prose uses ما after دري/علم (لا أدري ما أقول); ماذا in an embedded question follows English "what". Soft flag; phase 2 to judge, since ماذا here is not wrong.
+
+## p187 · RULE · جُعل + أفعل التفضيل for a change-of-state verb (جُعل حكمك أقوى)
+- of: p62 كان/أصبح + adjective; p64 جعله + مضارع
+- cue: جُعل/جعل + اسم + أفعل (أقوى، أكبر) where a verb of the root exists
+- source: your rule has been made stronger
+- ✗ الآن جُعل حكمك أقوى → ✓ الآن قوي ملكك (author, the original)
+- note: English builds the change with be made + comparative; Arabic uses the verb of the root (قوي، اشتدّ، عظُم).
+
+## p187 · RULE · حوّله إلى + دين for the denominal verb (converted him)
+- cue: حوّله/حوّلته إلى المسيحية/الإسلام/اليهودية
+- source: converted him to Christianity
+- ✗ زعم البعض أنها حوّلته إلى المسيحية → ✓ وزعم بعض الناس أنها نصّرته (author, the original)
+- note: Arabic has single verbs for this (نصّره، هوّده، أسلم، تنصّر); حوّله إلى follows "convert to". Phase 2: merge with other periphrasis-for-derived-verb patterns.
+
+## p187 · EXAMPLE · اتحدوا مع بعضهم (united together)
+- of: p65 مع بعضهم البعض
+- ✗ واتحدوا مع بعضهم لقتل عبد العزيز → ✓ واجتمعوا على قتل عبد العزيز (author, the original)
+
+## p187 · EXAMPLE · ضد after a verb (تمرد ضده)
+- of: p54 ضد as a preposition
+- ✗ فتمرد ضده حبيب … → ✓ فثار به حبيب … (author, the original)
+
+## p187 · EXAMPLE · فعليًا for إنما (actually)
+- of: p134 حرفيًّا … حقيقةً/فعليًّا
+- ✗ وخرج للناس أنه فعليًا صنع الباب لهذا الغرض → ✓ وبلغ الناس أنه إنما نقب الباب لهذا (author, the original)
+- note: إنما does the restricting work English hands to actually / only.
+
+## p187 · EXAMPLE · من خلال for spatial من (through the door)
+- of: p54 من خلال / عبر
+- ✗ عندما يدخلون من خلال الباب → ✓ فيدخل الداخل إليه من الباب (author, the original)
+
+## p188 · EXAMPLE · Ibn al-Athir, الكامل ج4 ص81 (classical source of the Tuqqush passage)
+- of: p185 METHOD compare a modern retelling with its classical sources
+- ✗ السبب الذي تم قتله [لأجله] كان أن والده عيّنه ليحكم الأندلس، كما ذكرنا، عند عودته إلى الشام → ✓ وكان سبب قتله أن أباه استعمله على الأندلس، كما ذكرنا، عند عوده إلى الشام (author, the original)
+- ✗ فتولى القيادة وجعلها منظمة وعلى المسار الصحيح، فحمى حدودها الضعيفة وغزا مدنًا خلال وقت حكمه ما زالت باقية بعد وقت والده. كان طيبًا وفاضلًا → ✓ فضبطها وسدّد أمورها، وحمى ثغورها، وافتتح في إمارته مدائن بقيت بعد أبيه، وكان خيّرًا فاضلًا (author, the original)
+- ✗ أصبح مغرمًا بها وكان لها تأثير قوي عليه وحاولت إقناعه بأن يجعل زملاءه ومواطنيه يركعون عندما يدخلون، كما اعتيد أن يُفعل لزوجها رودريقو → ✓ فحظيت عنده وغلبت عليه، فحملته على أن يأخذ أصحابه ورعيته بالسجود له إذا دخلوا عليه كما كان يُفعل لزوجها رذريق (author, the original)
+- ✗ فقال لها: «هذا لا يتم فعله في ديننا» → ✓ فقال لها: إن ذلك ليس في ديننا (author, the original)
+- note: shifts visible in the back-translation: السبب الذي … كان أن (the reason … was that, a cleft with تمّ) for وكان سبب قتله أن; عيّنه ليحكم (appointed him to govern, p121) for استعمله على; تولى القيادة (took charge) for ضبطها; جعلها منظمة وعلى المسار الصحيح (put it in order and on the right track, p64 جعل + adjective) for سدّد أمورها; حدودها الضعيفة (vulnerable frontiers) for ثغورها; غزا for افتتح; خلال وقت حكمه (during his time of rule) for في إمارته; بعد وقت والده for بعد أبيه; طيبًا for خيّرًا; أصبح مغرمًا بها (became fond, p62) for حظيت عنده; كان لها تأثير قوي عليه (had a strong influence over) for غلبت عليه; حاولت إقناعه بأن (tried to persuade) for حملته على أن; يجعل … يركعون (make X do) for يأخذهم بالسجود; زملاءه ومواطنيه (associates and citizens) for أصحابه ورعيته; عندما for إذا (p150); كما اعتيد أن يُفعل (as used to be done, p166) for كما كان يُفعل; لا يتم فعله (p45 تمّ) for ليس في.
+
+## p188 · RULE · السبب الذي … كان أن (the reason X was that)
+- cue: السبب الذي/السبب وراء + جملة + كان/هو أن، السبب في … هو أن
+- source: The reason he was killed was that …
+- ✗ السبب الذي تم قتله لأجله كان أن والده عيّنه … → ✓ وكان سبب قتله أن أباه استعمله … (author, the original)
+- note: English opens with "the reason (that) X was that"; Arabic makes سبب a مضاف to a verbal noun (سبب قتله) and needs no relative clause. Shown in the back-translation only.
+
+## p188 · RULE · جعله يفعل (make X do) for حمله على / أخذه بـ
+- of: p64 جعله + مضارع for the causative stem
+- cue: جعل/يجعل + مفعول + مضارع (يجعل زملاءه يركعون، جعلني أشعر، جعلني أفكر)
+- source: make someone do something
+- ✗ حاولت إقناعه بأن يجعل زملاءه ومواطنيه يركعون → ✓ فحملته على أن يأخذ أصحابه ورعيته بالسجود له (author, the original)
+- note: English "make sb do" is a causative frame; Arabic uses حمله على، أخذه بـ، دعاه إلى، or a causative stem (أركعهم). Phase 2: merge with p64.
+
+## p188 · RULE · كان له تأثير قوي على (had a strong influence over)
+- of: p184 وقع تحت تأثير
+- cue: له/لها تأثير (قوي/كبير) على، أثّر تأثيرًا قويًا في
+- source: she had a strong influence over him
+- ✗ وكان لها تأثير قوي عليه → ✓ وغلبت عليه (author, the original)
+- note: English names the influence as a noun owned by the subject; Arabic uses a verb (غلب عليه، استحوذت عليه، ملكت أمره).
+
+## p188 · RULE · على المسار الصحيح (on the right track)
+- cue: على المسار/الطريق الصحيح، وضعه على المسار الصحيح
+- source: on the right track
+- ✗ وجعلها منظمة وعلى المسار الصحيح → ✓ وسدّد أمورها (author, the original)
+- note: an English idiom of motion for setting affairs right; Arabic says سدّد، قوّم، أصلح شأنه.
+
+## p188 · RULE · حاول إقناعه بأن (tried to persuade him to)
+- cue: حاول/حاولت إقناعه بأن/بـ
+- source: tried to persuade him to
+- ✗ وحاولت إقناعه بأن يجعل زملاءه … يركعون → ✓ فحملته على أن … (author, the original)
+- note: English stacks try + persuade; Arabic often states the outcome or the pressure with one verb (حمله على، أغراه بـ، زيّن له). Soft flag; phase 2 to judge, since حاول إقناعه is grammatical.
+
+## p188 · RULE · مواطنون / زملاء for رعية / أصحاب (citizens, associates)
+- cue: مواطنيه، زملاءه (of a ruler's people and companions)
+- source: citizens, associates
+- ✗ زملاءه ومواطنيه → ✓ أصحابه ورعيته (author, the original)
+- note: the English words carry modern civic and workplace senses into a pre-modern setting; Arabic for a ruler's people is رعية، and for his men أصحاب. Phase 2: an anachronism-of-sense flag, mainly for historical prose and translation.
+
+## p188 · EXAMPLE · خلال وقت + مصدر (during his time of rule)
+- of: p54 من خلال / عبر
+- ✗ وغزا مدنًا خلال وقت حكمه → ✓ وافتتح في إمارته مدائن (author, the original)
+- note: English during becomes خلال; Arabic uses في + the noun (في إمارته، في عهده). Phase 2: give خلال (temporal) its own cue.
+
+## p188 · EXAMPLE · اعتيد أن يُفعل (as used to be done)
+- of: p166 اعتاد أن for a past habit
+- ✗ كما اعتيد أن يُفعل لزوجها → ✓ كما كان يُفعل لزوجها (author, the original)
+
+## p188 · EXAMPLE · لا يتم فعله (is not done)
+- of: p45 RULE تمّ + مصدر
+- ✗ هذا لا يتم فعله في ديننا → ✓ إن ذلك ليس في ديننا (author, the original)
+
+## p189 · EXAMPLE · Ibn al-Athir, الكامل (continued; the door, the crown, the killing)
+- of: p185 METHOD compare a modern retelling with its classical sources
+- ✗ لكنها لم تدعه حتى أمر أن يتم فتح باب منخفض إلى قاعة المجلس حيث كان يجلس، وأي أحد يجيء من خلاله سوف ينحني فيبدو أنه يركع. قبلت بهذا وصارت تنظر إليه كركوع → ✓ فلم تزل به حتى أمر ففُتح باب قصير لمجلسه الذي كان يجلس فيه، فكان أحدهم إذا دخل منه طأطأ رأسه فيصير كالراكع، فرضيت به، فصار كالسجود عندها (author, the original)
+- ✗ «الآن صرت كملك، وكل ما تبقى لي أن أصنع لك تاجًا بذهبي ولآلئي»، ورفض لكنها لم تتركه حتى فعلها → ✓ الآن لحقت بالملوك، وبقي أن أعمل لك تاجًا مما عندي من الذهب واللؤلؤ، فأبى، فلم تزل به حتى فعل (author, the original)
+- ✗ اكتشف المسلمون ذلك، وقال الناس أصبح نصرانيًا، وأصبحوا مدركين للباب، فنهضوا ضده وقتلوه في نهاية العام السابع والتسعين → ✓ فانكشف ذلك للمسلمين، فقيل: تنصّر، وفطنوا للباب، فثاروا عليه فقتلوه في آخر سنة سبع وتسعين (author, the original)
+- ✗ وقال آخرون إن سليمان … أرسل أوامر للجنود بخصوص قتله لما أصبح غاضبًا على والده … وبينما كان في المحراب، دخلوا. صلى صلاة الفجر وقرأ الفاتحة والواقعة، وثم هاجموه بالسيوف بضربة واحدة … وعرضه سليمان لوالده الذي حاول أن يتحمل تحت هذه المأساة → ✓ وقيل: إن سليمان … بعث إلى الجند في قتله عند سخطه على والده …، فدخلوا عليه وهو في المحراب، فصلى الصبح وقد قرأ الفاتحة وسورة الواقعة، فضربوه بالسيوف ضربة واحدة …، فعرضه سليمان على أبيه، فتجلّد للمصيبة (author, the original)
+- note: shifts visible in the back-translation: لم تدعه حتى (wouldn't let him be) for لم تزل به حتى; أمر أن يتم فتح (p45 تمّ) for أمر ففُتح; باب منخفض إلى قاعة المجلس حيث كان يجلس (p187 حيث) for لمجلسه الذي كان يجلس فيه; أي أحد (p147) for أحدهم; من خلاله (p54) for منه; سوف (p59) in a habitual past; فيبدو أنه يركع (p156) for فيصير كالراكع; تنظر إليه كركوع (view it as, p121 كـ) for صار كالسجود عندها; صرت كملك for لحقت بالملوك; كل ما تبقى لي أن (all that's left is for me) for وبقي أن; بذهبي ولآلئي (my gold and pearls) for مما عندي من الذهب واللؤلؤ; فعلها for فعل; اكتشف المسلمون ذلك for فانكشف ذلك للمسلمين; أصبحوا مدركين للباب (became aware of, p62) for فطنوا للباب; نهضوا ضده (rose up against, p54) for ثاروا عليه; نهاية العام السابع والتسعين (the end of the year ninety-seven) for آخر سنة سبع وتسعين; قال آخرون for وقيل; أرسل أوامر للجنود بخصوص قتله (sent orders concerning) for بعث إلى الجند في قتله; أصبح غاضبًا على (p62) for سخطه على; بينما كان في المحراب، دخلوا (while he was) for فدخلوا عليه وهو في المحراب; صلاة الفجر for الصبح; وثم for الفاء; هاجموه بالسيوف بضربة واحدة for فضربوه بالسيوف ضربة واحدة (مفعول مطلق); أحضروه لسليمان for سيّروه إلى سليمان; عرضه لوالده الذي حاول (a relative clause carrying the next event) for فعرضه على أبيه فتجلّد; يتحمل تحت هذه المأساة (bear up under this tragedy) for تجلّد للمصيبة.
+
+## p189 · RULE · بخصوص (concerning) linking a noun to its topic
+- cue: بخصوص + اسم/مصدر (أوامر بخصوص قتله، بخصوص هذا الأمر)
+- source: concerning, regarding
+- ✗ أرسل أوامر للجنود بخصوص قتله → ✓ بعث إلى الجند في قتله (author, the original)
+- note: Arabic links the order or message to its subject with في (بعث في قتله، كتب إليه في كذا); بخصوص tracks "concerning / regarding". Phase 2: merge with other "regarding" cues (فيما يتعلق بـ، بالنسبة لـ) if recorded.
+
+## p189 · RULE · بينما كان + حال, then the main verb (while he was …, they went in)
+- cue: بينما/وبينما كان/هو + خبر، ثم الفعل الرئيس
+- source: While he was at the mihrab, they went in
+- ✗ وبينما كان في المحراب، دخلوا → ✓ فدخلوا عليه وهو في المحراب (author, the original)
+- note: English puts the circumstance first in a while-clause; Arabic gives the main verb and attaches the circumstance as a جملة حالية with واو الحال (وهو في …). بينما is classical, but in narrative its classical use is a sudden event (بينما نحن جلوس إذ …), not this English frame. Phase 2: check against p124 (بينما كان + اسم فاعل).
+
+## p189 · RULE · relative clause carrying the next event (عرضه لوالده الذي حاول …)
+- cue: … لفلان الذي + فعل ماضٍ where the verb is the next event in the story
+- source: showed it to his father, who tried to bear up …
+- ✗ وعرضه سليمان لوالده الذي حاول أن يتحمل تحت هذه المأساة → ✓ فعرضه سليمان على أبيه، فتجلّد للمصيبة (author, the original)
+- note: English chains events with a non-restrictive "who"; Arabic narrative moves on with الفاء and a new verb. Phase 2: a style flag for narrative.
+
+## p189 · RULE · كل ما تبقى (لي) أن (all that's left is)
+- cue: كل ما تبقى/بقي (لي/لنا) هو أن/أن
+- source: all that's left is for me to …
+- ✗ وكل ما تبقى لي أن أصنع لك تاجًا → ✓ وبقي أن أعمل لك تاجًا (author, the original)
+- note: Arabic says بقي أن / لم يبق إلا أن; the كل ما … هو frame copies English "all that's left is".
+
+## p189 · RULE · يتحمل تحت + مصيبة (bear up under)
+- cue: تحمّل/صمد تحت + مأساة/ضغط/وطأة
+- source: bear up under this tragedy
+- ✗ حاول أن يتحمل تحت هذه المأساة → ✓ فتجلّد للمصيبة (author, the original)
+- note: English "under" for the weight of hardship; Arabic uses تجلّد لـ، صبر على، احتمل. مأساة (tragedy, a dramatic term) for مصيبة is a second shift. Phase 2: merge with p184 تحت تأثير as a family of تحت calques.
+
+## p189 · RULE · ordinal year (العام السابع والتسعين)
+- cue: العام/السنة + ordinal (العام السابع والتسعين، السنة الخامسة والثمانين)
+- source: the year ninety-seven
+- ✗ في نهاية العام السابع والتسعين → ✓ في آخر سنة سبع وتسعين (author, the original)
+- note: the date is a cardinal in إضافة (سنة سبع وتسعين); the ordinal changes the meaning to "the 97th year" of something. نهاية for آخر is a second shift. Phase 2 to judge; the ordinal is common in modern dates.
+
+## p189 · RULE · نظر إليه كـ (view it as)
+- of: p121 كـ = as for a role
+- cue: ينظر/تنظر إليه كـ + اسم، يُنظر إليه كـ
+- source: came to view it as bowing
+- ✗ وصارت تنظر إليه كركوع → ✓ فصار كالسجود عندها (author, the original)
+- note: English "view X as Y"; Arabic says عدّه، حسبه، كان عنده كـ، or makes the thing the subject (صار كالسجود عندها).
+
+## p189 · EXAMPLE · أصبح + adjective / اسم فاعل (became aware, became angry)
+- of: p62 كان/أصبح/صار + adjective
+- ✗ وأصبحوا مدركين للباب → ✓ وفطنوا للباب (author, the original)
+- ✗ لما أصبح غاضبًا على والده → ✓ عند سخطه على والده (author, the original)
+
+## p190 · EXAMPLE · Ibn Idhari, البيان المغرب ج2 ص23 (classical source of the Tuqqush passage)
+- of: p185 METHOD compare a modern retelling with its classical sources
+- ✗ عيّن موسى ولده عبد العزيز ليكون مسؤولًا على الأندلس. بعد أن غادر والده، تزوج أم عاصم، التي كانت زوجة رودريقو (كان اسمها أيلا)، وعاش معها في إشبيلية → ✓ واستخلف موسى على الأندلس ابنه عبد العزيز، وتزوج بعد خروج أبيه أمَّ عاصم امرأة رذريق (واسمها أيلة) وسكن معها بإشبيلية (author, the original)
+- ✗ بعد أن تزوجا قالت له: «الملوك الذين لم يتوجوا ليس لهم سلطان! ماذا لو صنعت لك تاجًا من الجواهر والذهب الذي تبقى عندي؟» فأجاب: «هذا ليس في ديننا!» → ✓ فلما دخل بها، قالت له: إن الملوك إذا لم يتوّجوا فلا ملك لهم! فلو عملت لك مما بقي عندي من الجوهر والذهب تاجًا؟ فقال لها: ليس ذلك في ديننا (author, the original)
+- ✗ فقالت: «كيف سيعرف أهل دينك ما تفعله عندما تكون وحدك؟» ولم تدع الأمر حتى فعل ذلك → ✓ فقالت له: ومن أين يعرف أهل دينك ما أنت فيه في خلوتك؟ فلم تزل به حتى فعل (author, the original)
+- ✗ وفي أحد الأيام بينما كان جالسًا معها والتاج على رأسه، دخلت امرأة تزوجها زياد بن نابغة التميمي والتي كانت ابنة أحد ملوكهم → ✓ فبينما هو ذات يوم جالس معها، والتاج على رأسه، إذ دخلت عليه امرأة كان قد تزوجها زياد بن نابغة التميمي، من بنات ملوكهم (author, the original)
+- note: shifts visible in the back-translation: عيّنه ليكون مسؤولًا على (appointed him to be in charge over, p121) for استخلفه على; بعد أن غادر (a clause) for بعد خروج (مصدر); التي كانت زوجة (who had been) for امرأة رذريق (an apposition); كان اسمها for واسمها; عاش معها for سكن معها; بعد أن تزوجا for فلما دخل بها; الملوك الذين لم يتوجوا ليس لهم (a relative clause) for إن الملوك إذا لم يتوجوا فلا ملك لهم (a conditional); ماذا لو (how about if) for فلو; أجاب for قال لها; كيف سيعرف (how would they know, with سـ) for ومن أين يعرف; ما تفعله عندما تكون وحدك (what you're doing when you're alone, p150 عندما) for ما أنت فيه في خلوتك; لم تدع الأمر حتى (wouldn't let it go) for لم تزل به حتى; وفي أحد الأيام بينما كان … دخلت (one day while … then, p152 fronted adverbial) for فبينما هو ذات يوم … إذ دخلت; والتي كانت ابنة (p180 , which) for من بنات ملوكهم.
+
+## p190 · RULE · ماذا لو … ؟ for an offer (how about if …?)
+- cue: ماذا لو + فعل في عرض أو اقتراح
+- source: How about if I …? / What if I …?
+- ✗ ماذا لو صنعت لك تاجًا من الجواهر؟ → ✓ فلو عملت لك … تاجًا؟ (author, the original)
+- note: Arabic offers with لو (or ألا، هلّا، أفلا) and the question tone; ماذا لو copies "what if / how about if". Soft flag; phase 2 to judge, since ماذا لو for a hypothesis is now standard.
+
+## p190 · CRITERION · classical بينما … إذ vs. modern بينما كان … ، فعل
+- resolves: p189 بينما كان + حال, then the main verb
+- ✗ وفي أحد الأيام بينما كان جالسًا معها …، دخلت امرأة → ✓ فبينما هو ذات يوم جالس معها …، إذ دخلت عليه امرأة (author, the original)
+- note: the classical frame is بينما/بينا + nominal clause (هو جالس) + إذ/إذا introducing the sudden event. The modern frame uses كان + خبر منصوب, drops إذ, and fronts an extra "one day". Flag بينما كان … without إذ/إذا in narrative; suggest بينما هو … إذ … or the واو الحال form.
+
+## p190 · RULE · relative clause for a conditional general statement (الملوك الذين لم يتوجوا ليس لهم …)
+- cue: الـ + جمع + الذين لم/لا … ليس لهم / لا … (a general rule stated with a relative clause)
+- source: Kings who have not been crowned have no authority
+- ✗ الملوك الذين لم يتوجوا ليس لهم سلطان → ✓ إن الملوك إذا لم يتوّجوا فلا ملك لهم (author, the original)
+- note: English states a general rule as "X who … have no …"; Arabic often states it as a conditional (إذا … فلا …). Soft flag; phase 2 to judge.
+
+## p190 · RULE · كيف سيعرف … ؟ (how would they know?) for من أين يعرف
+- cue: كيف سيعرف/سيعلم + فاعل في استفهام إنكاري
+- source: How would the people of your religion know …?
+- ✗ كيف سيعرف أهل دينك ما تفعله عندما تكون وحدك؟ → ✓ ومن أين يعرف أهل دينك ما أنت فيه في خلوتك؟ (author, the original)
+- note: Arabic asks about the source of knowledge with من أين يعلم/يدري; English how + would, rendered كيف + سـ. Phase 2 to judge; the سـ is the clearer flag (p59).
+
+## p190 · RULE · بعد أن + فعل for بعد + مصدر
+- of: p186 note (بعد أن غادر for بعد خروج)
+- cue: بعد أن + ماضٍ where a verbal noun fits (بعد أن غادر والده، بعد أن تزوجا)
+- source: after his father left, after they married
+- ✗ بعد أن غادر والده، تزوج … → ✓ وتزوج بعد خروج أبيه … (author, the original)
+- note: English after + clause; the Arabic sources use بعد + مصدر مضاف (بعد خروج أبيه) or فلما for the next event. Soft flag: بعد أن is sound, but its frequency follows English.
+
+## p190 · EXAMPLE · و + التي opening a non-restrictive relative
+- of: p180 و + الذي/التي (", which")
+- ✗ دخلت امرأة تزوجها زياد بن نابغة التميمي والتي كانت ابنة أحد ملوكهم → ✓ إذ دخلت عليه امرأة كان قد تزوجها زياد بن نابغة التميمي، من بنات ملوكهم (author, the original)
+
+## p191 · EXAMPLE · Ibn Idhari, البيان المغرب (continued; the crown and the end; the quotations end here)
+- of: p185 METHOD compare a modern retelling with its classical sources
+- ✗ ورأته مع التاج على رأسه. فقالت لزياد: ألا أصنع لك تاجًا؟ فأجاب: لبس واحد غير جائز في ديننا! فقالت له: بربنا يسوع المسيح، إنه على رأس ملككم وقائدكم → ✓ فعاينته والتاج على رأسه، فقالت لزياد: ألا أعمل لك تاجًا؟ فقال لها: ليس في ديننا استحلال لباسه! فقالت له: ودين المسيح! إنه على رأس ملككم وإمامكم (author, the original)
+- ✗ وأعلم زياد حبيب بن أبي عبدة بذلك، ثم تحدثوا عنه حتى سمع عنه الجنود الأعلى، واهتم بلا شيء غير كشف هذا حتى رأوه بأعينهم. وقالوا: «لقد أصبح مسيحيًا!» → ✓ فأعلم بذلك زيادٌ حبيبَ بن أبي عبدة، ثم تحدثا بذلك حتى علمه خيار الجند، فلم يكن له همّ إلا كشف ذلك، حتى رأوه عيانًا. فقالوا: قد تنصّر! (author, the original)
+- ✗ ويؤمن معظم الناس أن هذه القصة غير صحيحة، بل إنهم قتلوه بأمر من سليمان. وقيل أيضًا بل إنهم قتلوه بسبب أنه رفض أن يطيع سليمان → ✓ وأكثر الناس على أن هذه الحكاية لا تصح، وإنما قتلوه بأمر سليمان. وقيل أيضًا: إنما قتلوه لأنه خلع طاعة سليمان (author, the original)
+- ✗ قال الرازي: كان أحد أفضل الحكام. لكن فترته لم تدم طويلًا بسبب أن الجنود قاموا وقتلوه لأشياء كانوا غاضبين منه لأجلها → ✓ قال الرازي: كان من خير الولاة، إلا أن مدته لم تطل، لوثوب الجند عليه وقتلهم له لأشياء نقموها عليه (author, the original)
+- note: shifts visible in the back-translation: رأته مع التاج على رأسه (with the crown on his head) for واو الحال (والتاج على رأسه); لبس واحد غير جائز (wearing one is not allowed, واحد as a pronoun) for ليس في ديننا استحلال لباسه; بربنا يسوع المسيح (By our Lord Jesus Christ) for ودين المسيح; قائدكم for إمامكم; سمع عنه الجنود الأعلى (the top soldiers heard about it) for علمه خيار الجند; اهتم بلا شيء غير (cared for nothing other than) for لم يكن له همّ إلا; رأوه بأعينهم (with their own eyes) for رأوه عيانًا; لقد أصبح مسيحيًا (p62) for قد تنصّر (p187); يؤمن معظم الناس أن (most people believe) for وأكثر الناس على أن; غير صحيحة for لا تصح; بل إنهم for وإنما (p187 فعليًا); بأمر من سليمان for بأمر سليمان; بسبب أنه (p96, p187) for لأنه; رفض أن يطيع for خلع طاعة; كان أحد أفضل الحكام (p165 one of the best) for كان من خير الولاة; لم تدم طويلًا (did not last long) for لم تطل; بسبب أن الجنود قاموا وقتلوه (a clause) for لوثوب الجند عليه وقتلهم له (verbal nouns); كانوا غاضبين منه لأجلها (p62; preposition left at the clause end) for نقموها عليه.
+
+## p191 · RULE · مع for واو الحال (with the crown on his head)
+- cue: رآه/رأته مع + اسم + على/في + اسم (مع التاج على رأسه، مع يديه في جيبه)
+- source: saw him with the crown on his head
+- ✗ ورأته مع التاج على رأسه → ✓ فعاينته والتاج على رأسه (author, the original)
+- note: English "with X on Y" describes a state; Arabic uses a nominal حال clause with واو الحال (والتاج على رأسه).
+
+## p191 · RULE · يؤمن أن / يعتقد أن معظم الناس (most people believe) for الناس على أن
+- cue: يؤمن (معظم الناس/الكثيرون) أنّ/بأنّ in reporting an opinion
+- source: Most people believe that
+- ✗ ويؤمن معظم الناس أن هذه القصة غير صحيحة → ✓ وأكثر الناس على أن هذه الحكاية لا تصح (author, the original)
+- note: English believe covers ordinary opinion; Arabic keeps آمن for faith and reports opinion with على أن، يرى، ذهب إلى، رأي أكثرهم. Phase 2 to judge; check whether the vocabulary section treats آمن = believe.
+
+## p191 · RULE · لم يدم طويلًا (did not last long)
+- cue: لم يدم/لم تدم طويلًا، لن يدوم طويلًا
+- source: did not last long
+- ✗ لكن فترته لم تدم طويلًا → ✓ إلا أن مدته لم تطل (author, the original)
+- note: Arabic says the time itself was short (لم تطل مدته، قصرت مدته); دام طويلًا copies last + long. Soft flag.
+
+## p191 · RULE · بأعينهم / بعينيه (with their own eyes) for عيانًا
+- cue: رأى/رأوه بأم عينه، بعينيه، بأعينهم
+- source: saw it with their own eyes
+- ✗ حتى رأوه بأعينهم → ✓ حتى رأوه عيانًا (author, the original)
+- note: Arabic stresses direct sight with an accusative (عيانًا، معاينة) or the verb عاين; بأعينهم follows "with their own eyes". Soft flag; بأم عينه is widespread.
+
+## p191 · RULE · بسبب أن + clause (because of the fact that)
+- of: p96 بسبب أنه; p187 بسبب for لام التعليل
+- cue: بسبب أن/أنه/أنهم
+- source: because (of the fact that)
+- ✗ قتلوه بسبب أنه رفض أن يطيع سليمان → ✓ إنما قتلوه لأنه خلع طاعة سليمان (author, the original)
+- ✗ لم تدم طويلًا بسبب أن الجنود قاموا وقتلوه → ✓ لم تطل لوثوب الجند عليه وقتلهم له (author, the original)
+- note: Arabic says لأنّ or لـ + مصدر; بسبب أنّ stacks a noun of cause on the conjunction.
+
+## p191 · EXAMPLE · أحد + أفعل + جمع (one of the best)
+- of: p165 إحدى / أحد + plural for partitive من
+- ✗ كان أحد أفضل الحكام → ✓ كان من خير الولاة (author, the original)
+
+## p191 · RULE · stranded preposition at the end of a relative clause (كانوا غاضبين منه لأجلها)
+- cue: … لأشياء/لأمور + كان + … + لأجلها/بسببها/عنها at the clause end
+- source: things they were angry with him about
+- ✗ لأشياء كانوا غاضبين منه لأجلها → ✓ لأشياء نقموها عليه (author, the original)
+- note: English ends the relative clause with a preposition (about); Arabic picks a verb that takes the noun directly (نقمها عليه) or rewrites. Shown in the back-translation only; phase 2 to judge (soft).

@@ -186,3 +186,8 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 182 (p 184) · EXAMPLE×1 RULE×2 (Tuqqush text ends; وقع تحت تأثير; وقع ضحية)
 - pdf 183 (p 185) · RULE×1 CRITERION×1 METHOD×1 (author's list of European-matching phrases in Tuqqush; substitution not enrichment)
 - pdf 184 (p 186) · EXAMPLE×2 RULE×3 (Ibn Abd al-Hakam source text; غير قابل لـ; لماذا لا; فعل as pro-verb)
+- pdf 185 (p 187) · EXAMPLE×4 RULE×5 (Ibn Abd al-Hakam text ends: في موقع حيث; بسبب; ماذا indirect; جُعل أقوى; حوّله إلى المسيحية)
+- pdf 186 (p 188) · EXAMPLE×4 RULE×5 (Ibn al-Athir source text: السبب الذي كان أن; جعله يفعل; كان له تأثير على; على المسار الصحيح; حاول إقناعه; مواطنيه/زملاءه)
+- pdf 187 (p 189) · EXAMPLE×2 RULE×6 (Ibn al-Athir text ends: بخصوص; بينما كان … دخلوا; continuative الذي; كل ما تبقى; يتحمل تحت; ordinal year; نظر إليه كـ)
+- pdf 188 (p 190) · EXAMPLE×2 RULE×4 CRITERION×1 (Ibn Idhari source text: ماذا لو; بينما … إذ; relative for conditional; كيف سيعرف; بعد أن + فعل)
+- pdf 189 (p 191) · EXAMPLE×2 RULE×5 (Ibn Idhari text ends, quotations end: مع for واو الحال; يؤمن أن; لم يدم طويلًا; بأعينهم; بسبب أن; stranded preposition)
