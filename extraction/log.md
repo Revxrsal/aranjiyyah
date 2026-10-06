@@ -208,3 +208,8 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 204 (p 206) · EXAMPLE×1 RULE×1 (should → imperative/لام الأمر; يوميًا → كل يوم)
 - pdf 205 (p 207) · RULE×2 CRITERION×1 (تعزيزات → مدد; شعور باحترام الذات → أنفة/عزة نفس)
 - pdf 206 (p 208) · EXAMPLE×1 METHOD×1 (كتاب الأموال practice paragraph: English vs original)
+- pdf 207 (p 209) · drill: English of a البخلاء passage (original on p210; recorded there)
+- pdf 208 (p 210) · METHOD×1 (البخلاء original vs Colville's English; Ibn Khaldun drill starts)
+- pdf 209 (p 211) · drill: English of Ibn Khaldun's Almohad fleet passage, cont. (original to follow)
+- pdf 210 (p 212) · METHOD×1 (Ibn Khaldun original vs Rosenthal's English; continues p213)
+- pdf 211 (p 213) · EXAMPLE×1 METHOD×1 (end of Ibn Khaldun drill; list of classical works in English for parallel reading)

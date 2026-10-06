@@ -3632,3 +3632,47 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ الذين يأتون بعدهم ويحلّون محلهم في الدفاع عن الإسلام لن يجدوا شيئًا → ✓ ثم يأتي من بعدهم قوم يسدّون من الإسلام مسدًّا، وهم لا يجدون شيئًا
 - ✗ فكّر في إجراء يكون مفيدًا بالتساوي للحاضرين ولمن يأتي لاحقًا → ✓ فانظر أمرًا يسع أولهم وآخرهم
 - note: shifts visible: سيؤدي إلى (will lead to) vs قسم + نون التوكيد; قدر هائل من (a tremendous amount of); عند موتهم (upon their death) vs a verb يبيدون; إجراء (measure) vs أمرًا; مفيد بالتساوي لـ (equally beneficial for) vs يسع أولهم وآخرهم. Phase 2: possible EXAMPLE material for يؤدي إلى, قدر من, مصدر-for-verb and adverb-of-manner calques; the author didn't flag them individually.
+
+## p210 · METHOD · practice paragraph for the reverse-translation drill (البخلاء، الكندي)
+- of: p204 reverse-translate with parallel classical texts
+- note: the author gives Jim Colville's English of a البخلاء passage (p209) to translate before reading al-Jahiz's original (p210). No commentary; pairs below are ✗ ours (literal rendering of the English) → ✓ author's original:
+- ✗ وبشكل مفاجئ تلقيت هذه الملاحظة من الكندي → ✓ وإذا رقعة منه قد جاءتني
+- ✗ إقامة مخطط لها لليلة أو ليلتين من قبل هذين القادمين الجديدين يمكن تحمّلها → ✓ إن كان مقام هذين القادمين ليلة أو ليلتين احتملنا ذلك
+- ✗ التغاضي عن المبيت قد يشجعهم على البقاء مدة أطول → ✓ وإن كان إطماع السكان في الليلة الواحدة يجرّ علينا الطمع في الليالي الكثيرة
+- ✗ خمسة دراهم للشخص الواحد شهريًا → ✓ لكل رأس خمسة
+- ✗ ليس لدي خيار سوى فرض زيادة قدرها … → ✓ فلا بدّ من زيادة خمستين
+- ✗ اعتبارًا من اليوم سيكون إيجارك أربعين درهمًا → ✓ فالدار عليك من يومك هذا بأربعين
+- ✗ نفقات زيارتهما مسؤوليتي لا مسؤوليتك → ✓ وثقل مؤونتهما عليّ دونك
+- ✗ أدعوك إلى إطلاعي على أسبابك كتابيًا → ✓ فاكتب إليّ بعذرك لأعرفه
+- ✗ لم تكن لدي أدنى فكرة عمّا أثرته → ✓ ولم أدرِ أني أهجم على ما هجمت وأقع منه فيما وقعت
+- ✗ قائمة العوامل الدافعة إلى الزيادة طويلة ومعترف بها على نطاق واسع → ✓ الخصال التي تدعو إلى ذلك كثيرة، وهي قائمة معروفة
+- ✗ تشمل التكلفة العالية لتصريف البالوعة بشكل أكثر تكرارًا لأنها تمتلئ أسرع → ✓ من ذلك سرعة امتلاء البالوعة، وما في تنقيتها من شدة المؤونة
+- ✗ كلما زاد عدد الأقدام زاد المشي على السقف والأرضيات → ✓ ومن ذلك أن الأقدام إذا كثرت كثر المشي على ظهور السطوح
+- note: shifts visible: بشكل مفاجئ (out of the blue) vs وإذا الفجائية; passive + من قبل + يمكن vs a conditional with an active verb; ليس لدي خيار سوى (I have no choice but) vs لا بدّ من; اعتبارًا من (from today) vs من يومك هذا; مسؤوليتي (my responsibility) vs عليّ; لم تكن لدي أدنى فكرة (little idea did I have) vs لم أدرِ; على نطاق واسع (widely); the more … the more vs إذا كثر … كثر (cf. p31 كلما). Phase 2: EXAMPLE material for those cues; the author didn't flag them individually.
+- open: a second drill passage (Ibn Khaldun on the Almohad fleet, English) starts on p210; its Arabic original should follow on p211+
+
+## p212 · METHOD · practice paragraph for the reverse-translation drill (مقدمة ابن خلدون، الأسطول)
+- of: p204 reverse-translate with parallel classical texts
+- note: English is Rosenthal's translation of the Muqaddimah (p210-211); the original is on p212-213. No commentary; pairs are ✗ ours (literal rendering of the English) → ✓ author's original:
+- ✗ في القرن السادس ازدهرت دولة الموحدين وامتلكت كلا الساحلين → ✓ ولمّا استفحلت دولة الموحدين في المائة السادسة وملكوا العدوتين
+- ✗ نظّموا أسطولهم بالطريقة الأكثر كمالًا على الإطلاق وعلى أوسع نطاق شوهد → ✓ أقاموا خطة هذا الأسطول على أتمّ ما عُرف وأعظم ما عُهد
+- ✗ خلفه ابنه الذي أثار غضبه بطريقة ما، فخاف على حياته → ✓ وولي ابنه فأسخطه ببعض النزعات، وخشي على نفسه
+- ✗ استقبله الخليفة بلطف وتكريم كبيرين وأعطاه هدايا كثيرة وعهد إليه بقيادة أسطوله → ✓ فتلقاه الخليفة بالمبرّة والكرامة وأجزل الصلة وقلّده أمر أساطيله
+- ✗ قام بأعمال جديرة بالملاحظة لا تُنسى → ✓ وكانت له آثار وأخبار ومقامات مذكورة
+- ✗ كان الأسطول ذا حجم وجودة لم يُبلغا قط، على حدّ علمنا، من قبل أو منذ ذلك الحين → ✓ وانتهت أساطيل المسلمين على عهده في الكثرة والاستجادة إلى ما لم تبلغه من قبل ولا بعد فيما عهدناه
+- ✗ عندما شرع صلاح الدين، حاكم مصر والشام في ذلك الوقت، في استعادة … → ✓ ولمّا قام صلاح الدين ملك مصر والشام لعهده باسترجاع …
+- ✗ جاء أسطول تلو الآخر لإغاثة الثغور، ودعموها بالمعدات والطعام → ✓ تتابعت أساطيلهم بالمدد لتلك الثغور، فأمدّوهم بالعُدد والأقوات
+- ✗ لم يستطع أسطول الإسكندرية الصمود أمامهم → ✓ ولم تقاومهم أساطيل الإسكندرية
+- ✗ كانت للمسيحيين اليد العليا … أما المسلمون فكانوا أضعف من أن يبدوا أي مقاومة → ✓ لاستمرار الغلب لهم … وضعف المسلمين منذ زمان طويل عن ممانعتهم
+- ✗ في هذا الوضع أرسل صلاح الدين … عضوًا في عائلة بني منقذ سفيرًا له → ✓ فأوفد صلاح الدين … رسوله … من بيت بني منقذ
+- note: shifts visible: عندما (when) vs لمّا; superlative + على الإطلاق / على أوسع نطاق vs أتمّ ما عُرف وأعظم ما عُهد; بطريقة ما (somehow) vs ببعض النزعات; خاف على حياته (feared for his life) vs خشي على نفسه; على حد علمنا (to our knowledge) vs فيما عهدناه; في ذلك الوقت vs لعهده; X تلو الآخر (one … after another) vs تتابع; اليد العليا (the upper hand) vs الغلب; أضعف من أن (too weak to) vs ضعف عن; في هذا الوضع (in this situation) vs الفاء; عضو في عائلة (a member of the family) vs من بيت. Also تقديم مقاومة vs a verb. Phase 2: EXAMPLE material; cf. p150 عندما.
+- open: the original's last lines (Saladin's request for the fleet) continue on p213; add any author comment there
+
+## p213 · EXAMPLE · Ibn Khaldun fleet drill, last pair
+- of: p212 practice paragraph (مقدمة ابن خلدون، الأسطول)
+- ✗ ليطلب دعم أساطيله لمنع أساطيل الكفار من تحقيق رغبتهم في إغاثة النصارى → ✓ طالبًا مدد الأساطيل لتحول في البحر بين أساطيل الأجانب وبين مرامهم من إمداد النصرانية (author's original)
+- note: دعم (support) vs مدد; منع … من تحقيق رغبتهم في (prevent … from achieving their desire of) vs تحول بين … وبين مرامهم. resolves: p212 open (no author comment beyond "these short paragraphs hold many lessons").
+
+## p213 · METHOD · parallel-read classical works that exist in English translation
+- of: p204 reverse-translate with parallel classical texts
+- note: many classical Arabic books have English translations (hadith collections, سيرة ابن هشام, البخلاء, الأموال, تاريخ الطبري, نهج البلاغة, طوق الحمامة, مقدمة ابن خلدون, رحلة ابن بطوطة, تفسير ابن كثير, among others), so a learner can practise the drill on whole books. Some (البخلاء، الأخلاق والسير، مدارج السالكين) exist as Arabic audiobooks: listen to the Arabic while following the English text by eye, to tie each English construction to its native Arabic counterpart.
