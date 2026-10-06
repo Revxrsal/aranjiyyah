@@ -13,12 +13,27 @@ Format:
 - why: <optional, one line>
 ```
 
-## Pending (from the first preview build, pdf 1-80)
+## Severity of widespread calques
+- applies to: all entries
+- decision: being widespread doesn't lower a calque to 🟡. Use 🔴 when a clear native form exists; 🟡 only when the native form is heavier or would surprise readers.
 
-Not decided yet. `/build-skill` keeps its current handling until these are
-answered and moved above this heading.
+## Book rulings softened to 🟡
+- applies to: SYN-022 أو after negation, MOR-004 كن + صفة, SYN-023 أو in تسوية, VOC-012 الجنسين, VOC-017 العربية الكلاسيكية
+- decision: keep them at 🟡.
+- why: classical counterexamples, or entrenched technical usage.
 
-1. Severity: is "widespread but has a clear native form" 🔴 (current), with 🟡 only for usages where the native form is heavier or surprising?
-2. Softened to 🟡: SYN-022 أو after negation, MOR-004 كن + صفة, SYN-023 أو in تسوية, VOC-012 الجنسين, VOC-017 العربية الكلاسيكية. Keep 🟡 or follow the book?
-3. Extensions beyond the book: SYN-003 to الخاصة بك in UI copy, USE-003 cue الوقت, exception lines in MOR-002, SYN-004, SYN-002. Keep?
-4. Rare entries (STY-012, STY-013, VOC-018, MOR-009): keep or drop?
+## Extensions beyond the book
+- applies to: SYN-003 extended to الخاصة بك in UI copy; USE-003 cue الوقت; the exception lines in MOR-002, SYN-004 and SYN-002
+- decision: keep them.
+
+## Rare entries
+- applies to: STY-012, STY-013, VOC-018, MOR-009, and similar low-frequency patterns
+- decision: keep them, at the bottom of their files.
+- why: the skill searches the references, so rare entries cost almost nothing.
+
+## Pending
+
+Questions awaiting an answer. `/build-skill` keeps its current handling
+until they're decided and moved above this heading.
+
+(none)
