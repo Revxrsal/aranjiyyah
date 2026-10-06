@@ -82,3 +82,10 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 78 (p 80) · METHOD×1 EXAMPLE×1 RULE×1 (read pre-translation texts first; density; أعضاء الأسرة). Extra page
 - pdf 79 (p 81) · EXAMPLE×1 RULE×2 (أفراد/أعضاء الأسرة; يحلم بـ; الوحدة vs الاجتماع). Extra page
 - pdf 80 (p 82) · EXAMPLE×1 RULE×1 (وحدة: army/book/measure units; روح = spirit). Extra page; closes the إدوار حنين item
+- pdf 81 (p 83) · RULE×3 (style phrases deferred; الحياة السياسية; اقتصادي = economic)
+- pdf 82 (p 84) · EXAMPLE×1 CRITERION×1 RULE×2 (اقتصادي closed; يعكس = reflect; مستوى الحياة)
+- pdf 83 (p 85) · EXAMPLE×1 RULE×1 (المستوى closed; على الصعيد; opens سلامة موسى sample)
+- pdf 84 (p 86) · RULE×4 (موقف; اتجاهات; محافظ; تيارات)
+- pdf 85 (p 87) · EXAMPLE×1 RULE×1 (تيار closed; تناغم; opens أحمد أمين sample)
+- pdf 86 (p 88) · EXAMPLE×1 RULE×4 ACCEPTED×1 (تفكير; استعداد; المتنور; حركة إصلاح / نقطة تحول). Extra page
+- pdf 87 (p 89) · RULE×2 (closes أحمد أمين sample; opens إحسان عباس sample: الشخصية). Extra page

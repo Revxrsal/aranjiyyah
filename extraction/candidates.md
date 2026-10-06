@@ -1019,3 +1019,177 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ الروح الأكثر توقدًا → ✓ أجلّ الناس همة (author, ابن حزم)
 - ✗ كان رجلًا روحه سامية → ✓ كان رجلًا عالي الهمة (author, وفيات الأعيان)
 - note: English spirit covers group loyalty, intent and zeal; Arabic has عصبية/موالاة، مقاصد، همة/حماسة/نشاط, and روح keeps only its own senses.
+
+## p83 · RULE · manner and degree phrases in a modern quoted sample (منوعين جدًا، يظهر بوضوح، بصورة بارزة، المكانة الاجتماعية)
+- cue: منوعين جدًا، يظهر ذلك بوضوح، بصورة بارزة، المكانة الاجتماعية، تنعكس فروق … في
+- source: very diverse, this shows clearly, prominently / in a marked way, social status, is reflected in
+- ✗ كان سكانها منوعين جدًا، ويظهر ذلك بوضوح حتى في اللغة → ✓ ? (author flags it, defers to the styles chapter)
+- ✗ ظهر التباين بصورة بارزة → ✓ ? (compare p66 بشكل معتاد and p69 بشكل سلبي)
+- note: the author says much of this sample (a 1940s history of ancient Egypt) follows European styles, but treats only single words here.
+- open: the author promises these under أساليب الكلام; collect his rewrites there (بوضوح، بصورة + adjective، جدًا، المكانة الاجتماعية، تنعكس)
+
+## p83 · RULE · الحياة + adjective (الحياة السياسية، الحياة الاقتصادية)
+- cue: الحياة السياسية، الحياة الاقتصادية، الحياة الاجتماعية، اعتزل الحياة …
+- source: political life, economic life (life = a field of activity)
+- ✗ اعتزل فلان الحياة السياسية → ✓ اعتزل فلان السياسة (author, citing الهلالي)
+- ✗ أما في الحياة الاقتصادية فإن التباين قد ظهر … → ✓ أما في المعاش/الأموال فقد تباينوا … (ours)
+- note: European languages stretch "life" from a person's lifetime to any sphere of affairs; in Arabic الحياة is padding here, and the field is named directly.
+
+## p83 · RULE · اقتصادي = economic (to do with money and wealth)
+- cue: اقتصادي، الاقتصادية، الحياة الاقتصادية، الوضع الاقتصادي
+- source: economic
+- ✗ الحياة الاقتصادية → ✓ ? (rewrite expected on p84)
+- note: Arabic اقتصاد means moderation, avoiding waste (اقتصد في النفقة / في الكلام), which matches one sense of English economy; the sense "relating to one's money and resources" comes from English economic.
+- open: the discussion continues on p84; collect the author's verdict and native alternative (مال، معاش، كسب؟) and whether اقتصاد as a field name is accepted
+
+## p84 · EXAMPLE · حياة اقتصادية / لأسباب اقتصادية
+- of: p83 اقتصادي = economic (to do with money and wealth)
+- resolves: p83 open (اقتصادي verdict and alternative)
+- ✗ كانت حياة فلان الاقتصادية جيدة، لكنه الآن غادر البلاد لأسباب اقتصادية → ✓ كان في سَعة من المال، لكنه الآن خرج من البلاد لضيقٍ في المال (author)
+- note: native wording names the thing (المال، السعة، الضيق) instead of an abstract -ي adjective. The author doesn't rule on اقتصاد as the name of a field of study.
+
+## p84 · CRITERION · the native wording is the easier one for ordinary readers
+- cue: (judgment) defending a calque as "simpler" or "more accessible"
+- ✗ كانت حياته الاقتصادية جيدة → ✓ كان في سعة من المال (author)
+- note: the author answers the claim that calqued Arabic is easier than "stiff" fusha: an unschooled listener grasps the native sentence and not the calqued one. Use it when someone argues a calque is clearer.
+
+## p84 · RULE · يعكس / انعكس على (reflect)
+- cue: يعكس، تعكس، انعكس على، ينعكس في، انعكاس لـ، يعكس أول ما يعكس
+- source: reflect, be reflected in, a reflection of
+- ✗ غضب غضبًا شديدًا انعكس على فعله وقوله → ✓ … بان غضبه في فعله وقوله وظهر (author)
+- ✗ هذا العمل يعكس مدى إيمان الإنسان بـ… → ✓ هذا العمل يدل على قدر إيمانه بـ… ويُنبئ عنه (author)
+- ✗ هذا يعكس قوة إيمانه → ✓ دلّ هذا على قوة إيمانه (author, ابن حجر)
+- ✗ هذا يعكس فهم الشخص → ✓ فإن من فقه الرجل أن … (author, ابن مسعود)
+- ✗ هو انعكاس للعالم الإلهي → ✓ هو تابع للعالم الإلهي (author, ابن طفيل)
+- ✗ على أساس ما يعكسه كلامهم من نياتهم → ✓ بما يبدو من أحوالهم (author, ابن حزم)
+- ✗ تعكس آراء أهل السنة → ✓ على ما يراه أهل السنة (author, ابن خلدون)
+- note: انعكس in Arabic is for light or an image bouncing back; English reflect stretched it to "show, indicate, follow from". Native verbs: دلّ على، أنبأ عن، بان، ظهر، بدا، تبع.
+
+## p84 · RULE · مستوى الحياة / المستوى = level (niveau)
+- cue: مستوى الحياة، مستوى المعيشة، على المستوى العلمي، على مستوى، مستوى رفيع
+- source: niveau de vie, standard of living, level
+- ✗ تنعكس فروق مستوى الحياة … → ✓ ? (rewrite expected on p85)
+- note: niveau (and English level) first meant a flat surface or height, then any state or degree; المستوى in Arabic is the level ground or what is even.
+- open: discussion continues on p85; collect the author's rewrites for على المستوى العلمي and مستوى الحياة
+
+## p85 · EXAMPLE · المستوى for standing, field, degree and measure
+- of: p84 مستوى الحياة / المستوى = level (niveau)
+- resolves: p84 open (rewrites for المستوى)
+- ✗ فلان ممتاز على المستوى العلمي، لكنه على الصعيد الأخلاقي سيئ → ✓ هو في العلم حسن (أو حاله في العلم حسنة)، أما أخلاقه فرديئة (author)
+- ✗ مستوى العيش / مستوى الحياة → ✓ حال العيش: شدة ورخاء، شظف وترف، فقر وغنى (author)
+- ✗ لأنهم يعيشون في مستوى يتجاوز مستوى الضرورة → ✓ لأن أحوالهم زائدة على الضروري (author, ابن خلدون)
+- ✗ نتدارس المسألة على المستوى النحوي → ✓ … في باب النحو / نحويًّا (author)
+- ✗ لم تكن المكافأة على مستوى العمل → ✓ لم تكن بقدر العمل (author)
+- ✗ المستوى الأسفل / مئة مستوى / في مستواي → ✓ الدرك الأسفل / مئة درجة / في درجتي (author, Qur'an and hadith)
+- ✗ وصل مستوى كبار الطبيعيين → ✓ بلغ مبلغ كبار الطبيعيين (author, ابن طفيل)
+- ✗ يكلفه الصعود إلى مستواه → ✓ … إلى مرتبته (author, ابن حزم)
+- ✗ ليسا في نفس المستوى → ✓ ليس … بمثابتهما (author, ابن خلدون)
+- note: the European level/niveau covers a thing's standing, its field and its measure; Arabic splits these into منزلة/رتبة/درجة/مبلغ, باب/في + field, and قدر. Phase 2: one entry with sense-by-sense rewrites.
+
+## p85 · RULE · على الصعيد + adjective (on the … level)
+- cue: على الصعيد الأخلاقي، على الصعيد السياسي، على صعيد …
+- source: on the … level / front
+- ✗ لكنه على الصعيد الأخلاقي سيئ → ✓ أما أخلاقه فرديئة (author)
+- note: the author pairs الصعيد with المستوى as the same calque of level; the field is named directly with في or أما.
+
+## p86 · RULE · موقف = position, stance (اتخذ موقفًا معارضًا، موقفه من)
+- cue: اتخذ موقفًا، موقفًا معارضًا، موقف فلان من، ما موقفك من
+- source: took an opposing position / stance; his position on
+- ✗ اتخذ الخديوي موقفًا معارضًا لاتجاهات محمد عبده → ✓ خالف الخديوي محمدًا (author)
+- ✗ موقف الإمام أحمد من الحديث المرسل → ✓ قول الإمام أحمد ومذهبه في الحديث المرسل (author)
+- ✗ ما موقفك من كذا؟ → ✓ ما رأيك في كذا؟ / ما قولك في كذا؟ (ours, from the author's gloss مذهب، رأي، قول)
+- note: موقف is where one stands; English position/stance gave it the sense of opinion or school. The author notes even writers steeped in classical texts now use it.
+
+## p86 · RULE · اتجاه / اتجاهات = trends, orientation
+- cue: اتجاهات فكرية، اتجاهات العلماء في، سلك الاتجاه، خالف اتجاهات قومه، اتجاهاته نحو
+- source: trends, tendencies, approach
+- ✗ اتجاهات فكرية / اتجاهات العلماء في كذا → ✓ مذاهب فكرية / مذاهب العلماء في كذا (author's sense; ours for wording)
+- ✗ سلك الاتجاه العلمي → ✓ سلك النهج / السبيل العلمي (author's sense; ours for wording)
+- ✗ خالف اتجاهات قومه في الكلام واللباس → ✓ خالف طريقة قومه وعادتهم في الكلام واللباس (author's sense; ours for wording)
+- ✗ اتجاهات الشيخ نحو الأزهر → ✓ ما أراده الشيخ للأزهر / ما يميل إليه (author's sense; ours for wording)
+- note: اتجاه is literally facing a direction (اتجاه الطريق); English trends extended it to school, method, custom and inclination.
+
+## p86 · RULE · محافظ = conservative
+- cue: محافظ، محافظون، التيار المحافظ، بقي محافظًا
+- source: conservative
+- ✗ يصر على أن يبقى الأزهر محافظًا → ✓ … أن يبقى الأزهر على سنن أسلافه / متبعًا (ours, from the author's gloss)
+- note: محافظ is a keeper or guardian; the calque wants أهل الاتباع والاقتداء, those holding to their forebears' ways.
+
+## p86 · RULE · تيار / تيارات = current(s) of thought
+- cue: تيارات الثقافة، تيار فكري، التيار الإسلامي، تتسرب إليه تيارات
+- source: currents
+- ✗ لا تتسرب إليه تيارات الثقافة العصرية → ✓ ? (rewrite expected on p87)
+- note: تيار is a wave or flow of water; English current also means what a group says or holds.
+- open: discussion continues on p87; collect the author's rewrite and any remark on تتسرب (seep in)
+
+## p87 · EXAMPLE · تيار = school, sect
+- of: p86 تيار / تيارات = current(s) of thought
+- resolves: p86 open (تيارات rewrite)
+- ✗ التيار الأشعري / التيار الحنبلي / التيار المعتزلي → ✓ المذهب الأشعري / مذهب الحنابلة / مذهب المعتزلة (author's sense; ours for wording)
+- ✗ لا تتسرب إليه تيارات الثقافة العصرية → ✓ لا تدخله مذاهب أهل العصر وطرائقهم (ours)
+- note: the author glosses تيار as مذهب، طريقة، ملة، نحلة, and calls applying it to the classical schools a calque laid over the ancients themselves. He makes no remark on تتسرب.
+
+## p87 · RULE · تناغم / متناغم = harmony, in tune with
+- cue: تناغم، التناغم، في تناغم مع، متناغمان، ناغم بين
+- source: in tune with, in harmony with, harmonize
+- ✗ تناغم تفكير السيد أحمد واستعداد الرأي العام، فأنتج هذا التناغم حركة إصلاح → ✓ وافق رأي السيد أحمد ما تهيأ له الناس، فكان من ذلك … (ours)
+- ✗ أردنا فقط فعل الخير وتحقيق التناغم → ✓ إن أردنا إلا إحسانًا وتوفيقًا (author, النساء 62)
+- ✗ وفي تناغم مثالي معي → ✓ وموافقةً لي (author, ابن حزم)
+- ✗ كنتيجة للتناغم في المبادئ العقدية والمذهبية → ✓ لاتفاق في أصل النِّحلة والمذاهب (author, ابن حزم)
+- ✗ لأنه أراد أن يحفظ التناغم → ✓ حفظًا للألفة التي بها حفظ الكلمة (author, ابن خلدون)
+- ✗ حرصًا على التناغم → ✓ حرصًا على الاتفاق واجتماع الأهواء (author, ابن خلدون)
+- note: نغمة is the sound of voice or singing; the music sense came from English tune/harmony, and then "in tune with" was copied for agreement. Native: توافق، موافقة، اتفاق، اجتماع الرأي، ألفة، تساير الأهواء.
+
+## p88 · EXAMPLE · whole-sentence rewrite of the تناغم sample
+- of: p87 تناغم / متناغم = harmony, in tune with
+- ✗ تناغم تفكير السيد أحمد واستعداد الرأي العام المتنور → ✓ رأي السيد أحمد جاء موافقًا لما مالت إليه جماهير العقلاء (author; prefer this over our p87 rewrite)
+- note: the author says the calqued sentence is barely understood unless turned back into English, while his version is plain and familiar.
+
+## p88 · RULE · تفكير = thinking (a person's view)
+- cue: تفكير فلان، تفكيرك في هذه المسألة، طريقة تفكيره
+- source: thinking (= opinion, view)
+- ✗ تناغم تفكير السيد أحمد و… → ✓ رأي السيد أحمد … (author)
+- ✗ أردت معرفة تفكيرك في هذه المسألة → ✓ أردت معرفة رأيك في هذه المسألة (ours, from the author's gloss)
+- note: Arabic تفكير is reflection, turning a matter over (إعمال النظر); English thinking also names the opinion one reaches, which Arabic calls رأي.
+
+## p88 · ACCEPTED · تفكير = reflection, deliberation
+- cue: التفكير في الأمر، أطال التفكير
+- ✓ إذا رُمتَه فهو مستجمع بديهتُه مثل تفكيره (author, أشجع السلمي)
+- note: تفكير for the act of pondering is native; flag it only when it stands for the resulting opinion.
+
+## p88 · RULE · استعداد = readiness, willingness
+- cue: استعداد الرأي العام، استعداد الناس لـ، لديه استعداد لقبول
+- source: readiness (= willingness, inclination, consent)
+- ✗ استعداد الرأي العام المتنور → ✓ ما مالت إليه جماهير العقلاء (author)
+- note: استعداد is getting ready for something; the sense "what one wants and leans toward, glad consent" is English readiness.
+
+## p88 · RULE · المتنور / الرأي العام المتنور = enlightened (public opinion)
+- cue: المتنور، المتنورون، الرأي العام المتنور، الطبقة المتنورة
+- source: enlightened (public opinion)
+- ✗ الرأي العام المتنور → ✓ جماهير العقلاء (author)
+- ✗ المتنورون من أبناء الأمة → ✓ العقلاء / الأذكياء / أهل العلم والرأي (author's glosses; ours for wording)
+- note: the European "enlightened" for the sensible and educated; Arabic says عقلاء، أهل العلم والرأي.
+- open: الرأي العام alone is not ruled on here; check whether the author treats it elsewhere
+
+## p88 · RULE · حركة إصلاح / نقطة تحول
+- cue: حركة إصلاح، حركة إصلاحية، نقطة تحول، نقطة تحوّل في تاريخ
+- source: reform movement, turning point
+- ✗ أنتج حركة إصلاح تعد نقطة تحول في تاريخ المسلمين في الهند → ✓ ? (author lists them as English phrases without a rewrite)
+- open: no alternative given; phase 2 may supply one (e.g. دعوة إلى الإصلاح; فكان ذلك فاتحة عهد جديد) or leave as illustration
+
+## p89 · RULE · الشخصية = personality (a person's character)
+- cue: شخصيته، شخصية قوية، شخصية فلان، الشخصية الإسلامية، سيرته وشخصيته
+- source: personality (from person)
+- ✗ شخصيته كريمة / ظريفة → ✓ فلان نفسه كريمة / ظريفة (author)
+- ✗ له شخصية فاسدة → ✓ فلان فاسد الطبع (author)
+- ✗ السفر يكشف عن شخصيات الناس → ✓ السفر يُسفر عن أخلاق الناس (author)
+- ✗ الحسن البصري: سيرته، شخصيته، تعاليمه وآراؤه → ✓ … سيرته وأخلاقه وآراؤه (ours)
+- note: English built personality from person and Arabic copied it as شخصية; the author says a literal امرئية would have been rejected outright. Native words for a person's nature: طبع، خُلُق، نفس، سجية، شمائل.
+- open: discussion continues on p90 (قسطاكي الحمصي's poem and تعاليم); collect any accepted use of شخصية (a notable person?) and the verdict on تعاليم
+
+## p89 · RULE · قادرًا على أن يملك الانتباه / يحسن اجتذاب (quoted sample)
+- cue: يملك الانتباه، يستحوذ على الانتباه، يحسن اجتذاب
+- source: command attention; good at attracting (followers)
+- ✗ أما في الحلقة الواسعة فكان قادرًا على أن يملك الانتباه → ✓ ? (in the sample; not yet commented)
+- note: recorded for recall; compare p62 كان قادرًا → يقدر.
+- open: check on p90+ whether the author comments on these phrases
