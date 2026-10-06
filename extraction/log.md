@@ -54,3 +54,9 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 50 (p 52) · EXAMPLE×1 RULE×1 (حروف المعاني opens: أو for أي; أو after negation)
 - pdf 51 (p 53) · RULE×3 (أو in تسوية; phrase for a particle; نحو/تجاه)
 - pdf 52 (p 54) · RULE×2 (من خلال/عبر; ضد); end of حروف المعاني, extra page to finish the section
+- pdf 53 (p 55) · METHOD×1 (opens الإماتة والاستحياء والتغليب: النعت السببي fades)
+- pdf 54 (p 56) · CRITERION×1 ACCEPTED×1 (defines الإماتة/الاستحياء/التغليب; النعت السببي attested)
+- pdf 55 (p 57) · ACCEPTED×1 CRITERION×1 (النعت السببي attestations; English compound adj ≈ صفة مشبهة مضافة)
+- pdf 56 (p 58) · RULE×2 (النعت السببي replaced by relative/بـ; بعض for تنكير); resolves p57 open in place
+- pdf 57 (p 59) · EXAMPLE×1 RULE×1 (بعض + mass noun; opens حروف الاستقبال)
+- pdf 58 (p 60) · EXAMPLE×4 RULE×2 (سـ/سوف table from البقرة; سوف لن; بالتأكيد; تمّ; causative; أو لا). Extra page to finish حروف الاستقبال

@@ -532,3 +532,96 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ يطلب المساعدة ضد أخيه من الأمراء → ✓ يستعين بالأمراء على أخيه (author)
 - ✗ التحذير ضد الأخطاء قبل وقوعها → ✓ التحذير من الأخطاء (author)
 - note: ضد is a noun (opposite), not a particle. Arabic uses the particle the verb governs: استعان بـ … على، حذّر من.
+
+## p55 · METHOD · revive constructions English lacks (الإماتة): النعت السببي
+- cue: (absence) noun + plural relative clause/predicate where a نعت سببي would fit: قوم أفضالهم كثيرة وصدورهم رحبة
+- source: English has no adjective agreeing with the head noun while describing something of its own (no "causal epithet")
+- ✓ أولئك قوم كثيرةٌ أفضالهم عليّ، رحبةٌ صدورهم، عاليةٌ هممهم (author) ← instead of the only pattern translation offers: قوم أفضالهم كثيرة وصدورهم رحبة وهممهم عالية
+- see: p44 النعت السببي (ACCEPTED)
+- note: the author names a second harm beyond calquing: words and structures with no English or French counterpart fade from MSA because writers who learned their Arabic from translations never meet them. Phase 2: a section of native constructions the rewriter should reach for, starting with النعت السببي.
+
+## p56 · CRITERION · الإماتة / الاستحياء / التغليب defined
+- note: three ways translation thins Arabic without producing a single wrong sentence. الإماتة: a native form with no European counterpart drops out (example given: نون النسوة, still alive in some Gulf colloquial). الاستحياء: of several sound ways to say a thing, only the one matching English/French survives. التغليب: the matching option becomes dominant, even when it was rare in classical usage and the dropped one was the norm. Phase 2: these are not errors to flag one by one but frequency signals: a text where every choice mirrors English is عرنجية even if each sentence passes. Rewrites should prefer the native, now-neglected option.
+
+## p56 · ACCEPTED · النعت السببي: Quran and hadith instances
+- of: p44 النعت السببي
+- ✓ ثمراتٍ مختلفًا ألوانُها؛ القرية الظالمِ أهلُها؛ هو الطَّهورُ ماؤه الحِلُّ ميتتُه؛ أناسٌ منّا حديثةٌ أسنانُهم (author, from Quran and hadith)
+- note: classical attestation for the construction; never flag it, and offer it as a rewrite for "noun + التي/الذي + its X is Y".
+
+## p57 · ACCEPTED · النعت السببي in 19th-century prose
+- of: p44 النعت السببي
+- ✓ مقامٌ خطيرٌ جدًّا، صعبٌ سيرُه، كثيرةٌ آفاتُه؛ ومنهم كثيرون مقطوعةٌ أخبارُهم عنّا (author, quoting pre-translation-era writers)
+- note: used without effort until the late 19th century; writers after the translation wave find it strange. Its rarity today is a symptom (الإماتة), not a sign that it is stilted.
+
+## p57 · ACCEPTED · الصفة المشبهة + إضافة (حادّ الأنف), fading with English
+- cue: صفة مشبهة مضافة إلى فاعلها: الأحمر الشعر، حادّ الأنف، عظيم المنظر
+- source: red-haired, sharp-nosed, important-looking
+- note: English has no نعت سببي and only a rare near counterpart of this construction (Dickens: red-haired, sharp-nosed). The author says this صفة مشبهة pattern has also grown rare in Arabic because it is rare in English (الإماتة). Sound Arabic; never flag it, and offer it as a rewrite (رجلٌ حادُّ الأنف for رجل أنفه حاد / ذو أنف حاد).
+
+## p58 · RULE · relative clause or بـ phrase where a نعت سببي belongs
+- cue: noun + بألوان/بـ + adjective; noun + التي/الذي + its X + predicate (القرية التي أهلها ظالمون)
+- source: "of" phrases and whose/which clauses (fruits of different colours; the town whose people are oppressors)
+- ✗ ثمار بألوان مختلفة → ✓ ثمرات مختلفًا ألوانُها (author, Quran)
+- ✗ القرية التي أهلها ظالمون → ✓ القرية الظالمِ أهلُها (author, Quran)
+- note: translations of the Quran into English show how the construction gets replaced; the same replacement in Arabic prose is the الإماتة of النعت السببي. Phase 2: soft flag (style), since the relative clause is grammatical; the point is to offer the shorter native form.
+
+## p58 · RULE · بعض + noun for the indefinite (تنكير)
+- cue: بعض + plural noun as the subject or object of a narrative sentence: أعجب بعض الناس، اقتنيت بعض الكتب، مرّ ببعض الغلمان، أعلّمك بعض الكلمات
+- source: some (some people, some books)
+- ✗ كان هناك بعض الرجال من الجن → ✓ كان رجالٌ من الإنس يعوذون برجال من الجن (author, Quran)
+- ✗ أعلّمك بعض الكلمات → ✓ أعلّمك كلماتٍ (author, hadith)
+- ✗ مرّ ببعض الغلمان → ✓ أتى على غلمانٍ (author, hadith)
+- ✗ أُعجب بعض الناس بكذا → ✓ أُعجب ناسٌ بكذا (ours)
+- note: Arabic marks "unspecified" with tanween alone; English needs "some", so translation reaches for بعض. The author calls بعض + noun correct but rare in classical usage, now the default (التغليب). Phase 2: soft flag when بعض carries nothing beyond indefiniteness; keep it when partitiveness matters (بعضهم دون بعض).
+
+## p59 · EXAMPLE · بعض + mass noun
+- of: p58 بعض + noun for the indefinite (تنكير)
+- cue: بعض الماء، بعض الوقت، بعض المال، بعض الطعام، بعض القهوة
+- source: some water, some time, some money (uncountable nouns)
+- ✗ سقاه بعض الماء → ✓ سقاه ماءً (author)
+- ✗ سكنت بمكة بعض الوقت → ✓ سكنت بمكة وقتًا (author)
+- ✗ سأله بعض المال → ✓ سأله مالًا (author)
+- note: classical usage puts tanween on mass nouns; the بعض form wins today only because it matches English (the author's example of الاستحياء + التغليب). Colloquial keeps the native form (صب لي ماء، جلست وقت أنتظرك، جانا أمس رجال من مكة), so per p44 the rewrite is safe. "جلست بعض الوقت أنتظرك" sounds affected even to ordinary speakers.
+
+## p59 · RULE · overuse of سـ / سوف
+- cue: سـ / سوف + مضارع where the context already makes the future clear (after إن، إذا، لعل, in promises, threats, results)
+- source: will / shall
+- ✗ ? → ✓ ? (verses from سورة البقرة follow on p60)
+- note: the author allows سـ/سوف but says the bare مضارع is the classical norm for the future; translation made the marked form dominant (التغليب) because English requires "will".
+- open: collect the author's examples and any limits on p60
+
+## p60 · EXAMPLE · سـ / سوف where Arabic needs none (Quran vs. literal back-translation of English versions)
+- of: p59 overuse of سـ / سوف
+- ✗ هم سوف لن يؤمنوا → ✓ لا يؤمنون (author, البقرة 6)
+- ✗ ثم سيجعلكم تموتون، ثم سيعيدكم إلى الحياة → ✓ ثم يميتكم ثم يحييكم (author, البقرة 28)
+- ✗ يؤمنون أنهم سيلقون ربهم وأنهم سيعودون إليه → ✓ يظنون أنهم ملاقو ربهم وأنهم إليه راجعون (author, البقرة 46)
+- ✗ عذابهم سوف لن يخفّف → ✓ فلا يخفّف عنهم العذاب (author, البقرة 86)
+- note: the bare مضارع, the اسم فاعل (ملاقو، راجعون) and لا + مضارع all carry the future in Arabic; English must say "will". The author's test: compare pre-translation prose, where سـ/سوف is rare, with modern prose, where it is everywhere.
+- resolves: p59 overuse of سـ / سوف (examples)
+
+## p60 · RULE · سوف لن / سـ + negation
+- cue: سوف لن، سوف لا، لن + سـ
+- source: will not
+- ✗ سوف لن يؤمنوا → ✓ لن يؤمنوا / لا يؤمنون (ours, from author's table)
+- note: لن already negates the future; stacking سوف on it copies "will" + "not". Appears twice in the author's literal back-translation table.
+
+## p60 · RULE · بالتأكيد for the Arabic emphatic (لام القسم + نون التوكيد)
+- cue: بالتأكيد / بكل تأكيد + verb
+- source: definitely, certainly
+- ✗ ستجدهم بالتأكيد أحرص الناس على الحياة → ✓ ولتجدنّهم أحرص الناس على حياة (author, البقرة 96)
+- note: Arabic builds emphasis into the verb (لـ … ـنّ، إنّ، قد); English bolts on an adverb. From the author's back-translation table.
+
+## p60 · EXAMPLE · تمّ + مصدر for the passive (back-translation)
+- of: p45 تمّ + مصدر
+- ✗ ثم سيتم إرجاعكم إليه → ✓ ثم إليه تُرجعون (author, البقرة 28)
+
+## p60 · EXAMPLE · causative and light-verb paraphrase for a single verb (back-translation)
+- cue: منحه الحياة، جعله يموت، أعاده إلى الحياة
+- source: gave you life; make you die; bring you back to life
+- ✗ منحكم الحياة … سيجعلكم تموتون … سيعيدكم إلى الحياة → ✓ أحياكم … يميتكم … يحييكم (author, البقرة 28)
+- note: Arabic has the causative stem (أحيا، أمات); English needs make/bring + verb or give + noun. Phase 2: link with light-verb candidates (قام بـ etc.).
+
+## p60 · EXAMPLE · أو لا for أم لم in تسوية
+- of: p53 أو in a تسوية (جاء أو لم يجئ)
+- ✗ إذا حذّرتهم أو لا → ✓ سواءٌ عليهم أأنذرتهم أم لم تنذرهم (author, البقرة 6)
+- note: English "whether … or not"; Arabic uses سواء + همزة + أم.
