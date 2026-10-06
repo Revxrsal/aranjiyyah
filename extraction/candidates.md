@@ -3676,3 +3676,87 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 ## p213 · METHOD · parallel-read classical works that exist in English translation
 - of: p204 reverse-translate with parallel classical texts
 - note: many classical Arabic books have English translations (hadith collections, سيرة ابن هشام, البخلاء, الأموال, تاريخ الطبري, نهج البلاغة, طوق الحمامة, مقدمة ابن خلدون, رحلة ابن بطوطة, تفسير ابن كثير, among others), so a learner can practise the drill on whole books. Some (البخلاء، الأخلاق والسير، مدارج السالكين) exist as Arabic audiobooks: listen to the Arabic while following the English text by eye, to tie each English construction to its native Arabic counterpart.
+
+## p214 · METHOD · look up the English word's definition, then phrase that meaning in Arabic
+- of: p207 شعور باحترام الذات
+- note: new section (البحث عند الترجمة). When an English word's sense doesn't land, read its definition in an English dictionary (e.g. self-respect: holding yourself in esteem as one who knows their worth; being proud of your standing and abilities) and ask how Arabic would express that definition. Dropping the English word and working from the definition yields many native words (أنفة، عزة نفس …) instead of a one-to-one coinage. The classical works in English translation (p213) can also lead to the right usage.
+
+## p214 · METHOD · search Quran translations for the English word to find the Arabic usage
+- note: to see how Arabic expresses a meaning English owns a stock word for, search English translations of the Quran (the author points to islamawakened.com, which gathers many) for that word, then read the Arabic verse it renders. The verses give native alternatives to the calque.
+
+## p214 · RULE · ناضج / نضج for people (mature, maturity)
+- cue: ناضج / ناضجة / نضج (of a person) / لاحظت نضجًا فيه
+- source: mature / maturity
+- ✗ فإذا لاحظتم نضجًا فيهم فأعيدوا ممتلكاتهم إليهم → ✓ فإن آنستم منهم رشدًا فادفعوا إليهم أموالهم (author, النساء 6; English: if you noticed maturity in them)
+- note: describing people as ناضج is an English-led usage that now dominates; the Quran says رُشد (and آنس for "noticed"). Also visible: ممتلكات (properties) for أموال, and أعاد إلى (give back) for دفع إلى.
+- open: the Quran table for mature continues on p215; collect the other verses and their words (بلغ أشده، بلغ النكاح …?)
+
+## p215 · EXAMPLE · ناضج / نضج (mature): rest of the Quran table
+- of: p214 ناضج / نضج for people
+- ✗ حينما بلغ النضج أعطيناه الحكم والمعرفة → ✓ ولمّا بلغ أشُدَّه آتيناه حكمًا وعلمًا (author, يوسف 22)
+- ✗ فربك أراد لهما أن يبلغا النضج ويستخرجا كنزهما → ✓ فأراد ربك أن يبلغا أشدّهما ويستخرجا كنزهما (author, الكهف 82)
+- ✗ لا تعطوا أولئك غير ناضجي العقول ممتلكاتكم → ✓ ولا تؤتوا السفهاء أموالكم (author, النساء 5; immature mind)
+- note: native words for the senses English bundles under (im)mature: رُشد، بلغ أشُدّه، سفيه. resolves: p214 open. Other shifts in the back-translations: حينما (when) for لمّا; كوسيلة للدعم (as a means of support) for قيامًا; أعطوهم نصائح جيدة (give them good advice) for قولوا لهم قولًا معروفًا.
+
+## p215 · RULE · قناعة / اقتنع (conviction, convince)
+- cue: قناعة / قناعات / اقتنع / مقتنع / لدي قناعة
+- source: conviction / convince(d)
+- ✗ ? (examples follow on p216)
+- note: the usual rendering of conviction/convince with قناعة/اقتنع is mostly a translation coinage or an English-dominated usage (قناعة classically means contentment). The author points to hadith translations (sunnah.com) as the place to find native equivalents.
+- open: the hadith table for convince/conviction follows on p216; collect the Arabic words it yields (يقين، أيقن، اطمأن …?)
+
+## p215 · METHOD · search hadith translations too
+- of: p214 search Quran translations for the English word
+- note: besides Quran translations, search English hadith translations (e.g. sunnah.com) for the English word and read the Arabic matn it renders.
+
+## p216 · EXAMPLE · قناعة (conviction): hadith table
+- of: p215 قناعة / اقتنع
+- ✗ أي أحد يتلوها بقناعة في الصباح ويموت خلال ذلك اليوم سوف يدخل الجنة → ✓ فإن قالها حين يُصبح موقنًا بها فمات دخل الجنة (author, hadith original)
+- ✗ لأنه كان عندهم قناعة أن الدعوات والتضرعات يتم قبولها في هذه المدينة → ✓ وكانوا يرون أن الدعوة في ذلك البلد مستجابة (author)
+- ✗ الذي تم قوله سابقًا فقط لاختبار قوة قناعتكم → ✓ إني قلت مقالتي آنفًا أختبر بها شدّتكم على دينكم (author)
+- note: native words for conviction here: موقن/يقين، يرى أنّ، الشدة على الدين. resolves: p215 open (hadith table). Other shifts in the back-translations: أي أحد … سوف (whoever … shall, cf. p205 كل من … سوف); يتم قبولها / تم قوله (p45 تمّ) for مستجابة / قلت; كان الأمر صعبًا عليهم (it was hard for) for فشقّ عليهم; عندما دعا for إذ دعا (p150); كرههم تجاه الإسلام (hatred towards, p53 تجاه) for نفرتهم; عندما فقد الأمل من اعتناقهم الإسلام (lost the hope of) for أيس من الإيمان; أمر أن يرجعوهم إلى حضرته (brought back in audience) for ردّوهم عليّ; سابقًا (already) for آنفًا.
+
+## p217 · RULE · closing list of English-led renderings to replace by searching the classics
+- note: the author's final list of renderings a careful writer shouldn't settle for. Each should be checked against how the classical authors said it. Already recorded ones point back; the new ones get their own blocks below.
+- conviction → قناعة (of: p215)
+- role → الدور (of: p31 لعب دورًا)
+- according → وفقًا (of: p109 وفقًا لـ)
+- personal / personally → شخصي، شخصيًا (new, below)
+- lifestyle → أسلوب حياة (of: p116 نمط حياة / أسلوب حياة)
+- attractive → جذّاب (new, below)
+- under these circumstances → تحت هذه الظروف (new, below)
+- weak point → نقطة ضعف (new, below)
+
+## p217 · RULE · شخصي / شخصيًا (personal, personally)
+- cue: شخصيًا / بشكل شخصي / رأيي الشخصي / أنا شخصيًا / حياته الشخصية
+- source: personal / personally
+- ✗ أنا شخصيًا أرى أن … → ✓ (ours) أمّا أنا فأرى أن … / وأرى أن …
+- ✗ قابلته شخصيًا → ✓ (ours) لقيته بنفسي / لقيته
+- note: listed by the author with no example; Arabic marks emphasis on the self with بنفسه/عينه, أمّا أنا, or leaves it to context. Cf. p89 الشخصية = personality.
+
+## p217 · RULE · جذّاب (attractive)
+- cue: جذّاب / جذّابة / جذابًا
+- source: attractive
+- ✗ وجه جذّاب / عرض جذّاب → ✓ (ours) وجه مليح / حسن، عرض مُغرٍ / يستهوي
+- note: listed by the author with no example; the p153 Quran table already shows يبدو جذابًا for زُيّن (line 2600). Native options: حسن، مليح، فاتن، يأخذ بالقلب، يستهوي، زُيّن له.
+
+## p217 · RULE · تحت هذه الظروف / في ظل هذه الظروف (under these circumstances)
+- cue: تحت هذه الظروف / تحت ظروف / في ظل هذه الظروف / تحت أي ظرف
+- source: under these circumstances / under any circumstances
+- ✗ تحت هذه الظروف لا يمكننا الاستمرار → ✓ (ours) والحال هذه لا نستطيع المضي / وعلى هذه الحال …
+- ✗ لا تفعل ذلك تحت أي ظرف → ✓ (ours) لا تفعل ذلك أبدًا / بحال من الأحوال
+- note: listed by the author with no example; the preposition تحت copies under, and Arabic uses الحال (والحال هذه، على هذه الحال، والأمر كذلك).
+
+## p217 · RULE · نقطة ضعف / نقاط القوة والضعف (weak point)
+- cue: نقطة ضعف / نقاط ضعف / نقاط القوة والضعف / نقطة قوة
+- source: weak point / strengths and weaknesses
+- ✗ نقطة ضعفه الوحيدة هي … → ✓ (ours) ولا يُؤتى إلا من قِبَل … / عيبه الوحيد …
+- ✗ ناقشنا نقاط القوة والضعف في الخطة → ✓ (ours) ناقشنا ما في الخطة من قوة وضعف / محاسن الخطة ومساوئها
+- note: listed by the author with no example; نقطة for point is the calque. Arabic: عيب، مَقتل، ثُلمة، مأخذ، محاسن ومساوئ.
+
+## p217 · METHOD · use the الرصائف parallel corpus (rasaif.com)
+- of: p214 search Quran translations; p215 search hadith translations
+- note: rasaif.com aligns classical Arabic books sentence by sentence with their English translations. Search it for an English word or phrase to see how classical authors expressed that meaning, then use that wording in place of the modern calque.
+
+## p217 · METHOD · the end goal is an ear trained on Arabic
+- note: closing advice. Long reading of classical Arabic builds a sense that judges for you, so that when you look at a European text you can see how to recast it in an Arabic mould. Corpora like الرصائف only help with words and constructions that look alike. End of the book.

@@ -213,3 +213,7 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 209 (p 211) · drill: English of Ibn Khaldun's Almohad fleet passage, cont. (original to follow)
 - pdf 210 (p 212) · METHOD×1 (Ibn Khaldun original vs Rosenthal's English; continues p213)
 - pdf 211 (p 213) · EXAMPLE×1 METHOD×1 (end of Ibn Khaldun drill; list of classical works in English for parallel reading)
+- pdf 212 (p 214) · METHOD×2 RULE×1 (new section البحث عند الترجمة; mature → رشد; Quran table starts)
+- pdf 213 (p 215) · EXAMPLE×1 RULE×1 METHOD×1 (mature table ends; conviction/convince → hadith table starts)
+- pdf 214 (p 216) · EXAMPLE×1 (conviction hadith table: موقن، يرى أن)
+- pdf 215 (p 217) · RULE×5 METHOD×2 (closing list: conviction, role, according, personal, lifestyle, attractive, under these circumstances, weak point; rasaif.com; end of book)
