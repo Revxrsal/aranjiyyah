@@ -26,7 +26,7 @@
 
 ## What is عرنجية?
 
-**عرنجية** (*Aranjiyyah*, from عربية + إنجليزية) is Arabic that is correct on
+**عرنجية** (*Aranjiyyah*, from العربية الفرنجية, "Frankish Arabic") is Arabic that is correct on
 the surface and foreign underneath. Every word is Arabic and every case ending
 is right, but the sentence frame, the word sense, the collocation or the image
 was copied from English or French.
