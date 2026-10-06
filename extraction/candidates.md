@@ -2670,3 +2670,141 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ كيف يتفق كل هذا مع دين وتعليم المأمون المعروف جيدًا، أو مع تقليده لطريقة الحياة الخاصة بأسلافه الخلفاء الراشدين، أو مع تبنّيه طريقة حياة أولئك الأركان للإسلام، الخلفاء الأربعة، … → ✓ وأين هذا كله من حال المأمون المعروفة في دينه وعلمه واقتفائه سنن الخلفاء الراشدين من آبائه وأخذه بسير الخلفاء الأربعة … (author, the original)
 - note: shifts visible: كيف يتفق … مع (how does … accord with) for وأين هذا من; دين وتعليم المأمون (two nouns sharing one مضاف إليه; comment 1 likely treats it) for حال المأمون … في دينه وعلمه; المعروف جيدًا (well-known) for المعروفة; طريقة الحياة (way of life) for سنن / سير; تبنّيه (p29 تبنّى) for أخذه بـ; أولئك الأركان للإسلام (those pillars of Islam) for the plain name. Comment (1) is marked at دين وتعليم المأمون.
 - open: the table and comment (1) on دين وتعليم المأمون continue on p159
+
+## p159 · EXAMPLE · back-translation of Ibn Khaldun's Muqaddimah (al-Ma'mun, continued)
+- of: p151 METHOD back-translation of classical prose
+- ✗ أو مع احترامه للعلماء الدينيين، أو مراعاته في صلواته وممارساته القانونية للمعايير التي وُضعت من قبل الله → ✓ ومناظرته العلماء، وحفظه لحدود الله تعالى في صلواته وأحكامه (author, the original)
+- ✗ كيف يمكن أن يكون صحيحًا أن يتصرف مثل أحد هؤلاء الأوغاد الفساق الذين يسلّون أنفسهم بالتجول في الليل، ودخول منازل غريبة في الظلام، والمشاركة في ملتقيات ليلية بطريقة العشاق البدو! → ✓ فكيف تصحّ عنه أحوال الفساق المستهترين في التطواف بالليل وطروق المنازل وغشيان السمر، سبيل عشاق الأعراب (author, the original)
+- ✗ هناك قصص كثيرة كهذه، وهي دائمًا تظهر في أعمال المؤرخين → ✓ وأمثال هذه الحكايات كثيرة، وفي كتب المؤرخين معروفة (author, the original)
+- ✗ الحافز لاختراعها ونقلها هو ميل عام إلى اللذات المحرمة ولتلطيخ سمعة الآخرين. يبرر الناس انقيادهم للذة بالاستشهاد برجال ونساء من الماضي → ✓ وإنما يبعث على وضعها والحديث بها الانهماك في اللذات المحرمة وهتك قناع المخدرات، ويتعللون بالتأسي بالقوم فيما يأتونه من طاعة لذاتهم (author, the original)
+- note: shifts visible: وُضعت من قبل الله (passive + agent, p60/p113) for حدود الله; كيف يمكن أن يكون صحيحًا أن (how could it be correct that) for كيف تصحّ عنه; يسلّون أنفسهم (amuse themselves); بطريقة العشاق (in the manner of) for سبيلَ عشاق, an accusative of manner; هناك قصص كثيرة (there are many) for أمثال هذه كثيرة (p147 هناك); دائمًا تظهر في (always cropping up) for معروفة في; الحافز لـ … هو (the incentive for X is Y) for يبعث على X Y, a verb; ميل عام (general inclination); رجال ونساء من الماضي (men and women of the past) for القوم. Comments (2)-(4) are marked at كيف يمكن أن يكون صحيحًا, هناك قصص, and تظهر.
+- open: collect the author's comments (1)-(4) after the table ends
+
+## p159 · RULE · نسبة with ـيّ for a genitive (العلماء الدينيون)
+- cue: العلماء الدينيون/الدينيين، علماء دينيون
+- source: religious scholars
+- ✗ احترامه للعلماء الدينيين → ✓ علماء الدين / علماء الملة / العلماء (ours, from the original)
+- note: the author's footnote says the translator misread the original here, but that the English structure (religious + scholars, an adjective where Arabic uses an إضافة) does occur in عرنجية. Weak cue for a broader pattern: a relative adjective (ـيّ) standing in for an English attributive noun.
+
+## p160 · EXAMPLE · back-translation of Ibn Khaldun's Muqaddimah (al-Ma'mun, continued)
+- of: p151 METHOD back-translation of classical prose
+- ✗ لذلك، غالبًا يبدون متحمسين جدًا لمعلومات كهذه، ويكونون متيقظين للعثور عليها عندما يتصفحون صفحات الأعمال المنشورة → ✓ فلذلك تراهم كثيرًا ما يلهجون بأشباه هذه الأخبار وينقّرون عنها عند تصفحهم لأوراق الدواوين (author, the original)
+- ✗ إذا كانوا سيتبعون مثال رجال الماضي في نواحٍ أخرى وفي صفات الكمال التي كانت لهم والتي كانوا بها معروفين جيدًا، سيكون أفضل لهم، لو كانوا يعرفون → ✓ ولو ائتسوا بهم في غير هذا من أحوالهم وصفات الكمال اللائقة بهم المشهورة عنهم لكان خيرًا لهم لو كانوا يعلمون (author, the original)
+- ✗ لقد انتقدت مرةً أميرًا ملكيًا لكونه حريصًا جدًا أن يتعلم أن يغني ويلعب على الأوتار. قلت له إنها ليست أمرًا ينبغي أن يهمه ولا يليق بمنصبه. أحالني إلى إبراهيم بن المهدي الذي كان الموسيقار الرائد والمغني الأفضل في وقته → ✓ ولقد عذلتُ يومًا بعض الأمراء من أبناء الملوك في كلفه بتعلم الغناء وولوعه بالأوتار، وقلت له: ليس هذا من شأنك ولا يليق بمنصبك. فقال لي: أفلا ترى إلى إبراهيم بن المهدي كيف كان إمام هذه الصناعة ورئيس المغنين في زمانه؟ (author, the original)
+- note: shifts visible: غالبًا يبدون متحمسين جدًا (often appear very eager, p156 يبدو) for كثيرًا ما يلهجون; كان + صفة (يكونون متيقظين، كانوا معروفين، p62) for a verb; عندما يتصفحون for عند تصفحهم; صفحات الأعمال المنشورة for أوراق الدواوين; يتبعون مثال (follow the example of) for ائتسوا بـ; في نواحٍ أخرى (in other respects) for في غير هذا من أحوالهم; معروفين جيدًا (well known) for المشهورة عنهم; سيكون أفضل لهم (it would be better for them) for لكان خيرًا لهم, with سـ in a conditional answer; انتقدت مرةً (once) for عذلتُ يومًا; أميرًا ملكيًا (royal prince) for بعض الأمراء من أبناء الملوك (cf. p159 الدينيين); لكونه حريصًا جدًا أن (for being so eager to) for في كلفه بـ; يلعب على الأوتار (play the strings) for ولوعه بالأوتار; ليست أمرًا ينبغي أن يهمه (not a matter that should concern him) for ليس هذا من شأنك, with indirect speech for the original's direct quote; أحالني إلى (referred me to) for أفلا ترى إلى; الموسيقار الرائد والمغني الأفضل في وقته (the leading musician and best singer in his time) for إمام هذه الصناعة ورئيس المغنين في زمانه, with الأفضل as an attributive superlative.
+- open: collect the author's comments after the table ends
+
+## p160 · RULE · الأفضل / الأكبر as an attributive adjective after the noun (المغني الأفضل)
+- cue: الـ + اسم + الأفضل/الأكبر/الأحسن/الأهم
+- source: the best singer, the biggest …
+- ✗ المغني الأفضل في وقته → ✓ أفضل المغنين في زمانه / رئيس المغنين (ours; the original has رئيس المغنين)
+- note: Arabic forms the superlative by إضافة to the noun (أفضل المغنين، أكبر مدينة); placing أفعل التفضيل with الـ after the noun follows English word order. Low confidence: the author only highlights it in the table; check whether he comments on it.
+- open: confirm against the author's comments or a later treatment of اسم التفضيل
+
+## p161 · EXAMPLE · back-translation of Ibn Khaldun's Muqaddimah (al-Ma'mun, end of table)
+- of: p151 METHOD back-translation of classical prose
+- ✗ أجبته: بحق السماء، لماذا لا تتبع مثال أبيه أو أخيه؟ ألا ترى كيف منع ذلك النشاط إبراهيم من الحصول على منصبهم؟ والأمير، مع ذلك، كان أصمّ عن انتقادي واستدار بعيدًا → ✓ فقلت له: يا سبحان الله! وهلّا تأسّيت بأبيه أو أخيه، أوما رأيت كيف قعد ذلك بإبراهيم عن مناصبهم؟ فصمّ عن عذلي وأعرض (author, the original)
+- note: shifts visible: بحق السماء (for heaven's sake) for يا سبحان الله; لماذا لا (why do you not) for هلّا; تتبع مثال (follow the example of, also p160) for تأسّى بـ; منع … من الحصول على (prevented from attaining) for قعد به عن; مع ذلك (however) mid-clause for the plain فـ; كان أصمّ عن (was deaf to) for صمّ عن; استدار بعيدًا (p141) for أعرض. Comment (5) is marked at أجبته: بحق السماء.
+- open: collect comment (5) on بحق السماء
+
+## p161 · RULE · جيدًا after verbs of knowing, and المعروف جيدًا (well-known)
+- cue: معروف جيدًا، من المعروف جيدًا أن، تعرف/تعلم/تدرك جيدًا، غير معروف جيدًا
+- source: well-known, you know well, it is well known that
+- ✗ دين المأمون المعروف جيدًا → ✓ حال المأمون المعروفة في دينه (author, Ibn Khaldun)
+- ✗ صفات الكمال التي كانوا بها معروفين جيدًا → ✓ صفات الكمال المشهورة عنهم (author, Ibn Khaldun)
+- ✗ من المعروف جيدًا أن العلويين كانوا بعيدين جدًا عن التوحد فيما بينهم → ✓ من المعروف أن العلويين … / معلومٌ أنّ … (ours)
+- ✗ وهذا الكتاب غير معروف جيدًا → ✓ وهذا الكتاب غير مشهور / قليلٌ من يعرفه (ours)
+- ✗ أنت تعلم جيدًا (back-translating لقد علمتَ ما أنزل هؤلاء إلا رب السماوات والأرض) → ✓ لقد علمتَ (author, Quran)
+- ✗ ألستَ تدرك جيدًا؟ (back-translating هل تعلمنّ أني أحب الله ورسوله, Ka'b) → ✓ هل تعلمنّ (author, hadith)
+- note: English pads know and known with well; Arabic معروف and مشهور already carry it, and Arabic marks certainty with لقد or the emphatic نون, not an adverb. The author says the English overuse جيدًا in this sense and modern writers copy them.
+
+## p161 · RULE · added يمكن (كيف يمكن أن يكون صحيحًا أن)
+- cue: كيف يمكن أن يكون صحيحًا أن، يمكن أن يكون، كيف يمكن
+- source: how could it be correct that, could, can
+- resolves: p137 open (author's treatment of يمكن as an overused word, begins)
+- ✗ كيف يمكن أن يكون صحيحًا أن يتصرف مثل … → ✓ فكيف تصحّ عنه … (author, Ibn Khaldun)
+- note: the translator added يمكن where the original has a plain verb (يصحّ). The author says overusing يمكن and its sisters يستطيع and يقدر is a little-noticed style that comes from English modal verbs (can, could); a plain verb usually says the same.
+- open: the comment continues on p162; collect the rest of the يمكن / يستطيع / يقدر discussion
+
+## p162 · EXAMPLE · added يمكن / يستطيع (can, could)
+- of: p161 RULE added يمكن
+- ✗ يمكنك أن تجد هذا الكتاب في مكة → ✓ تلقى هذا الكتاب في مكة (author, colloquial) / تجد هذا الكتاب في مكة (ours)
+- ✗ لا يمكنك الدخول إلا بثوب → ✓ ما تدخل إلا بثوب (author, colloquial) / لا تدخل إلا بثوب (ours)
+- ✗ كيف يمكن أن يكون لي غلام → ✓ أنّى يكون لي غلام (author, Quran)
+- ✗ لا يمكنكم أن تحصوها → ✓ لا تحصوها (author, Quran)
+- ✗ لا يمكنك أن تقود العمي → ✓ وما أنت بهادي العمي (author, Quran)
+- ✗ يمكنك فقط أن تُسمع … → ✓ إن تُسمع إلا من يؤمن (author, Quran)
+- ✗ الذي يستطيع أن يضمن → ✓ من يضمن لي (author, hadith)
+- ✗ يمكن أن تُشم من مسيرة أربعين عامًا → ✓ توجد من مسيرة أربعين عامًا (author, hadith)
+- ✗ أي شجرة يمكن أن تكون؟ → ✓ ما هي؟ (author, hadith)
+- ✗ لكننا لم نستطع أن نجدك، وقضينا أسوأ ليلة يمكن أن يقضيها الناس → ✓ فطلبناك فلم نجدك، فبتنا بشرّ ليلة بات بها قوم (author, Ibn Mas'ud)
+- note: English translators insert can where the Arabic has none, and modern writers follow them, though in their own dialect they say the plain verb. The fix is nearly always to drop يمكن/يستطيع and keep the bare verb (or a negated bare verb).
+- criterion: the author's colloquial test applies: if the speaker would say the plain verb in dialect (تلقى، ما تدخل), the fusha sentence needs no يمكن either.
+
+## p162 · RULE · overused هناك (there is/are)
+- cue: هناك + نكرة (هناك قصص، هناك فرق، ليس هناك)، كان هناك
+- source: there is / there are
+- resolves: p137 open (author's treatment of هناك, begins)
+- ✗ هناك قصص كثيرة كهذه → ✓ وأمثال هذه الحكايات كثيرة (author, Ibn Khaldun)
+- ✗ ليس هناك إله إلا هو → ✓ لا إله إلا هو (author, Quran, back-translation in footnote)
+- note: English leans on there is; modern writers copy it to the point that هناك crowds out the native styles (a nominal sentence with the subject first or a fronted predicate, لا النافية للجنس, or a verb).
+
+## p162 · ACCEPTED · هناك in the existential sense is old Arabic
+- cue: هناك (existential)
+- ✓ وقال الكوفيون من أصحاب الرأي: الوضوء والغسل جائزان وإن لم يكن هناك نية (author, al-Qasim ibn Sallam)
+- ✓ هناك خيانات في صُلب الملك (author, al-Jahiz)
+- note: the author says existential هناك is rooted in Arabic and is not a translation coinage as some think; it is just rare in the classical texts. Flag frequency, not every occurrence: one هناك is fine, a text that opens sentence after sentence with هناك is عرنجي.
+- open: the هناك comment continues on p163 (colloquial nearer the Arab style); collect the rest
+
+## p163 · EXAMPLE · overused هناك (colloquial test and Quran/hadith back-translations)
+- of: p162 RULE overused هناك
+- resolves: p162 open (rest of the هناك comment)
+- ✗ ليس هناك ريال في المحفظة → ✓ ما في المحفظة ريال (author, colloquial) / ليس في المحفظة ريال (ours)
+- ✗ ليس هناك رحمة في قلبه → ✓ فلان ما بقلبه رحمة (author, colloquial) / ليس في قلبه رحمة (ours)
+- ✗ أنت محظوظ إذا كان هناك مسجد عند بيتك → ✓ يا حظك لو أن عند بيتك مسجد (author, colloquial)
+- ✗ وبين أولئك الذين خلقناهم هناك أناس يهدون → ✓ وممن خلقنا أمة يهدون بالحق (author, Quran)
+- ✗ لو كان هناك نهر عند باب أحدكم → ✓ لو أن نهرًا بباب أحدكم (author, hadith)
+- ✗ كان هناك شخص قتل تسعة وتسعين نفسًا → ✓ كان فيمن كان قبلكم رجل قتل … (author, hadith)
+- ✗ هناك ثلاثة أصناف لا يكلمهم الله → ✓ وثلاثة لا يكلمهم الله يوم القيامة (author, hadith)
+- ✗ ليس هناك علامات سفر عليه → ✓ لا يُرى عليه أثر السفر (author, Umar)
+- ✗ كانت هناك امرأة في حديقة → ✓ إذا امرأة في حديقة (author, Abu Humayd)
+- ✗ كان هناك بيت يقال له ذو الخلصة → ✓ كان في الجاهلية بيت يقال له ذو الخلصة (author, Jarir)
+- note: the native replacements: في/عند/لـ + noun as a fronted predicate (في المحفظة ريال، بقلبه رحمة، عند بيتك مسجد), an indefinite subject after كان (كان رجل), إذا الفجائية for a sudden find, a bare nominal sentence (وثلاثة لا يكلمهم الله), or a verb (لا يُرى). Same colloquial test as p162: the speaker's dialect never uses هناك here.
+
+## p163 · RULE · أعمال / عمل = works (books, poems, writings)
+- cue: أعماله، أعمال + نسبة (الأعمال الفلسفية، الأعمال اللغوية، أعماله الشعرية)، أعمال المؤرخين، الأعمال الرئيسية، أعمالي الخاصة
+- source: works (of an author)
+- ✗ في أعمال المؤرخين → ✓ في كتب المؤرخين (author, Ibn Khaldun)
+- ✗ أقتبس مثالًا أكمل منه من أعمالي الخاصة → ✓ ولي ما هو أكمل منه (author, Ibn Hazm)
+- ✗ فكان سببًا إلى أعمال مكتوبة عظيمة المنفعة → ✓ فكان سببًا إلى تواليف لي عظيمة المنفعة (author, Ibn Hazm)
+- ✗ وله عدد من الأعمال اللغوية → ✓ وله في الأدب كتب متعددة (author, Ibn Khallikan)
+- ✗ ومن بين أعماله المحتفى بها كتاب الجمهرة → ✓ ومن التصانيف المشهورة كتاب الجمهرة (author, Ibn Khallikan)
+- ✗ ومجموعة أعماله الشعرية كبيرة → ✓ وله ديوان شعر كبير يدخل في أربع مجلدات (author, Ibn Khallikan)
+- ✗ وطالع الأعمال الفلسفية → ✓ وطالع كتب الفلاسفة (author, Ibn Khaldun)
+- ✗ يتعاهدون هذه الأعمال الرئيسية بالشرح → ✓ يتعاهدون هذه الأمهات بالشرح (author, Ibn Khaldun)
+- note: Europeans call the products of the mind (book, poem) work; Arabic names the thing: كتاب، تأليف/تواليف، تصانيف، ديوان، قصيدة، الأمهات. The author notes works appears hundreds of times in the English Ibn Khallikan. Related: p108 ممارسات and p103 الأنشطة for أعمال, the reverse direction (English words displacing عمل).
+
+## p163 · RULE · أجاب / أضاف / أكمل for plain قال (reporting verbs)
+- cue: أجابه/أجبته: …، أجابوا: …، أضاف: …، وأكمل: …
+- source: replied, added, went on
+- of: p137 RULE وأضاف / وأكمل قائلًا
+- resolves: p137 open (author's treatment of وأضاف, begins)
+- ✗ أجبته: … → ✓ فقلت له: … (author, Ibn Khaldun)
+- ✗ أجابوا: ما أنتم إلا بشر مثلنا → ✓ قالوا ما أنتم إلا بشر مثلنا (author, Quran)
+- ✗ أضاف: ما هي مهمتكم أيها المرسلون؟ → ✓ قال فما خطبكم أيها المرسلون (author, Quran)
+- ✗ وأكمل نوح: ربي … → ✓ قال نوح رب إنهم عصوني (author, Quran)
+- note: English varies the reporting verb (replied, added, continued); Arabic repeats قال even in a reply or a follow-up, and the context shows which it is.
+- open: the footnote examples continue on p164
+
+## p164 · EXAMPLE · أجاب / أضاف / أكمل / صرّح for قال (end of comment 5)
+- of: p163 RULE أجاب / أضاف / أكمل for plain قال
+- ✗ صرّح: أنا عبد الله → ✓ قال إني عبد الله آتاني الكتاب وجعلني نبيًا (author, Quran)
+- ✗ أجاب قائلًا، أضاف قائلًا، أكمل قائلًا، صرّح قائلًا → ✓ قال / فقال (ours)
+- note: the author says he was puzzled by these verbs in translations until English renderings of classical Arabic showed him they all stand for قال. Writers who add قائلًا to escape the bare verb (أجاب قائلًا) keep the same foreign frame. A writer who feels قال is too weak to carry "added" or "went on" has come to see Arabic as falling short, which is the real damage.
+- criterion: أجاب is fine when the point is that a question was answered (أجاب عن السؤال); the calque is using it, or أضاف/أكمل/صرّح, merely to introduce quoted speech.
+
+## p164 · EXAMPLE · back-translation of al-Qushashi on coffee (table opens)
+- of: p151 METHOD back-translation of classical prose
+- ✗ إحدى نعم الله على سكان الحجاز هي حبوب البن، لأن هؤلاء الناس يكونون غالبًا فقراء وضعفاء، والناس اعتادوا أن يأتوا إليهم من كل مكان. ومن الضروري أن يكون لدى الشخص بعض الطعام ليقدمه للضيوف الذين يستقبلهم في منزله → ✓ مما أنعم الله به على أهل الحجاز هذا البن، لأنهم ضعفاء فقراء في الغالب، والناس يقدمون عليهم من الآفاق، والإنسان لا بد له من طعام يقدمه لمن دخل عليه (author, the original)
+- note: shifts visible: إحدى نعم الله … هي (one of the blessings … was) for مما أنعم الله به; سكان الحجاز (inhabitants) for أهل الحجاز; حبوب البن (coffee beans) for البن; هؤلاء الناس يكونون غالبًا (p24 يكون + habitual) for هم … في الغالب; اعتادوا أن يأتوا (used to come) for يقدمون; من كل مكان for من الآفاق; من الضروري أن يكون لدى الشخص (it is a necessity for a person that he have) for والإنسان لا بد له من; بعض الطعام (some food) for طعام; الضيوف الذين يستقبلهم في منزله (guests whom he receives into his home) for من دخل عليه. Comments (1) and (2) are marked at إحدى نعم الله and والناس اعتادوا. The author notes he merged two English translations (Zaki ibn Khayr and Suhail ibn Lahir) to correct each one's faults.
+- open: the table and comments (1)-(2) continue on p165
