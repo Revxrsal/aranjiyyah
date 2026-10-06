@@ -194,3 +194,85 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - of: p29 نكران الذات
 - ✗ من أراد أن يأتي ورائي فلينكر نفسه → ✓ من أراد أن يتبعني فليزهد في نفسه (author)
 - note: two calques in one line: "come after me" as يأتي ورائي (Arabic: يتبعني) and "deny himself" as ينكر نفسه (Arabic: يزهد في نفسه). The author's rewrite gives a ✓ for نكران الذات too (زهد في النفس)
+
+## p31 · CRITERION · Shakir ibn Mughamis's list (1891) as early evidence
+- note: the author cites a 1891 Lebanese book that collected errors "from translation from French". He uses it to show the calques date back to the 19th century, not to recent decades. Each item below is from that list; the book gives no rewrites, only the verdict that they are French-born and unjustified.
+
+## p31 · RULE · طلب يد فلانة
+- cue: طلب يد / يطلب يدها
+- source: demander la main de / ask for her hand
+- ✗ طلب يد فلانة → ✓ خطب فلانة (ours)
+- note: French idiom for proposing marriage; Arabic has the verb خطب
+
+## p31 · RULE · لعب دورًا
+- cue: يلعب/لعب + دورًا
+- source: jouer un rôle / play a role
+- ✗ فلان لعب دورًا مهمًّا → ✓ كان لفلان أثر مهم / أسهم إسهامًا كبيرًا (ours)
+- note: theatre metaphor carried over from French; already in Shakir's 1891 list
+
+## p31 · RULE · بالرغم من
+- cue: بالرغم من / بالرغم من أن
+- source: malgré / in spite of
+- ✗ خرج بالرغم من المطر → ✓ خرج على المطر / مع المطر / وإن كان المطر (ours)
+- note: listed as a French-born usage; the author doesn't say which part he objects to (the بـ, the phrase as a concession marker, or both)
+- open: check whether later pages accept رغم/على الرغم من and reject only بالرغم من
+
+## p31 · RULE · يقتل الوقت
+- cue: يقتل/قتل + الوقت
+- source: tuer le temps / kill time
+- ✗ يقتل الوقت بالقراءة → ✓ يقطع الوقت / يتسلّى بالقراءة (ours)
+- note: French metaphor rendered literally
+
+## p31 · RULE · يوفر عليك التعب
+- cue: يوفر/وفّر + عليك/عليه + التعب/الجهد/العناء
+- source: épargner la peine / save you the trouble
+- ✗ هذا يوفر عليك التعب → ✓ هذا يكفيك التعب / يُغنيك عن العناء (ours)
+- note: French "épargner à qqn" mapped onto وفّر على
+
+## p31 · RULE · قرأت على وجهه الغضب
+- cue: قرأ/قرأت + على وجهه/وجهها
+- source: lire sur son visage / read on his face
+- ✗ قرأت على وجهه الغضب → ✓ رأيت الغضب في وجهه / تبيّنت الغضب في وجهه (ours)
+- note: "reading" a face is a French/English metaphor; Arabic sees or makes out (تبيّن، عرف في وجهه)
+
+## p31 · RULE · أو بمعنى أي
+- cue: [اسم] أو [اسم آخر لنفس المسمى]
+- source: ou / or (= that is)
+- ✗ هذا البيت للحسن بن هانئ أو أبي نواس → ✓ هذا البيت للحسن بن هانئ، أي أبي نواس (ours)
+- note: using أو to give a second name for the same thing; in Arabic أو offers alternatives, and the explanatory particle is أي
+
+## p31 · RULE · تكرار كلما في الجواب
+- cue: كلما … كلما
+- source: plus … plus / the more … the more
+- ✗ كلما اجتهدت كلما نجحت → ✓ كلما اجتهدت نجحت (ours)
+- note: كلما belongs only to the condition; repeating it in the answer copies the French/English doubled comparative. Example finishes on p32.
+
+## p32 · RULE · تقديم المقول على القائل
+- cue: «…» + صاح/قال/أجاب + الفاعل (quoted speech opening the sentence)
+- source: French/English dialogue order ("Leave me!" the man shouted)
+- ✗ «إليك عني!» صاح الرجل في غضب → ✓ صاح الرجل في غضب: «إليك عني!» (ours)
+- note: Shakir lists it among changed writing conventions; Arabic introduces the speaker first, then the speech
+
+## p33 · CRITERION · Arabic words, foreign inside
+- note: the author separates a visible loanword (mostly a colloquial habit, which writers avoid) from the hidden calque: speech that looks Arabic on the surface but follows English inside (ظاهره عربي وباطنه عجمي). The second kind is what bilinguals schooled in English young produce without noticing, and it is the book's main target. Detection should look past Arabic vocabulary at the construction.
+
+## p33 · RULE · يجيء من أسرة / أجي من بيت
+- cue: يجيء/يأتي/جاء + من + أسرة/عائلة/بيت/قبيلة/خلفية
+- source: come from (a rich family)
+- ✗ هو يجيء من أسرة غنية → ✓ هو من أسرة غنية / من قبيلة كبيرة (author)
+- note: English "come from" for origin; Arabic expresses belonging with plain من
+
+## p33 · RULE · التقط عادة
+- cue: التقط/يلتقط + عادة/طبعًا/لهجة
+- source: pick up (a habit)
+- ✗ فالتقطت هذه العادة منهم → ✓ فصارت لي عادة / فتعلّمت هذا الطبع وأخذته منهم (author)
+- note: "picked up" rendered as physical picking up; Arabic says أخذ عنه، تعلّم، اكتسب. Rewrite is on p34.
+
+## p34 · RULE · من أين أنت آتٍ (فهم الدافع)
+- cue: أفهم/أدري + من أين أنت آتٍ / من وين جاي
+- source: I know where you are coming from
+- ✗ أدري من أين أنت آتٍ → ✓ أدري ما حملك على قول ذلك (author)
+- note: English idiom for understanding someone's motive, heard in a bilingual speaker's Arabic
+
+## p34 · CRITERION · writers born before 1300 AH as a reference
+- note: the author dates the spread of the style to the generation schooled after ~1300 AH (c. 1883) in English mission schools, when translation from English grew and periodicals multiplied. Writers born before that date, even those who read translated books, are in his view largely free of it. Useful when deciding whether a construction is native: attestation in 19th-century writers born before 1300 AH weighs toward native, attestation only after weighs toward calque.

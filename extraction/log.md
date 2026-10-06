@@ -30,3 +30,8 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 26 (p 28) · RULE×2 CRITERION×1 (finished Tahtawi examples; how translated textbooks spread the style). Extension page.
 - pdf 27 (p 29) · METHOD×1 CRITERION×1 RULE×4 (Van Dyck Bible; al-Hilali's الكاف الدخيلة ، برّر ، تبنّى ، نكران الذات). Extension page.
 - pdf 28 (p 30) · CRITERION×1 RULE×3 EXAMPLE×1 (Van Dyck vs Jesuit Bible table; al-Rafi'i's الجملة القرآنية article begins). Extension page; cap reached.
+- pdf 29 (p 31) · CRITERION×1 RULE×7 (end of al-Rafi'i/Yaziji; Shakir ibn Mughamis's 1891 list of French calques)
+- pdf 30 (p 32) · RULE×1 (end of Shakir's list; British occupation and English-medium schooling in Egypt, Muhammad ibn Umar and Jirjis Salama quotes)
+- pdf 31 (p 33) · CRITERION×1 RULE×2 (bilingual speakers schooled in English; "come from", "pick up a habit")
+- pdf 32 (p 34) · RULE×1 CRITERION×1 ("where you are coming from"; 1300 AH as the dividing generation)
+- pdf 33 (p 35) · background: fluent writers born after 1300 AH; Hafiz Ibrahim's 1321 AH poem on Arabic and its preface to his translation of Les Misérables
