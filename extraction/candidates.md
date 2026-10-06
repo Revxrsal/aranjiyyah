@@ -1765,3 +1765,153 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ ووفقًا للمؤرخين اليهود فإن هذا الصندوق يحتوي أيضًا على عصا → ✓ ? (continues on p110)
 - note: the sample also has يحتوي على (contains) and أيضًا.
 - open: discussion continues on p110; collect the remaining examples and the author's native wording (زعم، ذكر، فيما يقول؟)
+
+## p110 · EXAMPLE · وفقًا لـ = according to
+- of: p109 وفقًا لـ
+- resolves: p109 وفقًا لـ (native wording)
+- ✗ خطاب السلطة، وفقًا للجاحظ، هو خطاب يتجاوز فيه المقدس بالمدنس → ✓ ذكر الجاحظ أن خطاب السلطة … / خطاب السلطة، فيما يقول الجاحظ، … (ours, from the author's list)
+- ✗ (البخاري) قال حماد … وقال الحكم → "وفقًا لحماد … وفقًا للحكم" (author)
+- ✗ (الواقدي) واسمه فيما ذكر الكلبي قيس بن سكن → "واسمه، وفقًا للكلبي، قيس بن سكن" (author)
+- ✗ (ابن خلدون) فيما نقله سيف … وعن عائشة والزهري → "وفقًا لسيف … وفقًا لعائشة والزهري" (author)
+- note: وفق means agreement or fit; English according to attributes a report to a source. Arabic attributes with ذكر فلان، قال، حكى، روى، زعم، فيما ذكر/نقل.
+
+## p110 · RULE · يغطي / غطّى = cover (distance, topic)
+- cue: يغطي المسافة، غطّى المسائل، يغطي الموضوع، يغطي نفس المسائل
+- source: cover
+- ✗ كان بإمكان ساعٍ ذي مهمة خاصة أن يغطي المسافة من المدينة إلى بغداد في تسعة أيام → ✓ … أن يقطع المسافة … (author: قطع)
+- ✗ ويتألف هذا الكتاب من خمسة مجلدات ضخام غطّى فيها جميع مسائل الفقه → ✓ … استوعب فيها / تناول فيها / اشتمل على جميع مسائل الفقه (ours, from the author's list)
+- ✗ هذا الكتاب يغطي نفس المسائل التي ذكرناها أمس → ✓ موضوعه ما ذكرناه / يتكلم في نفس ما ذكرناه / هو متضمن له مشتمل عليه (author)
+- ✗ (hadith) لا يقطعها → "دون أن يغطي المسافة كاملة" (author)
+- note: غطّى is to hide or veil (غطّى وجهه); English cover widened to traversing a distance and treating a topic, and the moderns copied both. The sample also has بإمكان (link p61) and نفس + noun.
+- open: discussion continues on p111 (the English also uses cover for …); collect the further sense and rewrite
+
+## p111 · EXAMPLE · يغطي / غطّى = cover (distance, topic)
+- of: p110 يغطي / غطّى
+- resolves: p110 يغطي (the topic sense and the noun)
+- ✗ غطّى فيها جميع مسائل الفقه → ✓ استوفى فيها مسائل الفقه / حصرها / أتى عليها جميعًا (author)
+- ✗ تغطية الأخبار، تغطية إعلامية → ✓ نقل الأخبار (author); ✗ تغطية = range, scope → ✓ نطاق الشيء (author)
+- note: the noun تغطية carries the same borrowed senses: news coverage and the extent something reaches.
+
+## p111 · RULE · العالَم + adjective = the X world (العالم العربي، العالم الإسلامي)
+- cue: العالم العربي، العالم الإسلامي، العالم الأوروبي، العالم النصراني، حدود العالم الإسلامي
+- source: the Arab world, the Islamic world, the Western world
+- ✗ هناك منطقة القرن الإفريقي، وهي منطقة قريبة من العالم العربي → ✓ … قريبة من بلاد العرب (author, from السيرافي)
+- ✗ تستطيع عين الرائي أن تميز لأول وهلة حدود العالم الإسلامي في عهد أبي بكر → ✓ … حدود بلاد الإسلام (ours, from the author's اليعقوبي quote)
+- ✗ (اليعقوبي) وآخر مدن بلاد الإسلام … → "في العالم الإسلامي" (author)
+- note: العالَم in Arabic is the whole world or all creation, so it should not be qualified to mean a group of countries; English world widened to any bloc united by one trait. Say بلاد العرب، بلاد الإسلام، بلاد الإفرنج/النصارى.
+
+## p111 · RULE · مباركة = blessing (approval, endorsement)
+- cue: مباركة، حاز مباركة، أعطاه مباركته، بمباركة فلان
+- source: blessing
+- ✗ حلف الفضول الذي حاز مباركة رسول الله ﷺ → ✓ ? (continues on p112)
+- ✗ أعطاني أبي مباركته للسفر → ✓ أذن لي أبي في السفر ورضيه (author)
+- ✗ هذا الأمر حاز مباركة جميع الدول → ✓ أيّدته الدول كلها (author)
+- note: Arabic مباركة means calling down or bestowing blessing; English blessing also means permission and approval, possibly from Christians seeking clerical leave before a big step.
+- open: discussion continues on p112; collect the author's account of the origin and the rewrite for حاز مباركة رسول الله (أقرّه، رضيه؟)
+
+## p112 · EXAMPLE · مباركة = blessing (approval, endorsement)
+- of: p111 مباركة
+- resolves: p111 مباركة (origin)
+- ✗ حلف الفضول الذي حاز مباركة رسول الله ﷺ → ✓ … الذي أقرّه رسول الله ﷺ ورضيه (ours, from the author's إذن وقبول وتأييد)
+- note: the author traces it to Christians asking priests to bless an undertaking, so the blessing became permission and support; now very common.
+
+## p112 · METHOD · multi-word calques are many more than single words
+- note: the author says calqued phrases (عبارات) far outnumber single words and he lists only a few; phase 2 should expect unlisted phrase calques and judge them by the same test (does the phrase map word for word onto an English set phrase?).
+
+## p112 · EXAMPLE · الدائرة القريبة / الداخلية = inner / close circle
+- of: p91 الحلقة الضيقة / الدائرة الداخلية
+- cue: الدائرة القريبة، الدائرة الداخلية
+- ✗ الدائرة القريبة / الداخلية → ✓ الخاصة، الخواص، البطانة، الدِّخلة، الوليجة (author)
+
+## p112 · RULE · أرضية مشتركة = common ground
+- cue: أرضية مشتركة، نجتمع على أرضية مشتركة
+- source: common ground
+- ✗ دعونا نجتمع على أرضية مشتركة → ✓ تعالوا إلى كلمة سواء بيننا وبينكم (author, Qur'an 3:64)
+- ✓ also الأمر الجامع (author, Qur'an 24:62)
+- note: Arabic says كلمة سواء or أمر جامع; the ground metaphor is English.
+
+## p112 · RULE · اهتمام مشترك = common interest and concern
+- cue: اهتمام مشترك، قضايا ذات اهتمام مشترك، المصالح المشتركة
+- source: common interest and concern
+- ✗ (Qur'an 24:62) على أمر جامع → "اهتمام مشترك" (author)
+- ✗ بحث الطرفان القضايا ذات الاهتمام المشترك → ✓ … الأمور الجامعة بينهما / ما يعني الطرفين معًا (ours)
+- note: a common and well-known calqued phrase; native is الأمر الجامع.
+
+## p112 · RULE · السلام الداخلي = inner peace
+- cue: السلام الداخلي، سلام داخلي
+- source: inner peace
+- ✗ منحهم السلام الداخلي → ✓ أنزل السكينة في قلوبهم (author, Qur'an 48:4)
+- ✗ يبحث عن السلام الداخلي → ✓ يطلب السكينة / الطمأنينة (author's words)
+
+## p112 · RULE · حقيقة أنه / حقيقة أنّ = the fact that
+- cue: حقيقة أن، حقيقة أنه، لحقيقة أن، رغم حقيقة أن، غير حقيقة أن
+- source: the fact that
+- ✗ هل تستاؤون منا لأي سبب غير حقيقة أننا نؤمن بالله → ✓ هل تنقمون منا إلا أن آمنا بالله (author, Qur'an 5:59)
+- ✗ يعود ذلك إلى حقيقة أنه … → ✓ يعود ذلك إلى أنه … (ours)
+- note: English needs "the fact" to nominalize a clause; Arabic does it with a masdar or a particle (أنّ، أنْ، ما) alone.
+- open: check p113 for further examples or comment on حقيقة أن
+
+## p113 · RULE · حقل الرؤية = field of vision
+- cue: حقل الرؤية، حقل النظر، مجال الرؤية
+- source: field of vision
+- ✗ خرج من حقل الرؤية → ✓ خرج عن مدى البصر (ours, from the author's مدى البصر)
+- note: links with p37/p106 حقل = field.
+
+## p113 · RULE · إلى درجة أنه / لدرجة أن = to the extent that
+- cue: إلى درجة أن، إلى درجة أنه، لدرجة أن، إلى حدّ أن
+- source: to the extent that
+- ✗ متّعتهم وآباءهم إلى درجة أنهم نسوا الذكر → ✓ متّعتهم وآباءهم حتى نسوا الذكر (author, Qur'an 25:18)
+- note: Arabic حتى carries the result without a degree noun.
+
+## p113 · CRITERION · a calque can be rationalised but is still a calque
+- note: the author grants that every one of these words can be justified (تخريج) from Arabic: حلم like أمنية (ما هذه إلا أحلام), تيار like مذهب (followers flowing like a wave), تبنّى (an idea joined to you as an adopted son), المفضل (preferred over other food), آسف (sorrow stated as apology), يدين … The test is not whether an Arabic justification can be found; it is whether the usage came in through the European word. Phase 2: don't clear a candidate just because a native-sounding derivation exists.
+- note: the author's teacher أبو قصي فيصل المنصور: if every modern word were held to its rightful owner, little of the moderns' speech would remain; modern dictionaries added senses and derivations mostly traceable to French and English.
+- open: the argument continues on p114 (يدين …); collect the conclusion and any criterion the author states
+
+## p114 · CRITERION · a calque can be rationalised but is still a calque
+- of: p113 CRITERION rationalisation
+- note: more of the author's mock justifications: يدين لـ (a favour is like a debt), درس = lesson (an object lesson that teaches you), مؤشر (pointing to something is evidence of it). Every one is plausible; none of them makes the usage native.
+- note: the cost the author names is displacement: the calque doesn't add to Arabic, it pushes out the old native word or construction, which then sounds strange to readers. A rewrite should restore the displaced native form, not just remove the foreign one.
+
+## p114 · EXAMPLE · fully calqued sentence that can still be "justified" word by word
+- of: p113 CRITERION rationalisation
+- ✗ أمرتُ قهوة ضعيفة من المقهى حيث هناك رجل عنده شعر مستقيم ويلبسه منخفضًا، وكان لباسه ذكيًّا، ثم عثرت على أني لم أحمل عليّ مالًا → ✓ ? (the author builds this from I ordered a weak coffee … his hair straight and worn low … smartly dressed … found that I had no money on me)
+- cue: أمرت + طعام/شراب (order), قهوة ضعيفة (weak coffee), حيث هناك (where there is), لباس ذكي (smart clothes), عثرت على أني (found that), لم أحمل عليّ مالًا (on me)
+- note: the author begins justifying it word by word (أمرت قهوة as أمرت بطعام with the preposition dropped, or أمر implying طلب) to show the method proves anything.
+- open: the justification continues on p115; collect the rest and the author's conclusion; phase 2 may write a native version (طلبت قهوة خفيفة … ثم تبيّن لي أن ليس معي مال) (ours)
+
+## p115 · EXAMPLE · fully calqued sentence that can still be "justified" word by word
+- of: p114 mock calqued coffee sentence
+- note: the author's mock justifications continue: قهوة ضعيفة (light coffee is weak), حيث هناك (breaks no grammar rule), شعر مستقيم (straight hair has straightness), يلبسه منخفضًا (worn like clothing), لباس ذكي (elegance shows the wearer's wit), عثرت على أني (finding = realizing), عليّ مال (even more precise than معي مال). Each claim is a parody, so phase 2 should read every one of these phrases as a calque.
+- ✗ قهوة ضعيفة → ✓ قهوة خفيفة (ours); ✗ شعر مستقيم → ✓ شعر سبط (author's word); ✗ لباس ذكي → ✓ لباس أنيق (ours); ✗ عثرت على أني … → ✓ تبيّن لي أني … / فطنت إلى أني … (ours); ✗ لم أحمل عليّ مالًا → ✓ لم يكن معي مال (author's word)
+- cue: حيث هناك / حيث يوجد (where there is)
+- note: the author mocks حيث هناك as "harmless"; phase 2 may treat it as a calque of where there is (✓ وفيه رجل … (ours)).
+
+## p115 · CRITERION · taste decides, not ingenuity in justification
+- of: p38 CRITERION taste (الذوق)
+- note: rationalising (التخريج العقلي) is easy and can justify any error; the author says he could find a classical "witness" for every one. Those who seek such justifications usually already like the phrase and want cover for it. European derivations are not arbitrary either, so a logical path from the root proves nothing. The deciding test is the trained native ear.
+- ✗ فقدت الاهتمام في الفلسفة → ✓ زهدت في الفلسفة (author)
+- note: someone used to فقدت الاهتمام won't feel زهدت says the same thing however many classical examples you show them. That gap in taste is the very symptom of عرنجية. See p104 فقد.
+- open: the argument continues on p116; collect the conclusion
+
+## p116 · RULE · نمط حياة / أسلوب حياة = lifestyle, way of life
+- cue: نمط حياة، نمط الحياة، أسلوب حياة، أسلوب الحياة، نمط حياة حضرية/ريفية
+- source: lifestyle, way of life
+- ✗ الانتقال من الريف إلى المدينة هو تغيّر صعب من نمط حياة ريفية إلى نمط حياة حضرية → ✓ … من عيش الريف إلى عيش الحضر / من عيشة البادية إلى عيشة المدينة (ours, from the author's العيش، العيشة، المعيشة)
+- ✗ (hadith) خير معاش الناس لهم رجل ممسك عنان فرسه … → "نمط الحياة الأفضل هو …" (author)
+- ✗ (الأصمعي) ليس هذا عيش آل الخطاب → "ليس هذا نمط حياتهم" (author)
+- ✗ (الجاحظ) ولم يحتجوا لظلف العيش على لينه → "أسلوب الحياة التقشفي" (author)
+- ✗ (الواقدي) ولا معيشة أهنأ من العفة → "ولا أسلوب حياة أكثر متعة من العفة" (author)
+- ✓ (native) تكلفني معيشة آل زيد … (جرير)
+- note: Arabic has العيش، العيشة، المعيشة، المعاش for how one lives; نمط/أسلوب حياة renders lifestyle word for word. Some readers reject the native words as not matching, which the author takes as proof the calque has displaced them.
+
+## p116 · CRITERION · habituation to calques dulls the native ear
+- of: p115 CRITERION taste decides
+- note: someone who grew up on calqued phrases (the author lists أسلوب الحياة، مؤشرات، الشخص المفضل، الدائرة القريبة، اهتمام مشترك، تبنّى رأيًا، إيجابيات الكلام، بموضوعية، بدون تبرير) comes to find the native equivalents (خير معايش الناس) odd. Phase 2: when a user objects that the native rewrite "doesn't mean the same", that reaction is expected; keep the rewrite and explain briefly.
+- cue list for phase 2 linking: بموضوعية، بدون تبرير (check for separate blocks; بدون + مصدر)
+- open: the argument continues on p117 (people claim they keep to Qur'anic Arabic); collect the conclusion
+
+## p117 · CRITERION · correct case endings don't make a text Arabic
+- of: p116 CRITERION habituation
+- note: many writers guard their إعراب carefully but let word senses and constructions drift. The author counts misused word senses and calqued styles as لحن too, and weightier than case errors, since endings follow the meaning. Phase 2: in SKILL.md, state that the skill flags sense and style calques in fully grammatical text; grammatical correctness is not a defence.
+- note: the author says word-sense errors belong with styles and will be treated at length in the styles section (pdf 130+).

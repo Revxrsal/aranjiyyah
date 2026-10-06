@@ -109,3 +109,11 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 105 (p 107) · EXAMPLE×1 RULE×3 (closes الإنسانية/البشرية; درس = lesson; تحديات; opens تصفية = liquidate). Extra page
 - pdf 106 (p 108) · EXAMPLE×1 RULE×2 (closes تصفية; يدين لـ = owe; opens يمارس = practice). Extra page
 - pdf 107 (p 109) · EXAMPLE×1 RULE×2 ACCEPTED×1 (closes يمارس; صحي = healthy; opens وفقًا لـ). Extra page (cap reached)
+- pdf 108 (p 110) · EXAMPLE×1 RULE×1 (closes وفقًا لـ; opens يغطي = cover)
+- pdf 109 (p 111) · EXAMPLE×1 RULE×2 (closes يغطي; العالم العربي = world; opens مباركة = blessing)
+- pdf 110 (p 112) · EXAMPLE×2 METHOD×1 RULE×4 (closes مباركة; phrases: الدائرة الداخلية, أرضية مشتركة, اهتمام مشترك, السلام الداخلي, حقيقة أن)
+- pdf 111 (p 113) · RULE×2 CRITERION×1 (حقل الرؤية; إلى درجة أن; opens rationalisation argument)
+- pdf 112 (p 114) · CRITERION×1 EXAMPLE×1 (rationalisation argument; mock calqued coffee sentence)
+- pdf 113 (p 115) · EXAMPLE×1 CRITERION×1 (mock sentence justified; taste decides; فقدت الاهتمام → زهدت). Extra page
+- pdf 114 (p 116) · RULE×1 CRITERION×1 (نمط/أسلوب حياة = lifestyle; habituation dulls the ear). Extra page
+- pdf 115 (p 117) · CRITERION×1 (closes the vocabulary section: grammar alone is no defence). Extra page
