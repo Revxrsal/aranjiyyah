@@ -2365,3 +2365,149 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ كانت مصدر إزعاج للناس → ✓ كانت تؤذي الناس (author, hadith)
 - ✗ نحو مصدر الصوت → ✓ إلى الصوت (author, hadith)
 - note: English needs "source of" to turn a noun into a predicate; Arabic predicates the noun directly, uses an تمييز, or uses a verb. Modern writers overuse مصدر, and it also crowds out the older words for a thing's origin (أصل الشيء، منشؤه، مورده، عينه، ينبوعه) under التغليب.
+
+## p144 · EXAMPLE · Quran table: محمد 10 (أفلم يسيروا في الأرض فينظروا كيف كان عاقبة الذين من قبلهم …)
+- of: p140 METHOD what to compare between an Arabic original and its English-shaped version
+- source: Have they not travelled through the earth, and seen what was the end of those before them? Allah destroyed them completely and a similar fate awaits the disbelievers
+- ✗ ألم يسافروا خلال الأرض، ويروا ماذا كانت نهاية أولئك الذين قبلهم؟ دمّرهم الله تمامًا، ومصير مشابه ينتظر الكافرين → ✓ أفلم يسيروا في الأرض فينظروا كيف كان عاقبة الذين من قبلهم دمّر الله عليهم وللكافرين أمثالها (author, the original)
+- note: further visible shifts in the back-translation: يسافروا خلال الأرض for يسيروا في الأرض; ماذا كانت for كيف كان; أولئك الذين قبلهم for الذين من قبلهم; دمّرهم تمامًا for دمّر عليهم. The author comments only on نهاية and مصير مشابه (below).
+
+## p144 · RULE · نهاية = end, crowding out عاقبة / منقلب
+- cue: نهاية + people or deeds (نهاية الظالمين، كانت نهايته، نهاية مأساوية)
+- source: the end of (those who …)
+- ✗ ماذا كانت نهاية أولئك الذين قبلهم → ✓ كيف كان عاقبة الذين من قبلهم (author)
+- ✗ فانظر كيف كانت نهاية المجرمين → ✓ فانظر كيف كان عاقبة المجرمين (author, النمل 69)
+- ✗ لقي نهاية مأساوية → ✓ ساءت عاقبته / كان منقلبه سيئًا (ours)
+- note: English uses end where Arabic says العاقبة or المنقلب (what something leads to); English Quran translations render عاقبة as end, and modern Arabic copied it until نهاية almost displaced عاقبة (التغليب والإماتة, p53). نهاية for the literal end of a time span (نهاية القرن) is a separate question.
+
+## p144 · RULE · مصير مشابه / نفس المصير (a similar fate / the same fate)
+- cue: مصير مشابه، نفس المصير، المصير نفسه، يعاني/يلقى/يواجه نفس المصير، ينتظرهم مصير
+- source: a similar fate awaits; suffer the same fate; meet the same fate
+- ✗ ومصير مشابه ينتظر الكافرين → ✓ وللكافرين أمثالها (author, محمد 10)
+- ✗ والذين ينتظرهم مصير مشابه → ✓ ? (ours: والذين سيصيبهم مثلُ ما أصابه)
+- ✗ يعانون نفس المصير / يلقون نفس المصير → ✓ يصيبهم مثلُ ما أصاب … (author, هود 89: أن يصيبكم مثل ما أصاب قوم نوح؛ هود 81: إنه مصيبها ما أصابهم)
+- note: English fate-phrases (suffer/meet/face the same fate, a similar fate awaits) are rendered word for word, and English Quran translations use them for Arabic's مثل ما أصاب; the author says the native Qur'anic constructions were abandoned for these "tasteless" foreign ones.
+- open: the author does not discuss نفس placed before the noun (نفس المصير) here; watch for it later
+
+## p145 · EXAMPLE · Sunnah table opens: hadith of Abu Hurayra (إن أول ما يحاسب به العبد يوم القيامة من عمله صلاته …)
+- of: p140 METHOD what to compare between an Arabic original and its English-shaped version
+- source: The first action for which a man will be held accountable on the day of resurrection will be his prayer. If it is sound he will be prosperous and successful … the Lord … will issue instructions to consider whether His servant has any voluntary prayers … Then the rest of his actions will be treated in the same fashion.
+- ✗ العمل الأول الذي سوف يخضع لأجله الرجل للمحاسبة في يوم القيامة سوف يكون الصلاة. إن كانت سليمة، فسيكون مزدهرًا وناجحًا … إذا تم إيجاد أي نقص في صلاته الواجبة، الرب سوف يصدر تعليمات بالنظر إذا كان عبده له أي صلاة تطوعية يمكن أن تكمل ما هو ناقص … ثم بقية أعماله سوف تتم معاملتها بنفس الطريقة → ✓ إن أول ما يحاسب به العبد يوم القيامة من عمله صلاته، فإن صلحت فقد أفلح وأنجح، وإن فسدت فقد خاب وخسر، فإن انتقص من فريضته شيء قال الرب: انظروا هل لعبدي من تطوع فيكمل بها ما انتقص من الفريضة، ثم يكون سائر عمله على ذلك (author, the original)
+- note: shifts visible in the back-translation, several already recorded: سوف where the original has none (p59); تمّ + مصدر (تم إيجاد، تتم معاملتها) for the plain verb انتقص / يكون (p45); يخضع للمحاسبة for يحاسب; العمل الأول for أول ما; مزدهرًا وناجحًا for أفلح وأنجح; سيئ الحظ وبائسًا for خاب وخسر; يصدر تعليمات بالنظر for قال: انظروا; أي نقص / أي صلاة; يمكن أن تكمل for فيكمل; بنفس الطريقة for على ذلك. The author's numbered comments (1)-(4) follow on p146.
+- open: collect the author's comments (1)-(4) on p146
+
+## p146 · EXAMPLE · سوف يكون (will be) where the original has no future particle
+- of: p59 RULE overuse of سـ / سوف
+- resolves: p145 open (comment 1, first half)
+- ✗ العمل الأول الذي سوف يخضع لأجله الرجل للمحاسبة … سوف يكون الصلاة → ✓ إن أول ما يحاسب به العبد … صلاته (author)
+- note: the author points back to his grammar discussion of modern overuse of future particles; the Arabic original has none.
+
+## p146 · RULE · يكون (or another "be" verb) as a copula between subject and predicate
+- cue: يكون/سيكون/سوف يكون between a definite subject and its predicate in a present or timeless statement (صاحب السيارة يكون خالد، أول ما … سوف يكون الصلاة)
+- source: X is Y / X will be Y (English requires be)
+- ✗ صاحب السيارة الحمراء يكون خالد → ✓ صاحب السيارة الحمراء خالد (author)
+- ✗ أول عمل يحاسب عليه سوف يكون الصلاة → ✓ أول ما يحاسب به العبد صلاته (author)
+- note: English cannot join subject and predicate without be, so translators supply يكون; Arabic's nominal sentence needs nothing. The author reports this among some modern writers; everyday speech still follows the Arab pattern. Phase 2: flag يكون that carries no tense, mood or aspect (not after أن، لم، كي, not expressing habit or the future the context needs).
+
+## p146 · CRITERION · ضمير الفصل هو as a softened copula
+- cue: definite subject + هو/هي/هم + predicate (صاحب السيارة الحمراء هو خالد، الثروة والأولاد هم زينة)
+- ✓ صاحب السيارة الحمراء هو خالد (author: acceptable, لا بأس به)
+- note: writers who sense the foreignness of يكون swap in هو; the author accepts this, but says overusing it is still translation's influence and the dominance of European style (التغليب). Phase 2: never flag a single هو; flag only a text where nearly every nominal sentence carries هو/هي/هم, and prefer dropping it where the predicate is unambiguous. Compare p142 (الثروة والأولاد هم زينة → المال والبنون زينة).
+
+## p146 · RULE · لكن where Arabic joins a contrasting clause with و or ف
+- cue: لكن/ولكن/لكنه + إذا/إن in a conditional contrast; لكن opening a clause where the original contrast is carried by و/ف
+- source: but (English cannot use and/so to introduce a contrast or a contrary case)
+- ✗ إن كانت سليمة فسيكون … لكن إذا كانت غير سليمة → ✓ فإن صلحت … وإن فسدت (author, hadith)
+- ✗ ولكن إذا تحملتم بصبر → ✓ ولئن صبرتم لهو خير للصابرين (author, النحل 126)
+- ✗ ولكنهم لا يخدعون إلا أنفسهم → ✓ وما يخدعون إلا أنفسهم وما يشعرون (author, البقرة 9)
+- ✗ لكن لا تجاوزوا الحدود → ✓ ولا تعتدوا (author, البقرة 190)
+- ✗ من همّ بحسنة لكن لم يفعلها → ✓ من همّ بحسنة فلم يعملها (author, hadith)
+- ✗ لكن إذا سرق الضعيف → ✓ وإذا سرق الضعيف (author, hadith)
+- note: English needs but for a clause stating a contrary case or a correction; in Arabic و and ف carry that contrast themselves. Modern writers overuse لكن the way Europeans overuse but, though in colloquial speech they don't. Phase 2: soft flag; keep لكن where it marks a real استدراك after a negative or a misleading expectation.
+
+## p146 · RULE · يصدر/أصدر تعليمات (issue instructions)
+- cue: أصدر/يصدر/سوف يصدر + تعليمات/أوامر/توجيهات
+- source: issue instructions
+- ✗ الرب سوف يصدر تعليمات بالنظر إذا كان عبده له … → ✓ قال الرب: انظروا هل لعبدي … (author, hadith)
+- ✗ أصدر النبي ﷺ تعليمات واضحة للرماة شدد عليهم فيها ألا يبرحوا مكانهم → ✓ ? (ours: أمر النبي ﷺ الرماة ألا يبرحوا مكانهم وشدّد عليهم في ذلك)
+- note: the author calls it a French-origin expression common in modern prose; Arabic uses a verb of command or speech (أمر، قال، أوصى، عهد إليه). Discussion continues on p147.
+- open: collect the rest of the يصدر تعليمات comment and comment (4) on p147
+
+## p147 · EXAMPLE · تعليمات = instructions with other English verbs
+- of: p146 RULE يصدر/أصدر تعليمات
+- resolves: p146 open (rest of the تعليمات comment)
+- ✗ ولن أتجاهل تعليماتك → ✓ ولا أعصي لك أمرًا (author, الكهف 69)
+- ✗ وفقًا لتعليمات أبيهم → ✓ من حيث أمرهم أبوهم (author, يوسف 68)
+- ✗ يعطيكم الله تعليمات في أولادكم → ✓ يوصيكم الله في أولادكم (author, النساء 11)
+- ✗ أن يتركوا أي تعليمات → ✓ فلا يستطيعون توصية (author, يس 50)
+- note: English pairs instructions with many verbs (issue, ignore, follow, give, leave), and modern Arabic copies each pairing; Arabic says أمر، وصّى/أوصى، عهد، عصى أمره. The author adds that even if translation didn't introduce every one of these phrases, it made them dominant (التغليب). Cue set for phase 2: تعليمات after أصدر، أعطى، تجاهل، وفقًا لـ، ترك، اتّبع.
+
+## p147 · RULE · أيّ + indefinite noun for "any" (هل هناك أي شك، لن يكون أي معنى)
+- cue: أي/أيّ + indefinite noun in a question, negation or condition (هل هناك أي …، لا يوجد أي …، لن يكون أي …، إذا كان له أي …، أي صلاة تطوعية)
+- source: any
+- ✗ إذا كان عبده له أي صلاة تطوعية → ✓ هل لعبدي من تطوّع (author, hadith)
+- ✗ هل ترى أي شقوق → ✓ هل ترى من فطور (author, الملك 3)
+- ✗ هل هناك أي شك في الله → ✓ أفي الله شك (author, إبراهيم 10)
+- ✗ لا يكون لهم أي عذر أمام الله → ✓ لئلا يكون للناس على الله حجة (author, النساء 165)
+- ✗ هل عندك أي دليل → ✓ ألك بيّنة (author, hadith)
+- ✗ ما عاب أي طعام → ✓ ما عاب طعامًا قطّ (author, hadith)
+- ✗ هل هناك أي شك في أن هذا لا يمكن أن يكون وحيًا → ✓ ? (ours: أفي ذلك شكّ أنه ليس بوحي؟)
+- ✗ لن يكون هناك أي معنى يمكن إضفاؤه على الحاضر إلا بالرجوع إلى الماضي → ✓ ? (ours: لا يُفهم الحاضر إلا بالرجوع إلى الماضي)
+- note: English marks a general indefinite with any; Arabic does it with tanween alone, optionally strengthened by زائدة من (هل من …، ما من …) or قطّ after a negated past. The author calls أيّ for تنكير widespread in modern prose and a European style. Sibling of p59 بعض for indefiniteness. The modern examples also show هناك and يمكن stacked with أي (relevant to the open at p139).
+
+## p147 · RULE · بعبارة أخرى / بكلمات أخرى (in other words)
+- cue: بعبارة أخرى، بكلمات أخرى، بمعنى آخر
+- source: in other words
+- ✗ كان الجواهري حزبًا بمفرده، أو بكلمات أخرى: كان رئيس حزب أفراده الشعب العراقي بأجمعه → ✓ … أي: كان رئيس حزب … (ours, following the author's advice)
+- ✓ أي (تفسيرية) / أريد أنه كذا / والمراد أنه كذا / أقصد كذا / والمعنى أنه كذا (author)
+- note: from English in other words; بكلمات أخرى is the literal version, and بعبارة أخرى is the softened one some writers use to reduce the foreignness, still a calque. Arabic introduces a restatement with تفسيرية أي or with المراد / المعنى / أريد; colloquial speech still does this.
+
+## p148 · EXAMPLE · Sunnah table: part of Ka'b ibn Malik's hadith (فاجتنبنا الناس وتغيّروا لنا …)
+- of: p140 METHOD what to compare between an Arabic original and its English-shaped version
+- source: All people were now avoiding us. Their attitude towards us changed. It seemed to me as if I did not even know the place I was in. This was no longer the town I lived in. We continued in this condition for 50 days … I was the youngest and the strongest of the three, so I continued to go out and attend the congregational prayers with other Muslims.
+- ✗ كل الناس كانوا الآن يتجنبوننا. موقفهم تجاهنا تغير. بدا لي كما لو أكن حتى أعرف المكان الذي كنت فيه، هذه لم تعد المدينة التي عشت فيها. استمرينا في هذه الحال لخمسين ليلة. بقي صديقاي الاثنان في المنزل، يبكيان. كنت الأصغر والأقوى في الثلاثة، فواصلت الخروج وحضور صلاة الجماعة مع المسلمين الآخرين → ✓ فاجتنبنا الناس وتغيّروا لنا حتى تنكّرت في نفسي الأرض فما هي التي أعرف، فلبثنا على ذلك خمسين ليلة، فأما صاحباي فاستكانا وقعدا في بيوتهما يبكيان، وأما أنا فكنت أشبّ القوم وأجلدهم فكنت أخرج فأشهد الصلاة مع المسلمين (author, the original; English from Adil Salahi's translation of في ظلال القرآن)
+- note: shifts visible in the back-translation: كل الناس كانوا الآن for the plain verb; موقفهم تجاهنا تغير for وتغيّروا لنا; بدا لي كما لو for تنكّرت في نفسي الأرض; استمرينا في هذه الحال for فلبثنا على ذلك; صديقاي الاثنان with a redundant الاثنان after a dual; الأصغر والأقوى في الثلاثة for أشبّ القوم وأجلدهم; المسلمين الآخرين for المسلمين. The author's comments (1)-(2) follow on p149.
+- open: collect the author's comments (1) موقفهم تجاهنا and (2) المسلمين الآخرين on p149
+
+## p149 · EXAMPLE · Ka'b ibn Malik table, continued (وأطوف في الأسواق ولا يكلمني أحد …)
+- of: p148 EXAMPLE Sunnah table: part of Ka'b ibn Malik's hadith
+- source: I frequented all the markets, but nobody would speak to me … I would always think to myself: "Have I detected any movement on his lips …" … he would turn his face the other way. When this harsh treatment of the Muslim community seemed to have lasted too long, I climbed the wall of an orchard which belonged to a cousin of mine named Abu Qatadah, and whom I loved more than anyone else.
+- ✗ ترددت على كل الأسواق، لكن لا أحد يتحدث إليّ … كنت دائمًا أفكر في نفسي: هل لاحظت أي حركة على شفتيه توحي بأنه قد أجاب تحيتي؟ … وعندما أكون منشغلًا بصلاتي، كان ينظر إليّ، لكن عندما أنظر نحوه، كان يدير وجهه في الاتجاه الآخر. عندما بدا لي أن هذه المعاملة القاسية من المجتمع المسلم قد استمرت طويلًا جدًا، تسلقت جدار بستان يخص ابن عم لي يسمى أبا قتادة، والذي أحبه أكثر من أي أحد آخر → ✓ وأطوف في الأسواق ولا يكلمني أحد … فأقول في نفسي: هل حرّك شفتيه بردّ السلام عليّ أم لا؟ … فإذا أقبلتُ على صلاتي أقبل إليّ، وإذا التفتُّ نحوه أعرض عني، حتى إذا طال عليّ ذلك من جفوة الناس مشيت حتى تسوّرت جدار حائط أبي قتادة، وهو ابن عمي وأحبّ الناس إليّ (author, the original)
+- note: shifts visible: لكن لا أحد for ولا … أحد (p146 لكن); أي حركة (p147 أيّ); كنت دائمًا أفكر في نفسي (think to myself) for فأقول في نفسي; يدير وجهه في الاتجاه الآخر for أعرض عني (p141 استدار بعيدًا); المعاملة القاسية من المجتمع المسلم for جفوة الناس; استمرت طويلًا جدًا for طال; بستان يخص ابن عم لي يسمى أبا قتادة for حائط أبي قتادة وهو ابن عمي; والذي أحبه أكثر من أي أحد آخر for أحبّ الناس إليّ. Comment (3) is marked at عندما أكون منشغلًا; the comments follow on p150.
+- open: collect comments (1)-(3) on p150
+
+## p150 · EXAMPLE · تغيّر موقفه تجاهي (his attitude towards me changed)
+- of: p86 RULE موقف = position, stance; p53 RULE نحو / تجاه with feelings and attitudes
+- resolves: p149 open (comment 1); p53 open note (موقفه تجاه confirmed)
+- ✗ موقفهم تجاهنا تغيّر → ✓ وتغيّروا لنا (author, Ka'b's hadith)
+- ✗ تغيّر موقفه تجاهي / تغيّرت مشاعره تجاهي → ✓ تغيّر عليّ (author; colloquial still says فلان تغيّر عليّ بعد صحبة)
+- ✗ تبنّيتُ موقفًا ودودًا تجاه المكيين → ✓ فانطلقت حتى دخلت عليه بمكة (author, English rendering of عمرو بن عبسة's hadith)
+- ✗ تغيّر موقفه تجاهي (Ibn Hazm's تغيّر عليّ أقبح تغيّر) / مواقفهم (Ibn Khaldun's ما نقم من أحوالهم) / اختلف موقف القياصرة (for اختلف شأن القياصرة) → ✓ the originals (author)
+- note: English attitude towards becomes موقف + تجاه; Arabic puts the change on the person and uses the preposition the verb governs (تغيّر له، تغيّر عليه), or speaks of حال، شأن. Also links p142 مشاعر.
+
+## p150 · RULE · الآخرين / آخر / أخرى added after a plural of people (others, other people)
+- cue: الناس الآخرين، المسلمين الآخرين، المؤمنين الآخرين، أمم أخرى، أكثر من أي أحد آخر، حقوق الآخرين، يحترم الآخرين
+- source: other Muslims, other people, others
+- ✗ أشهد صلاة الجماعة مع المسلمين الآخرين → ✓ فأشهد الصلاة مع المسلمين (author, Ka'b's hadith)
+- ✗ أتأمرون الآخرين بالبر / أتأمرون الناس الآخرين بالبر → ✓ أتأمرون الناس بالبر (author, البقرة 44)
+- ✗ ليربو في أموال الآخرين → ✓ ليربوَ في أموال الناس (author, الروم 39)
+- ✗ أرسلنا إلى أمم أخرى من قبلك → ✓ أرسلنا إلى أمم من قبلك (author, الأنعام 42)
+- ✗ وللمؤمنين والمؤمنات الآخرين → ✓ وللمؤمنين والمؤمنات (author, محمد 19)
+- ✗ أحبه أكثر من أي أحد آخر → ✓ أحبّ الناس إليّ (author, Ka'b's hadith p149)
+- note: English people/Muslims would sound odd without other(s) when the speaker is excluded, so translators add الآخرين; Arabic الناس already means "people other than me/you". The author says modern Arabs overuse الآخرين following English and that it's now the style of most writers. Phase 2: flag الآخرين where removing it, or replacing it with الناس، غيرك، غيره, keeps the meaning.
+
+## p150 · RULE · عندما for conditional إذا (when = if/whenever)
+- cue: عندما + present tense in a conditional or general statement (عندما أكون …، عندما يأتي … سوف …، عندما يقرر)
+- source: when (used for conditional/temporal if)
+- ✗ عندما أكون منشغلًا بصلاتي، كان ينظر إليّ → ✓ فإذا أقبلتُ على صلاتي أقبل إليّ (author, Ka'b's hadith)
+- ✗ عندما يقابلون أولئك الذين آمنوا → ✓ وإذا لقوا الذين آمنوا (author, البقرة 14)
+- ✗ عندما يقرر أمرًا → ✓ وإذا قضى أمرًا (author, البقرة 117)
+- ✗ عندما أكون مريضًا فهو يشفيني → ✓ وإذا مرضتُ فهو يشفين (author, الشعراء 80)
+- ✗ عندما يأتي سوف أرد الاعتبار لذاتي → ✓ ? (ours: إذا جاء رددتُ لنفسي اعتبارها)
+- note: English when covers both time and condition; Arabic has إذا (الظرفية الشرطية) for a condition expected to happen. Modern writers translate إذا as عندما and overuse it, usually followed by سوف in the answer. Phase 2: when عندما introduces a general or future condition, offer إذا with a past verb (إذا جاء …).
+
+## p150 · RULE · دفع الثمن غاليًا (pay dearly)
+- cue: يدفع/دفع الثمن غاليًا، سيدفع الثمن، دفع ثمن خطئه
+- source: pay dearly, pay the price
+- ✗ سوف أجعله يدفع الثمن غاليًا → ✓ ? (ours: لأُذيقنّه عاقبة فعله / لأجزينّه بما فعل)
+- note: the author footnotes it as a European expression (pay dearly). Arabic speaks of عاقبة، جزاء، وبال (فذاقت وبال أمرها).
