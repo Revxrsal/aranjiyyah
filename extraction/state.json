@@ -1,0 +1,14 @@
+{
+  "next_page": 1,
+  "stop_page": 215,
+  "printed_page_offset": 2,
+  "pages_per_run": 5,
+  "carry": "",
+  "chapters": {
+    "الباب الأول": null,
+    "الباب الثاني": null,
+    "الباب الثالث": null,
+    "الباب الرابع": null
+  },
+  "notes": "PDF 216-222 are the bibliography. Printed page = PDF page + 2. Chapter 3 (grammar, morphology, words, usages, styles) is the main source of rules; chapter 4 holds remedies."
+}
