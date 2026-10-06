@@ -1,3 +1,3 @@
 # الصرف والصيغ
 
-<!-- Entries are appended by /extract-next. Format: see CLAUDE.md -->
+<!-- Built in phase 2 from extraction/candidates.md. Format: see CLAUDE.md -->

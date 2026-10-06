@@ -14,14 +14,32 @@ The rules are distilled, page by page, from أحمد الغامدي، «العر
 - `extraction/state.json` holds the resume point: `next_page`, the per-run
   page count, and a `carry` note for a pattern cut off at a page break.
 - `extraction/log.md` gets one line per processed page. Append only.
+- `extraction/candidates.md` holds the raw phase 1 output. Append only.
+
+## Phases
+
+This is a one-time pass over a static book. Quality of the final skill is
+what matters, not the speed or repeatability of the extraction.
+
+1. **Collect** (`/extract-next`, PDF pages 1-215). Read every page and record
+   anything that could become a rule in `candidates.md`. Favor recall.
+2. **Edit**, once collection is finished. With the whole book in view,
+   merge duplicates and repeated examples, generalize related candidates
+   into broader patterns, drop rhetoric that never became a concrete rule,
+   and use the `CRITERION` and `ACCEPTED` candidates to set judgment rules
+   and avoid false positives. Write the result to `aranjiyyah/references/`
+   in the entry format below, and move the most important criteria into
+   `aranjiyyah/SKILL.md`.
+3. **Evaluate.** Test the finished skill against plain Claude on real
+   Arabic texts and revise it.
 - `scripts/page.sh N` renders PDF page N to a small grayscale PNG and prints
   its path.
 - `.claude/skills/extract-next/` is the `/extract-next` command that runs one
-  extraction session.
+  phase 1 session.
 
 ## Rule entry format
 
-Each reference file is a list of entries in this shape:
+Phase 2 writes each reference file as a list of entries in this shape:
 
 ```
 ### SYN-012 · يلعب دورًا

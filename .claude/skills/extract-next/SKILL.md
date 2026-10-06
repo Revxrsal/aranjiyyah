@@ -1,53 +1,68 @@
 ---
 name: extract-next
-description: Process the next few pages of the العرنجية book into aranjiyyah skill rules, saving progress after every page.
+description: Read the next few pages of the العرنجية book and record candidate patterns in extraction/candidates.md, saving progress after every page.
 argument-hint: "[page count]"
 disable-model-invocation: true
 ---
 
-# Extract the next pages
+# Extract the next pages (phase 1: collect)
 
-Run one extraction session. Work one page at a time and save after every
-page, so a session can stop at any point and the next one resumes cleanly.
+This is phase 1 of a one-time pass over the book. The goal here is
+**recall**: capture everything that could become a rule. Judging, merging
+and pruning happen later in phase 2 with the whole book in view (see
+`CLAUDE.md`), so don't filter hard here. A noisy candidate costs little to
+drop later, but a missed one is gone for good.
+
+Work one page at a time and save after every page, so a session can stop at
+any point and the next one resumes cleanly.
 
 ## 1. Load the resume point
 
 Read `extraction/state.json`. Process `$ARGUMENTS` pages if given, otherwise
-`pages_per_run`. Stop early when you reach `stop_page`.
-
-Do not read the reference files in full; they grow large. Use `grep` to
-check for duplicates and to find the last ID per prefix:
-`grep -ho '^### [A-Z]*-[0-9]*' aranjiyyah/references/*.md | sort | tail`.
+`pages_per_run`. Stop at `stop_page`. Read every page; don't skip any.
 
 ## 2. For each page
 
 1. Run `scripts/page.sh <next_page>` and Read the PNG it prints.
-2. If `carry` is set, finish that pattern using this page first.
-3. Decide what the page offers:
-   - **Patterns** (a foreign construction, its source, a better Arabic
-     form): write entries in the format from `CLAUDE.md`. Put each one in the
-     reference file for its category. Use the printed page number
-     (PDF page + `printed_page_offset`).
-   - **Background only** (history, anecdotes, acknowledgements): add
-     nothing to the references. Do note any rule of thumb that would help
-     judge borderline cases (for example, when a modern usage is acceptable);
-     those go in `remedies.md`.
-   - **Chapter start**: record the PDF page under `chapters` in state.
-4. Before adding an entry, grep the cue words. If the pattern already
-   exists, add the new example pair to that entry instead of duplicating it.
-5. If a pattern runs past the bottom of the page, put a one-line note in
-   `carry` and finish it on the next page. Otherwise clear `carry`.
-6. Append one line to `extraction/log.md`, set `next_page` to the next
-   page, then delete the PNG.
+2. If `carry` is set, continue that thread on this page first.
+3. Append to `extraction/candidates.md` one block per thing worth keeping.
+   Use the printed page number (PDF page + `printed_page_offset`):
 
-Write entries in your own words with short example pairs. Do not transcribe
-the book (see `CLAUDE.md`). If a scan is hard to read, say what you could
-not read in the log line rather than guessing at Arabic text.
+   ```
+   ## p120 · RULE · يلعب دورًا
+   - cue: يلعب/لعب + دورًا
+   - source: play a role
+   - ✗ يلعب الإعلام دورًا كبيرًا في … → ✓ للإعلام أثر كبير في …
+   - note: one line in your own words on why it's foreign
+   ```
+
+   Kinds:
+   - `RULE`: a construction the author treats as foreign, with or without
+     a stated alternative. If there's no alternative, write `✓ ?`.
+   - `EXAMPLE`: another instance of a pattern already recorded. Point to
+     it (`of: p118 يلعب دورًا`) and give only the new example pair.
+   - `CRITERION`: a test for borderline cases (when a modern usage is
+     acceptable, how to tell a calque from a native construction).
+   - `METHOD`: advice on how to rewrite or avoid the problem.
+   - `ACCEPTED`: an expression the author defends as sound Arabic. These
+     prevent false positives.
+
+   Pages with only history, anecdote or rhetoric get no blocks. Strong
+   opinion with no concrete construction behind it is rhetoric. If it does
+   name a construction, record that construction as a `RULE` and leave the
+   opinion out.
+4. If a discussion runs onto the next page, set `carry` to a one-line
+   pointer (e.g. `continuing p118 يلعب دورًا`). Otherwise clear it.
+5. Append one line to `extraction/log.md` (`pdf N (p M) · RULE×2 EXAMPLE×1`
+   or `pdf N (p M) · background: history of translation in Egypt`), set
+   `next_page`, and delete the PNG.
+
+Write in your own words with short example pairs, and don't transcribe the
+book. If a word is unreadable, mark it `[?]` rather than guessing.
 
 ## 3. Wrap up
 
-Commit the changes to state, log and references with a message like
-`extract: pdf pages 41-45 (+3 rules)`. Then tell the user, in two or three
-lines, how many pages were done, how many rules were added or extended, and
-the next page. Suggest `/clear` before the next `/extract-next` so the old
-page images drop out of context.
+Commit the changes to state, log and candidates with a message like
+`extract: pdf pages 41-45 (6 candidates)`. Tell the user in two lines how
+many pages and candidates were added and what the next page is. Suggest
+`/clear` before the next `/extract-next`.
