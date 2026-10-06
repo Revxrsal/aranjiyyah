@@ -2,8 +2,8 @@
 
 One line per PDF page: `pdf N (printed M): what was added or skipped`. Append only; never read in full.
 
-- pdf 1 (printed 3): title page (publisher Takween). Nothing added.
-- pdf 2 (printed 4): copyright/imprint page (1st ed. 1443/2021). Nothing added.
-- pdf 3 (printed 5): TOC part 1; offset +2 confirmed. Chapters from TOC: 1 at pdf 9, 2 at pdf 23, 3 at pdf 43 (النحو from pdf 45). Nothing added.
-- pdf 4 (printed 6): TOC part 2; chapter 4 at pdf 193; section page map saved in state notes. Nothing added.
-- pdf 5 (printed 7): introduction begins; +VOC-001 حرفيًّا, +USE-001 تغذية راجعة, +USE-002 صنعت يومي (named as obvious calques). Intro argument continues on pdf 6.
+- pdf 1 (p 3) · background: title page (publisher Takween).
+- pdf 2 (p 4) · background: imprint, 1st ed. 1443/2021.
+- pdf 3 (p 5) · background: table of contents part 1 (preface; ch.1 p11; ch.2 p25; ch.3 p45, النحو p47).
+- pdf 4 (p 6) · background: table of contents part 2 (section map already in state notes).
+- pdf 5 (p 7) · RULE×5 CRITERION×1: preface; loanwords (كيوت، كمبيوتر) vs. literal calques (حرفيًّا، تغذية راجعة، صنعت يومي). Sentence continues on pdf 6.
