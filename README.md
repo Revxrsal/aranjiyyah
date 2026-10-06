@@ -111,14 +111,14 @@ Two real articles, each next to its rewrite:
 [skills.sh](https://skills.sh):
 
 ```bash
-npx skills add OWNER/aranjiyyah
+npx skills add Revxrsal/aranjiyyah
 ```
 
 **Claude Code plugin**, which lets you pull new rules later with
 `claude plugin update aranjiyyah@aranjiyyah`:
 
 ```bash
-claude plugin marketplace add OWNER/aranjiyyah
+claude plugin marketplace add Revxrsal/aranjiyyah
 claude plugin install aranjiyyah@aranjiyyah
 ```
 
