@@ -73,3 +73,12 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 69 (p 71) · EXAMPLE×1 ACCEPTED×1 CRITERION×1 (footnote pairs for سلبي; logical sense of سلب/إيجاب sound)
 - pdf 70 (p 72) · CRITERION×2 (new terms for new concepts OK; harm is density and displacement)
 - pdf 71 (p 73) · RULE×2 CRITERION×2 (closes مداخل التفرنج; opens خفاء الألفاظ المتفرنجة with مراهق/بالغ). Extra page 71 to finish the idea
+- pdf 72 (p 74) · CRITERION×2 RULE×2 (closes مراهق/بالغ with no native terms; جنس = sex, two senses)
+- pdf 73 (p 75) · EXAMPLE×2 RULE×2 (جنسي compounds in Qur'an translations; فقدت عذريتها; علاقة حميمية)
+- pdf 74 (p 76) · RULE×1 CRITERION×1 EXAMPLE×1 (انتصاب vs إنعاظ; glossing with calques; الجنس الآخر)
+- pdf 75 (p 77) · CRITERION×1 RULE×4 (opens اللحن في استعمال الألفاظ; weak coffee, wear kohl, watery eyes; أخذ/take begins)
+- pdf 76 (p 78) · EXAMPLE×1 ACCEPTED×1 CRITERION×1 RULE×1 (أخذ/take examples; يؤخذ من accepted; استثنائي)
+- pdf 77 (p 79) · RULE×2 METHOD×1 CRITERION×1 (باستثناء; مع بعض الاستثناءات; opens أمثلة من كلام العصريين)
+- pdf 78 (p 80) · METHOD×1 EXAMPLE×1 RULE×1 (read pre-translation texts first; density; أعضاء الأسرة). Extra page
+- pdf 79 (p 81) · EXAMPLE×1 RULE×2 (أفراد/أعضاء الأسرة; يحلم بـ; الوحدة vs الاجتماع). Extra page
+- pdf 80 (p 82) · EXAMPLE×1 RULE×1 (وحدة: army/book/measure units; روح = spirit). Extra page; closes the إدوار حنين item

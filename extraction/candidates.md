@@ -823,3 +823,199 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - ✗ المراهق: من بين ١٣ و١٩ سنة / البالغ: من جاوز ذلك → ✓ ? (Arabic مراهق = near puberty, بالغ = reached puberty)
 - note: Arabic المراهقة means approaching puberty and البلوغ means reaching it; mapping them to teenager and adult moves their boundaries to English age bands. Readers then misread fiqh rulings about المراهق والبالغ.
 - open: the next page may give the native age terms (غلام، يافع، حَزَوَّر، فتى…); collect them as rewrites
+
+## p74 · CRITERION · مراهق/بالغ thread closes without native age terms
+- resolves: p73 مراهق/بالغ
+- note: the author drops the age-terms example after p73 and moves to the الجماع domain; no native age-band words are given. Phase 2 must supply its own rewrites (✓ ours) or keep the rule as a meaning warning only.
+
+## p74 · CRITERION · whole semantic domains get calqued at once
+- note: the author picks one domain with old, well-known native words (الجماع) to show how the translation era replaced many of its words with English-shaped ones. When one word in a text is a calque from such a domain, check its neighbours too.
+
+## p74 · RULE · جنس = sex (male/female)
+- cue: الجنسان، خلق الجنسين، الجنس (للذكر والأنثى)
+- source: sex (the two sexes)
+- ✗ خلق الجنسين → ✓ خلق الزوجين الذكر والأنثى (author, Qur'an 53:45)
+- note: Arabic جنس means kind/genus in general (التمر جنس من الثمر); limiting it to male and female follows English sex.
+
+## p74 · RULE · جنس = sex (intercourse); علاقة جنسية
+- cue: الجنس، علاقة جنسية، العلاقة الجنسية، جنس محرم
+- source: sex, sexual relationship
+- ✗ الجنس محرم بدون زواج → ✓ الجماع/الوطء محرم بغير نكاح (ours)
+- note: English extended sex to the act itself, and translators carried that extension onto جنس, which then reads literally as "the kind/genus" (العلاقة النوعية).
+- open: the author says English built many compounds on sex that translators copied; collect them on p75 with his rewrites
+
+## p75 · EXAMPLE · جنسي compounds in translations of Qur'an
+- of: p74 جنس = sex (intercourse); علاقة جنسية
+- ✗ أعضاؤهم الجنسية → ✓ فروجهم (author, Qur'an 23:5)
+- ✗ لا يقومون بعلاقة جنسية غير مشروعة → ✓ لا يزنون (author, Qur'an 25:68)
+- ✗ نوى أن يقيم علاقة جنسية → ✓ أراد أن يأتي أهله (author, hadith)
+- note: footnote shows how the English sex-compounds replace short native verbs and nouns; the native wording is one word where the calque takes three.
+
+## p75 · EXAMPLE · reader misreads classical جنس as "sex"
+- of: p71 CRITERION calqued senses cut readers off from older texts
+- note: in ابن الفرات's "ما دخلت في محظور من هذا الجنس" (i.e. this kind of forbidden thing), a modern reader takes الجنس as intercourse because زنا is mentioned just before. The original sense (النوع) is nearly dead.
+
+## p75 · RULE · فقدت/خسرت عذريتها
+- cue: فقدت عذريتها، خسرت عذريتها، فقدان العذرية
+- source: lost her virginity
+- ✗ فقدت عذريتها → ✓ فُضَّت / افتُرِعت / ذهبت عُذرتها (author)
+- note: literal translation of "lose"; in Arabic البكارة والعذرة "go" (ذهبت) when taken, they are not lost.
+
+## p75 · RULE · علاقة حميمية / حميمي (intimate)
+- cue: علاقة حميمية، حميمية، كان حميميًا مع
+- source: intimate relationship, intimacy, be intimate with
+- ✗ وقد كنتم مع بعضكم البعض في علاقة حميمية → ✓ وقد أفضى بعضكم إلى بعض (author, Qur'an 4:21)
+- ✗ كان حميميًا مع زوجته (ولم يجامع) → ✓ بنى بأهله / باشرها (author, hadith; ours for باشر)
+- ✗ سيقيموا علاقة حميمية → ✓ يُعرِّسوا بهن (author, hadith)
+- note: Arabic حميم is a close friend (he is an intimate friend = هو صاحب حميم, fine); English then stretched intimacy to the sexual relationship, and the Arabic copy followed that stretch.
+- ACCEPTED: صاحب حميم / صديق حميم for a close friend is native.
+
+## p76 · RULE · انتصاب (erection) displacing native verbs
+- cue: انتصب/انتصاب (of the male organ)
+- source: erect, erection
+- ✗ انتصب/انتصاب → ✓ أنعظ/الإنعاظ، قام، انتشر (author)
+- note: an example of الإماتة والتغليب in vocabulary: Arabic had many words for this (إنعاظ, common in adab, fiqh and medicine until the late 19th century; also قام، انتشر، انتفخ، ورم، وتد), and only انتصب survives because it matches English erect. Soft flag: انتصب is Arabic, the issue is that it was chosen for matching English.
+
+## p76 · CRITERION · glossing native words with the calqued one
+- note: editors now gloss classical words like الإنعاظ والانتشار in footnotes with the word that matches English (انتصب), as if the native word needs the calque to be understood. A sign that a calque has become the default; when explaining an old word, prefer a native synonym.
+
+## p76 · EXAMPLE · علاقات جنسية غير مشروعة مع الجنس الآخر
+- of: p74 جنس = sex (intercourse); علاقة جنسية
+- cue: الجنس الآخر، علاقات جنسية غير مشروعة
+- source: have unlawful/illegitimate sexual relations with, the opposite sex
+- ✗ الأشخاص الذين يقيمون علاقات جنسية غير مشروعة مع الجنس الآخر → ✓ مسافحات/متخذات أخدان؛ الزناة (author's Qur'an 4:25 wording; ours for الزناة)
+- note: a modern tafsir glosses غير مسافحات ولا متخذات أخدان with an English sentence in Arabic words.
+
+## p77 · CRITERION · اللحن في استعمال الألفاظ (collocation errors) judged by taste
+- note: opens a section on calques subtler than إيجابية or جنس: words that are Arabic and grammatical but paired in ways Arabic doesn't pair them. The author cites الجاحظ on a man mocked for "افتحوا سيوفكم" (for سُلّوها) and "است الأرض" (for وجه الأرض): the words were understood and grammatical, yet counted as لحن because native taste (الذوق، الملكة) rejected the pairing. Phase 2: a collocation can be عرنجية even when every word and every ending is correct; the test is whether a native speaker would pair these words.
+
+## p77 · RULE · قهوة ضعيفة (weak coffee)
+- cue: قهوة ضعيفة، شاي ضعيف
+- source: weak coffee
+- ✗ أحب القهوة الضعيفة → ✓ أحب القهوة الخفيفة (ours)
+- note: one of three colloquial sentences the author offers as instantly understood yet felt as foreign; he gives no rewrite.
+
+## p77 · RULE · يلبس كحلًا (wear make-up)
+- cue: يلبس/تلبس + كحل/مكياج
+- source: wear kohl/make-up
+- ✗ زيد يلبس كحلًا كل يوم → ✓ يكتحل كل يوم (ours)
+- note: English "wear" covers make-up; Arabic لبس is for clothing, and kohl has its own verb.
+
+## p77 · RULE · عينه مائية (watery eyes)
+- cue: عين مائية، عيناه مائيتان
+- source: his eyes became watery
+- ✗ صارت عينه مائية من الحزن → ✓ اغرورقت عيناه / دمعت عينه من الحزن (ours)
+
+## p77 · RULE · أخذ used like take
+- cue: أخذ/يأخذ + object where English uses take
+- source: take
+- ✓ ? (the author's examples follow on p78)
+- note: أخذ and take have overlapping senses; some English uses don't carry over to Arabic, though the meaning would be understood.
+- open: collect the author's take/أخذ examples and rewrites on p78
+
+## p78 · EXAMPLE · أخذ for take = tolerate / take it (cold, an insult)
+- of: p77 أخذ used like take
+- resolves: p77 أخذ used like take (examples)
+- ✗ لا أقدر على أخذ إساءته → ✓ لا أقدر على احتمال إساءته / الصبر عليها (author)
+- ✗ ما أقدر آخذ هذا البرد → ✓ لا أحتمل هذا البرد / لا أطيقه (ours)
+- ✗ أيش أخذت من ضحكته؟ → ✓ ماذا فهمت من ضحكته؟ (ours)
+- note: the sense is understandable (taking comes before carrying, احتمال), but the usage is strange to Arabic ears.
+
+## p78 · ACCEPTED · أخذ = infer from a text
+- cue: يؤخذ من الآية كذا، أخذتُ من كلامه أنه …
+- note: the author grants that "take" in the sense of understand is close to native يؤخذ من الآية كذا (it is inferred). Don't flag أخذ/يؤخذ من when it means inferring a ruling or meaning from a text; flag it for tolerate/endure.
+
+## p78 · CRITERION · old calques feel native through habit
+- note: many collocation calques entered written Arabic early; readers got used to them and their sense is easy to work out, so taste stopped rejecting them. Familiarity is not evidence of nativeness; compare with pre-translation usage.
+
+## p78 · RULE · استثنائي (exceptional)
+- cue: استثنائي، استثنائيون، استثنائية (as praise)
+- source: exceptional
+- ✗ فلان استثنائي / هم استثنائيون → ✓ فلان عجيب، منقطع النظير، نسيج وحده، متفرد، فذّ (author)
+- ✗ (translation of) قرآنًا عجبًا = قرآنًا استثنائيًا (author's footnote, reverse direction)
+- note: Arabic استثناء is the grammatical/logical exception (إلا، سوى، ما عدا); English built a praise adjective from exception and Arabic copied it.
+- open: the author continues on p79 with how the exception particles were rendered; collect any further derivations (استثنائيًّا، بشكل استثنائي)
+
+## p79 · RULE · باستثناء (with the exception of)
+- cue: باستثناء
+- source: with the exception of, except for
+- ✗ جاؤوا جميعًا باستثناء أحمد → ✓ جاؤوا جميعًا إلا أحمد (author)
+- ✗ ما فيه عيب باستثناء أنه سريع الكلام → ✓ ما فيه عيب إلا أنه سريع الكلام / غير أنه (author; ours for غير أنه)
+- note: the noun phrase has spread and now outweighs the native exception particles (إلا، سوى، غير، ما عدا).
+
+## p79 · RULE · مع بعض الاستثناءات / بشكل استثنائي
+- cue: مع بعض الاستثناءات، مع استثناءات قليلة، بشكل استثنائي
+- source: with few exceptions, exceptionally
+- ✗ لم تعن الكتب الستة بتخريجها، مع بعض الاستثناءات → ✓ … إلا في الأقل / إلا قليلًا / إلا نادرًا / إلا أحاديث قليلة (author)
+- ✗ (back-translated) إلا اليسير القليل منه = فقط بشكل استثنائي جدًا؛ في الندرة = بشكل استثنائي؛ إلا في الأقل النادر = مع بعض الاستثناءات القليلة جدًا (author's footnote: الطبري، ابن حزم، ابن خلدون)
+- note: the footnote pairs show the native forms these phrases displaced.
+- resolves: p78 استثنائي open (further derivations)
+
+## p79 · METHOD · test a suspect phrase against classical sentences that say the same thing
+- note: the author lists sentences from classical authors next to their English-style renderings. A useful phase 2 device: for each calque, give one classical-style sentence that expresses the same idea, as he does here.
+
+## p79 · CRITERION · calques in respected writers spread fastest
+- note: opens أمثلة من كلام العصريين: the author quotes major writers and language teachers from roughly the last 90 years, not obscure ones. Their calques do the most harm because learners imitate them for eloquence. Phase 2: a calque is not acceptable just because a famous stylist used it.
+
+## p80 · METHOD · build taste on pre-translation texts first
+- note: the author advises a learner to start with writing from before the translation era (Qur'an, sunna, classical prose) to form the ملكة, and to read modern stylists only afterwards. Useful for the skill's REM section.
+
+## p80 · EXAMPLE · density: two or three calques per sentence in major writers
+- of: p72 CRITERION a few loan senses are tolerable; the harm is in their number
+- note: the author's second reason for quoting famous writers: the calques are not rare; a single sentence often holds two or three.
+
+## p80 · RULE · أعضاء الأسرة (family members)
+- cue: أعضاء الأسرة، أعضاء أسرته، أفراد الأسرة
+- source: family members
+- ✗ منفردًا بأعضاء أسرته → ✓ منفردًا بأهل بيته (author: أهل البيت)
+- note: first item in the author's commentary on a 1935 text by إدوار حنين. Some writers swap عضو for another word but keep the English frame.
+- open: p81 likely names the substitute (أفراد؟) and comments on the rest of the quoted sentence (حُكم عليه أن، لا يحلم بـ، روح القومية)
+
+## p81 · EXAMPLE · أحد أفراد أسرته / أعضاء أسرتي
+- of: p80 أعضاء الأسرة (family members)
+- resolves: p80 open (substitute word): أفراد keeps the same English frame
+- ✗ أحد أفراد أسرته → ✓ أحد أهله / رجل من أهل بيته (author's examples; ours for exact wording)
+- ✗ ومعي كل أعضاء أسرتي → ✓ ومعي كل أهلي (author: the colloquial speaker gets it right, the "fusha" attempt doesn't)
+- ✗ (back-translated) بأهلكم أجمعين = بأعضاء أسرتكم؛ وزيرًا من أهلي = من أعضاء أسرتي؛ في عشرة من أهل بيته = من أعضاء أسرته؛ قال قائل من أهله = أحد أعضاء أسرته؛ بعض أهلي = بعض أعضاء أسرتي (author's footnote)
+- note: أفراد الأسرة is no better than أعضاء الأسرة; the native word is أهل.
+
+## p81 · RULE · يحلم بـ / حلمي أن (dream of = hope, wish)
+- cue: يحلم بـ، لا يحلم بـ، كان حلمي أن، أحلام (= aspirations)، تحقيق الحلم
+- source: dream of, my dream was to
+- ✗ كان لا يحلم بالوحدة → ✓ كان لا يطمع في … / لا يرجو (ours, following the author's طمع)
+- ✗ كان حلمي أن أكون كاتبًا → ✓ كانت أمنيتي أن أكون كاتبًا (ours)
+- ✗ هي مجرد رغبات وأحلام تراود الشاعر → ✓ إن هي إلا رغائب ومُنًى (author)
+- ✗ أتحلم أن تصلك ليلى؟ → ✓ أتطمع من ليلى بوصل (author, مجنون ليلى)
+- ✗ والله ما كانت تحلم بمثله → ✓ والله ما كانت تطمع في مثله (author)
+- ✗ (back-translated) أمنية المتمني وغاية الحسن = كانت حلمًا (author's footnote, ابن حزم)
+- note: Arabic حلم is a sleep vision; English dream was extended to hopes and the Arabic copy followed.
+- resolves: p37 حلم تحقق (the author treats حلم = aspiration as a calque; native: أمنية، أمل، طمع، رغيبة، مُنية)
+
+## p81 · RULE · الوحدة / متحد / توحد (unity, united)
+- cue: الوحدة، متحدون، موحدة، توحَّد، جبهة موحدة، توحيد الجهود
+- source: unit, unity, united, united front
+- ✗ نحن متوحدون / وهم متحدون → ✓ نحن جميع / وهي جميع (author, Qur'an 54:44 and hadith)
+- ✗ كنتم في حالة انفصال ووحّدكم الله → ✓ كنتم متفرقين فجمعكم الله بي (author, hadith)
+- ✗ شكّل زوجات الرسول جبهة موحدة → ✓ اجتمع نساء النبي في الغيرة عليه (author, hadith)
+- ✗ بتوحد جهود العاملين / توحُّدهم → ✓ باجتماع الفعلة وتعاونهم / اجتماعهم (author, ابن خلدون)
+- note: the Arab norm for coming together is اجتماع/جميع/جمع; وحدة (from unit) won out through English. 
+- open: discussion of الوحدة continues on p82; collect remaining comments and whether وحدة is ever accepted
+
+## p82 · EXAMPLE · وحدة for army unit, book unit, unit of measure
+- of: p81 الوحدة / متحد / توحد (unity, united)
+- resolves: p81 open (rest of الوحدة)
+- ✗ كان هناك مثل هذه الحوادث في وحدتين من الجيش → ✓ … في سريّتين / كتيبتين من الجيش (author's native words; ours for the sentence)
+- ✗ يتكون الكتاب الخامس من خمسة أقسام، يحتوي كل قسم على ست وحدات → ✓ … في كل قسم ستة فصول/أبواب (ours)
+- ✗ الميل من وحدات الطول → ✓ ? (the author lists it among calqued uses but gives no rewrite)
+- note: colloquial still uses الاجتماع for coming together; fusha writers dropped it for وحدة. The author says all these English senses of unit now dominate.
+- open: وحدة for a unit of measure may be a defensible technical term (p72 CRITERION new terms for new concepts); phase 2 decides
+
+## p82 · RULE · روح = spirit (team spirit, spirit of the law, his spirit)
+- cue: روح الفريق، روح القبيلة، روح الأمة، روح القومية، روح القانون، روح الشريعة، روح المعاهدة، روحه في، روح سامية
+- source: spirit (team spirit, the spirit of the law, high spirits)
+- ✗ لئلا يختل عليه شأن روح الفريق → ✓ لئلا يختل عليه شأن عصبيته (author, ابن خلدون)
+- ✗ روح القانون / روح الشريعة / روح المعاهدة → ✓ مقاصد القانون / مقاصد الشريعة / مقاصد المعاهدة (author)
+- ✗ أعجبتني روحه في طلب العلم → ✓ أعجبتني همته / نشاطه في طلب العلم (author)
+- ✗ الروح الأكثر توقدًا → ✓ أجلّ الناس همة (author, ابن حزم)
+- ✗ كان رجلًا روحه سامية → ✓ كان رجلًا عالي الهمة (author, وفيات الأعيان)
+- note: English spirit covers group loyalty, intent and zeal; Arabic has عصبية/موالاة، مقاصد، همة/حماسة/نشاط, and روح keeps only its own senses.
