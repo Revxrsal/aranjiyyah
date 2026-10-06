@@ -2121,3 +2121,120 @@ Phase 1 output from /extract-next. Raw, generous, append only. Phase 2 turns thi
 - of: p130 CRITERION a stray early witness is weak evidence; p129 CRITERION derivable ≠ native
 - resolves: p130 three notes; p126 خطة (investigation closed)
 - note: even with a rare old precedent, a word that was obscure and became widespread only because it matches European usage is still عرنجية in effect: its dominance (تغليب) comes from English, and it kills (إماتة) the well-known native word. The cost is a break with the Qur'an, hadith and classical prose: readers come to find the native word strange and the English-matching one familiar, defending it with a single old instance. The aim of guarding Arabic is to keep the dominant usages and senses of classical speech, not to license whatever one old writer once used. Example: درس for lesson spread only through frequent rendering of lesson and nearly displaced العبرة. Phase 2: ask whether the usage became common through translation and whether it has displaced a native word; if both, flag it regardless of a rare precedent.
+
+## p132 · CRITERION · hidden عجمة lives in styles, not single words
+- note: opening of أساليب الكلام وتراكيبه (how Arabs greet, address, command, forbid, ask, wonder, describe, allude, omit and derive). The author calls it the gravest and most corrupted section. Looking only at single words and constructions can pull the reader out of overt foreignness into hidden foreignness (العجمة الخفية): replacing one calque with another that still copies the European style. Phase 2: when rewriting, don't swap a flagged word for a near-synonym that keeps the same English frame; recast the sentence in an Arabic style.
+
+## p132 · RULE · الكاف الدخيلة, and بوصفه as its false fix
+- of: p29 RULE الكاف الدخيلة; p121 RULE كـ = as for a role
+- resolves: p121 open (styles section treats كـ = as explicitly)
+- cue: كـ + role noun (كشاعر، كمعلم، كمسلمين); بوصفه/بوصفها/بصفته + role noun
+- source: as a poet, as a teacher, as Muslims
+- ✗ هو حسنٌ كشاعر، سيئٌ كمعلم → ✓ هو في الشعر حسن، وفي التعليم سيئ (author) / أحسِنْ به شاعرًا، وأبئِسْ به معلمًا (author)
+- ✗ هو حسنٌ بوصفه شاعرًا → same rewrites (author)
+- ✗ كمسلمين لا يجوز لنا كذا → ✓ لا يجوز لنا معاشرَ المسلمين كذا / نحن مسلمون لا يجوز لنا كذا / لا يجوز لنا كذا ونحن مسلمون / ونحن، مسلمين، لا يجوز لنا كذا / ولأنّا مسلمون لا يجوز لنا كذا (author)
+- note: some suggested بوصفه in place of كـ, but that only hunts for the Arabic word closest to as and keeps the European frame; it is itself عجمية even if not an exact match. Arabic spreads the meaning over several styles: a prepositional phrase of field (في الشعر), تعجب (أحسن به شاعرًا), اختصاص (معاشر المسلمين), a nominal or حال clause (ونحن مسلمون), or causal لأنّ.
+
+## p133 · METHOD · recast the whole sentence rather than replace كـ
+- of: p132 RULE الكاف الدخيلة
+- note: the meaning of as can be carried by a distant construction: turn the noun into a verb, a clause into a word, or a word into a clause. The author's table compares classical sentences (وفيات الأعيان، مقدمة ابن خلدون) with their English translations, which use as, and a back-translation into modern Arabic, which brings back the كاف دخيلة.
+
+## p133 · EXAMPLE · الكاف الدخيلة (وفيات الأعيان table)
+- of: p132 RULE الكاف الدخيلة
+- ✗ عند وفاة والده، حلّ محلّه كمدرّس → ✓ ولما توفي والده قعد مكانه للتدريس (author, classical original)
+- ✗ ككاتب للرسائل، وصل مكانة عالية وتجاوز كل سلف → ✓ برز في صناعة الإنشاء، وفاق المتقدمين (author, classical original)
+- ✗ إن إعجابهم بك كعالم متعلم وضرورة وجود كاتب مثلك سوف يدفعهم إلى وضع الثقة فيك → ✓ فإن إعجابهم بأدبك وحاجتهم إلى كتابتك يحوجهم إلى حسن الظن بك (author, classical original)
+- note: the classical text uses a لـ of purpose (للتدريس), a field noun (في صناعة الإنشاء), or a possessive noun (بأدبك، كتابتك) where English needs as. The back-translations also show عند وفاة (on his death), حلّ محلّه (replaced), وصل مكانة عالية (reached pre-eminence), ضرورة وجود (the necessity of having), سوف يدفعهم إلى (will induce them to), وضع الثقة في (place confidence in).
+- open: the table continues on p134 (more وفيات الأعيان rows, then مقدمة ابن خلدون); collect them
+
+## p133 · RULE · وضع الثقة في
+- cue: وضع/يضع + الثقة + في
+- source: place confidence in
+- ✗ سوف يدفعهم إلى وضع الثقة فيك → ✓ يحوجهم إلى حسن الظن بك (author) / يثقون بك (ours)
+- note: back-translation shows the English collocation; classical Arabic says أحسن الظن به، وثق به.
+
+## p133 · RULE · ضرورة وجود
+- cue: ضرورة وجود + noun
+- source: the necessity of having
+- ✗ ضرورة وجود كاتب مثلك → ✓ حاجتهم إلى كتابتك (author)
+- note: English nominal chain; Arabic uses حاجة إلى or a verb (احتاجوا إلى).
+
+## p134 · EXAMPLE · الكاف الدخيلة (مقدمة ابن خلدون table)
+- of: p132 RULE الكاف الدخيلة
+- resolves: p133 open (table finished)
+- ✗ وقد نُقل كإشارة إلى تميّز المأمون وحسن عشرته … → ✓ ونُقل في فضائل المأمون وحسن عشرته … (author, classical original)
+- ✗ لا يمكن استخدام أحداث الفتوحات الإسلامية كحجة ضد (الملاحظات السابقة) → ✓ ولا يُعارَض ذلك بما كان في الفتوحات الإسلامية (author, classical original)
+- ✗ وحتى لو حدث ذلك، افتراضيًا، كاستثناء نادر، فإن وجوده سيكون غير ثابت → ✓ وأنه وإن ندر ذلك في صورةٍ مفروضة، لا يصح بقاؤه (author, classical original)
+- note: classical Arabic uses في + noun (في فضائل), a passive verb (يُعارَض بـ), or a verb (ندر) where English needs as + noun. The back-translations also show إشارة إلى (indication of), استخدام … كحجة ضد (use as an argument against), حتى لو (even if), افتراضيًا (hypothetically), وجوده سيكون غير ثابت (his existence would be precarious).
+
+## p134 · RULE · كحجة ضد / استخدم … كحجة
+- of: p132 RULE الكاف الدخيلة
+- cue: كحجة ضد، استخدام … كحجة، يُستخدم كدليل على
+- source: use as an argument against
+- ✗ لا يمكن استخدام ذلك كحجة ضد ما سبق → ✓ ولا يُعارَض ما سبق بذلك (author) / ولا يُحتجّ بذلك على ما سبق (ours)
+- note: Arabic has the verbs عارض بـ and احتجّ بـ على; ضدّ as a preposition of opposition is also English against.
+
+## p134 · RULE · افتراضيًّا / كاستثناء نادر
+- cue: افتراضيًا، كاستثناء، كاستثناء نادر
+- source: hypothetically; as a rare exception
+- ✗ وحتى لو حدث ذلك افتراضيًا كاستثناء نادر → ✓ وإن ندر ذلك في صورةٍ مفروضة (author) / ولو فُرض أنه وقع نادرًا (ours)
+- note: English adverb and as-phrase; Arabic says فُرض، في صورة مفروضة, and expresses rarity with a verb (ندر).
+
+## p134 · RULE · حرفيًّا = literally, as an intensifier, and حقيقةً/فعليًّا as its false fix
+- of: p7 RULE حرفيًّا للتوكيد
+- cue: حرفيًّا، حقيقةً، فعليًّا used for emphasis (هو حرفيًّا لذيذ، أنا حرفيًّا أعرف)
+- source: literally (intensifier)
+- ✗ هو حرفيًّا لذيذ → ✓ هو واللهِ لذيذ (author)
+- ✗ أنا حرفيًّا أعرف مرادك → ✓ إني لأعلمُ مرادك (author)
+- ✗ أنا كنت حرفيًّا أصبّ الماء → ✓ صببتُ الماء صبًّا (author)
+- note: some replace حرفيًّا with حقيقةً or فعليًّا, which fixes the word but keeps a European style: an adverb glued onto the clause for emphasis. That keeps the foreign taste and kills (إماتة) the Arabic means of emphasis: an oath (والله), لام التوكيد with إنّ, the absolute object (المفعول المطلق), and many others. Phase 2: flag emphasis adverbs that render literally/really/actually and offer one of the native devices.
+
+## p134 · METHOD · native devices of emphasis
+- of: p134 RULE حرفيًّا = literally
+- note: for emphasis, reach for القسم (واللهِ)، إنّ + لام التوكيد (إني لأعلم)، المفعول المطلق (صببتُ الماءَ صبًّا), rather than an adverb like حقيقةً، فعليًّا، حرفيًّا، بالفعل.
+
+## p135 · RULE · وجّه انتقاداتٍ مُرّة
+- cue: وجّه/وُجّهت + انتقاد(ات) + إلى؛ انتقادات مرّة؛ انتقادات (plural)
+- source: direct bitter criticisms at
+- ✗ وُجّهت إلى أبي حنيفة وإلى مدرسته انتقاداتٌ مُرّة → ✓ عابه ناسٌ كثير وأغلظوا في ذمّه وذمّ أصحابه (ours) / طعن فيه قومٌ وفي أصحابه طعنًا شديدًا (ours)
+- note: each word has an old root, but the sentence is built on an English frame: English directs criticism (وجّه), pluralizes it (criticisms, which the classical writers hardly ever do with انتقاد), and calls it bitter (مُرّة). The words were old, the assembly is foreign. This is a model of hidden عجمة in a style.
+- open: the author may give his own rewrite on p136
+
+## p135 · RULE · انتقد/انتقاد = criticize, crowding out the native words of blame
+- cue: انتقد، انتقاد، انتقادات، ينتقد (for finding fault)
+- source: criticize, criticism
+- ✗ انتقده الناس → ✓ عابه / ذمّه / طعن فيه / لامه / تعرّض له / أنكر عليه (author's list from the classical texts; ours for wording)
+- note: نقد in the sense of blame and fault-finding is old (حديث أبي الدرداء: إن نقدتَ الناس نقدوك، i.e. عبتَهم واغتبتَهم). But using it so often and letting it override all the other words Arabs used for this meaning came from matching European usage. The footnote shows English translators rendering يلمزك، يعيبوا، سبّ، ذمّ، طعن، التعرض لأحد، يعيبون as criticism / criticize, which is the route by which انتقاد grew to cover them all. Phase 2: don't flag every نقد/انتقد; flag it when a more specific native word fits (عاب، ذمّ، طعن، لام، لمز) and when it comes in English collocations (وجّه انتقادًا، انتقادات مرّة، انتقاد بنّاء).
+
+## p135 · RULE · انتقاد بنّاء / هدّام / إيجابي
+- cue: انتقاد/نقد + بنّاء، هدّام، إيجابي، سلبي
+- source: constructive / destructive / positive criticism
+- ✗ انتقاد بنّاء → ✓ ? (see p136)
+- note: modern Arabic describes criticism with the same adjectives English uses. Links to p69/p70 إيجابي/سلبي.
+- open: the list continues on p136; collect the rest and the author's native alternatives
+
+## p136 · EXAMPLE · انتقاد بنّاء / هدّام / إيجابي (rest of the list)
+- of: p135 RULE انتقاد بنّاء / هدّام / إيجابي
+- resolves: p135 open (list finished)
+- cue: انتقاد بنّاء، انتقاد هدّام، انتقاد إيجابي، انتقاد سلبي، انتقادات واسعة النطاق، انتقاد غير مبرَّر، انتقادات حادّة
+- source: constructive / destructive / positive / negative / wide-ranging / unjustified / sharp criticism
+- ✗ تعرّض لانتقادات واسعة النطاق → ✓ عابه كثير من الناس (ours)
+- ✗ انتقاد غير مبرَّر → ✓ عيبٌ بغير حق / طعنٌ بلا حجة (ours)
+- ✗ انتقادات حادّة → ✓ ذمٌّ شديد / أغلظوا له القول (ours)
+- note: the author gives no rewrite; his point is that the mind that thinks in these pairings is thinking in English and putting words where English puts them. Such a writer then reads classical Arabic through European habits and finds what isn't in them strange.
+
+## p136 · CRITERION · an error that looks grammatical may really be a borrowed style
+- note: scholars sometimes argue over a new construction as a question of grammar or morphology when the real problem is that the style is foreign. Example from p50 (الفتيات الأجمل): they debate the agreement of the adjective in gender and number, while the real fault is copying a European adjective-noun phrase where Arabs use إضافة (أجمل الفتيات). Phase 2: when a construction prompts a grammar debate, first ask whether Arabic would express the meaning with a different structure altogether.
+
+## p136 · RULE · السبب الرئيسي / الرئيس (adjective for main/principal)
+- of: p49 الفتيات الأجمل (adjective instead of إضافة)
+- cue: الرئيسي/الرئيسية/الرئيس as an adjective (السبب الرئيسي، العامل الرئيس، المصدر الرئيسي، الطعام الرئيسي، المدينة الرئيسية)
+- source: main / principal reason, source, dish
+- ✗ السبب الرئيسي / السبب الرئيس → ✓ رأس الأسباب / أعظم الأسباب / أكبر الأسباب (ours, from the author's note that Arabs use إضافة)
+- ✗ المصدر الرئيسي للكفر → ✓ رأس الكفر (author, from the hadith ورأسُ الكفر نحو المشرق)
+- ✗ هو طعامهم الرئيسي → ✓ عامّة مأكلهم / غالب عيشهم (author, from ابن خلدون)
+- ✗ المدينة الرئيسية / القرية الرئيسية → ✓ أمّ القرى (author, from Qur'an)
+- ✗ المجرمون الرئيسيون → ✓ أكابر مجرميها (author, from Qur'an)
+- ✗ همّنا الرئيسي → ✓ أكبر همّنا (author, from the hadith ولا تجعل الدنيا أكبر همّنا)
+- ✗ البول هو السبب الرئيسي (لعذاب القبر) → ✓ أكثرُ عذابِ القبر من البول (author, from the hadith)
+- note: scholars argued over رئيسي vs رئيس as a question of morphology, but the real fault is the style: English uses an adjective (principal, main, meaning the head and foremost of a thing), and Arabic took the adjective-noun pattern with it. Arabs normally use إضافة: رأس الشيء، أعظمه، أكبره، عامّته، غالبه، أمّ كذا. The footnote shows English translations of Qur'an and hadith rendering these إضافات as main/principal. Phase 2: offer a superlative or رأس/أمّ/عامّة/غالب + إضافة.

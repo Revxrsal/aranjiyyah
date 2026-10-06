@@ -131,3 +131,8 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 127 (p 129) · CRITERION×2 (classical خُطّة = need/matter; derivable ≠ native, إماتة of تدبير)
 - pdf 128 (p 130) · CRITERION×2 EXAMPLE×1 (three notes on proving foreignness: modern spread, stray witness; درس)
 - pdf 129 (p 131) · CRITERION×1 (third note: rare precedent + English-driven dominance still عرنجية; closes the مسألة)
+- pdf 130 (p 132) · CRITERION×1 RULE×1 (styles section opens; الكاف الدخيلة and بوصفه)
+- pdf 131 (p 133) · METHOD×1 EXAMPLE×1 RULE×2 (كـ table: وفيات الأعيان rows; وضع الثقة في، ضرورة وجود)
+- pdf 132 (p 134) · EXAMPLE×1 RULE×3 METHOD×1 (كـ table: ابن خلدون rows; حرفيًّا and its false fixes حقيقةً/فعليًّا)
+- pdf 133 (p 135) · RULE×3 (وجهت انتقادات مرة; انتقاد crowding out عاب/ذم/طعن; انتقاد بنّاء)
+- pdf 134 (p 136) · EXAMPLE×1 CRITERION×1 RULE×1 (rest of انتقاد adjectives; style vs grammar debates; السبب الرئيسي)
