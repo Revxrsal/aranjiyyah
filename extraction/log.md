@@ -20,3 +20,13 @@ One line per PDF page: `pdf N (printed M): what was added or skipped`. Append on
 - pdf 16 (p 18) · background: Ibn Taymiyya on language and religion; section on fusha's stability as a virtue; orientalist quote begins.
 - pdf 17 (p 19) · background: orientalist quote continues (English can't read 400-year-old English; Arabic writers across centuries and regions share one language). Extension page.
 - pdf 18 (p 20) · background: quote ends; new section مغبة التدوين بكلام العامة begins (Maghrebi colloquial poetry hard to read). Extension page; stopped at the new heading.
+- pdf 19 (p 21) · background: Ibn Quzman's colloquial verse vs. Andalusian exegetes who wrote in fusha; writing in dialect would have cut later readers off.
+- pdf 20 (p 22) · background: calls to write in dialect; new section التدوين بعربية لا عامية ولا فصيحة begins (so-called الفصحى المعاصرة), continues.
+- pdf 21 (p 23) · CRITERION×1 RULE×2 (finished carry on الفصحى المعاصرة; new section العربية ديانة وليست هوية ولا تراثا)
+- pdf 22 (p 24) · EXAMPLE×1 CRITERION×1 RULE×3 (finished carry; mock hybrid sentence أنا أكون كثيرًا أفعل حبًّا لك في القلب خاصتي)
+- pdf 23 (p 25) · RULE×1 ACCEPTED×1 (chapter 2 العربية الفصحى المعاصرة begins; history of the French in Egypt starts)
+- pdf 24 (p 26) · background: Muhammad Ali's missions to France, translation as the basis of the النهضة; al-Shayyal's three tiers of translators; quote on Raphael Zakhour's literal style begins. Extension page.
+- pdf 25 (p 27) · CRITERION×1 METHOD×1 (finished al-Shayyal quote; Tahtawi literal-translation example begins)
+- pdf 26 (p 28) · RULE×2 CRITERION×1 (finished Tahtawi examples; how translated textbooks spread the style). Extension page.
+- pdf 27 (p 29) · METHOD×1 CRITERION×1 RULE×4 (Van Dyck Bible; al-Hilali's الكاف الدخيلة ، برّر ، تبنّى ، نكران الذات). Extension page.
+- pdf 28 (p 30) · CRITERION×1 RULE×3 EXAMPLE×1 (Van Dyck vs Jesuit Bible table; al-Rafi'i's الجملة القرآنية article begins). Extension page; cap reached.
