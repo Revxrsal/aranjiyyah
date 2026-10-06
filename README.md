@@ -122,6 +122,10 @@ claude plugin marketplace add Revxrsal/aranjiyyah
 claude plugin install aranjiyyah@aranjiyyah
 ```
 
+**Cursor plugin.** The repo is also a Cursor plugin (`.cursor-plugin/`).
+Until it appears in Cursor's marketplace, use the `npx skills` command above,
+which installs into Cursor too.
+
 **Claude apps.** Download the [`skills/aranjiyyah`](skills/aranjiyyah) folder
 as a zip and upload it under Skills in Claude's settings.
 
@@ -169,7 +173,8 @@ reasoning behind a rule, go to the cited page.
 
 ```
 skills/aranjiyyah/          the skill (SKILL.md + references/)
-.claude-plugin/             plugin and marketplace manifests
+.claude-plugin/             Claude Code plugin and marketplace manifests
+.cursor-plugin/             Cursor plugin manifest
 extraction/
   candidates.md             raw output of the collect phase
   decisions.md              rulings that override the book and the model
@@ -181,7 +186,7 @@ extraction/
   build-skill/              /build-skill: regenerate the references
 scripts/page.sh             render one page of your own copy of the book
 sample-articles/            real articles and their rewrites
-assets/                     images for this README
+assets/                     README images and the plugin logo
 ```
 
 </details>

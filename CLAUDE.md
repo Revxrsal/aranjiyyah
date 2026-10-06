@@ -15,6 +15,8 @@ repo, which is public.
   sits under `skills/` so that `npx skills add` and Claude Code plugins find it.
 - `.claude-plugin/` holds `plugin.json` and `marketplace.json`, which make the
   repo root a Claude Code plugin and a one-plugin marketplace.
+  `.cursor-plugin/plugin.json` makes it a Cursor plugin too, with
+  `assets/logo.png` as its logo. Keep the three descriptions in step.
 - `extraction/state.json` holds the resume point: `next_page`, the per-run
   page count, and a `carry` note for a pattern cut off at a page break.
 - `extraction/log.md` gets one line per processed page. Append only.
