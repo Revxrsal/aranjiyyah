@@ -20,6 +20,11 @@ done so far.
 Read `extraction/candidates.md` in full. This is the one place where that
 is the point. Read `CLAUDE.md` for the entry format.
 
+Read `extraction/decisions.md`. Decisions above the **Pending** heading are
+the user's rulings: apply them on every build, and let them override both
+the book and your own judgment. Leave pending items as they were handled
+before.
+
 ## 2. Consolidate
 
 1. **Group** candidates by pattern. Attach every `EXAMPLE` to the `RULE`
@@ -59,6 +64,11 @@ If a category ends up with only one or two entries, or one grows past
 about 300 lines, adjust: merge it into a neighbor or split it by
 sub-topic, add a table of contents, and update the table in `SKILL.md`.
 
+Keep `الحكم` to the severity and one short reason the usage is foreign, or
+when it's acceptable. Leave out history, who first noted it and how the
+author argues it; the page reference covers that. Every line is read at
+review time, so it should help decide a case.
+
 Write in your own words with short examples, and don't reproduce the
 book's text. Each entry cites printed pages, so a reader can go back to
 the source.
@@ -83,7 +93,8 @@ Keep `SKILL.md` under about 200 lines. Detail belongs in `references/`.
   confirm each one exists.
 
 Write `extraction/build-report.md`: counts per file, candidates dropped and
-why (grouped, not one by one), open questions decided at 🟡, and anything
-that needs the user's judgment. Commit with a message like
+why (grouped, not one by one), open questions decided at 🟡, and which
+decisions were applied. Add new questions for the user under **Pending** in
+`extraction/decisions.md`, and don't repeat ones already decided. Commit with a message like
 `build: 142 rules from pdf 1-215` (or `preview build: pdf 1-60`). Then give
 the user the counts and the items needing their judgment.

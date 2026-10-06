@@ -15,6 +15,9 @@ The rules are distilled, page by page, from أحمد الغامدي، «العر
   page count, and a `carry` note for a pattern cut off at a page break.
 - `extraction/log.md` gets one line per processed page. Append only.
 - `extraction/candidates.md` holds the raw phase 1 output. Append only.
+- `extraction/decisions.md` holds the user's rulings, which every build applies
+  over the book and Claude's judgment. Questions awaiting an answer sit
+  under its **Pending** heading.
 - `scripts/page.sh N` renders PDF page N to a small grayscale PNG and prints
   its path.
 - `.claude/skills/extract-next/` is the `/extract-next` command that runs one
